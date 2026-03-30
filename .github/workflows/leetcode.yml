@@ -25,40 +25,57 @@ jobs:
         run: |
           node <<EOF
           const fs = require("fs");
-          const axios = require("axios");
+const path = require("path");
 
-          const username = "yadavxprakhar";
+function getProblems(dir) {
+  let problems = [];
 
-          async function run() {
-            const res = await axios.get(
-              "https://leetcode-stats-api.herokuapp.com/" + username
-            );
+  const files = fs.readdirSync(dir);
 
-            const data = res.data;
+  for (let file of files) {
+    const fullPath = path.join(dir, file);
 
-            const section = `
-## 📈 Progress
+    if (fs.statSync(fullPath).isDirectory()) {
+      problems.push({
+        name: file,
+        path: fullPath
+      });
+    }
+  }
 
-- Total Solved: ${data.totalSolved}
-- Easy: ${data.easySolved}
-- Medium: ${data.mediumSolved}
-- Hard: ${data.hardSolved}
+  return problems;
+}
 
----
+function generateTable(problems) {
+  let table = `| Problem | Link |\n|--------|------|\n`;
+
+  problems.forEach(p => {
+    table += `| ${p.name} | [View](./${p.name}) |\n`;
+  });
+
+  return table;
+}
+
+function updateReadme(table) {
+  let readme = fs.readFileSync("README.md", "utf-8");
+
+  const newSection = `
+<!-- START_TABLE -->
+${table}
+<!-- END_TABLE -->
 `;
 
-            let readme = fs.readFileSync("README.md", "utf-8");
+  readme = readme.replace(
+    /<!-- START_TABLE -->[\s\S]*<!-- END_TABLE -->/,
+    newSection
+  );
 
-            if (readme.includes("## 📈 Progress")) {
-              readme = readme.replace(/## 📈 Progress[\\s\\S]*?---/, section);
-            } else {
-              readme += section;
-            }
+  fs.writeFileSync("README.md", readme);
+}
 
-            fs.writeFileSync("README.md", readme);
-          }
-
-          run();
+const problems = getProblems(".");
+const table = generateTable(problems);
+updateReadme(table);
           EOF
 
       - name: Commit changes
