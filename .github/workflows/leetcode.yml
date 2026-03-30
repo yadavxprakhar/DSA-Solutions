@@ -1,0 +1,70 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Update README
+        run: |
+          node <<EOF
+          const fs = require("fs");
+          const axios = require("axios");
+
+          const username = "yadavxprakhar";
+
+          async function run() {
+            const res = await axios.get(
+              "https://leetcode-stats-api.herokuapp.com/" + username
+            );
+
+            const data = res.data;
+
+            const section = `
+## 📈 Progress
+
+- Total Solved: ${data.totalSolved}
+- Easy: ${data.easySolved}
+- Medium: ${data.mediumSolved}
+- Hard: ${data.hardSolved}
+
+---
+`;
+
+            let readme = fs.readFileSync("README.md", "utf-8");
+
+            if (readme.includes("## 📈 Progress")) {
+              readme = readme.replace(/## 📈 Progress[\\s\\S]*?---/, section);
+            } else {
+              readme += section;
+            }
+
+            fs.writeFileSync("README.md", readme);
+          }
+
+          run();
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto update LeetCode stats" || echo "No changes"
+          git push
