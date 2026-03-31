@@ -78,8 +78,18 @@ trees/
 
 ## 📋 Problem List
 
+
 <!-- START_TABLE -->
+| Problem | Link |
+|--------|------|
+| .github | [View](./.github) |
+| 14-longest-common-prefix | [View](./14-longest-common-prefix) |
+| 151-reverse-words-in-a-string | [View](./151-reverse-words-in-a-string) |
+| 2032-largest-odd-number-in-string | [View](./2032-largest-odd-number-in-string) |
+| scripts | [View](./scripts) |
+
 <!-- END_TABLE -->
+
 
 ---
 
