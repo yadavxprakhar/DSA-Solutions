@@ -26,10 +26,10 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Metric | Count |
 |--------|-------|
-| 🟢 Easy | 35 |
-| 🟡 Medium | 38 |
-| 🔴 Hard | 4 |
-| 📦 **Total Solved** | **77** |
+| 🟢 Easy | 0 |
+| 🟡 Medium | 3 |
+| 🔴 Hard | 0 |
+| 📦 **Total Solved** | **3** |
 <!-- STATS:END -->
 
 ---
@@ -91,16 +91,7 @@ Leetcode-Solutions/
 <!-- TOPICS:START -->
 | Topic | Solved | Easy | Medium | Hard |
 |-------|--------|------|--------|------|
-| Arrays | 0 | 0 | 0 | 0 |
-| Strings | 3 | 2 | 1 | 0 |
-| Linked List | 0 | 0 | 0 | 0 |
-| Trees | 0 | 0 | 0 | 0 |
-| Graphs | 0 | 0 | 0 | 0 |
-| Dynamic Programming | 0 | 0 | 0 | 0 |
-| Sliding Window | 0 | 0 | 0 | 0 |
-| Two Pointers | 0 | 0 | 0 | 0 |
-| Binary Search | 0 | 0 | 0 | 0 |
-| Stack/Queue | 0 | 0 | 0 | 0 |
+| Strings | 3 | 0 | 3 | 0 |
 <!-- TOPICS:END -->
 
 ---
@@ -110,9 +101,9 @@ Leetcode-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|---------|
-| 14 | Longest Common Prefix | 🟢 Easy | Strings | [View →](./topics/strings/14-longest-common-prefix/) |
-| 151 | Reverse Words in a String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
-| 2032 | Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
+| 2032 | Largest Odd Number In String | 🟡 Medium | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
+| 151 | Reverse Words In A String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
+| 14 | Longest Common Prefix | 🟡 Medium | Strings | [View →](./topics/strings/14-longest-common-prefix/) |
 <!-- RECENT:END -->
 
 ---
