@@ -94,9 +94,19 @@ jobs:
                   if not os.path.isdir(topic_path):
                       continue
                   for problem in os.listdir(topic_path):
-                      # Expected: {number}-{slug} e.g. "1-two-sum"
+                      problem_path = os.path.join(topic_path, problem)
+
+                      # ✅ Ignore files like .gitkeep
+                      if not os.path.isdir(problem_path):
+                          continue
+
+                      # ✅ Ignore hidden files/folders
+                      if problem.startswith('.'):
+                          continue
+
+                      # Expected: {number}-{slug}
                       if not re.match(r'^\d+-[a-z0-9-]+$', problem):
-                          errors.append(f"❌ Bad folder name: {topic_path}/{problem}")
+                          errors.append(f"❌ Bad folder name: {problem_path}")
                           errors.append(f"   Expected format: {{number}}-{{kebab-case-name}}")
 
           if errors:
