@@ -27,9 +27,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 | Metric | Count |
 |--------|-------|
 | 🟢 Easy | 0 |
-| 🟡 Medium | 3 |
+| 🟡 Medium | 4 |
 | 🔴 Hard | 0 |
-| 📦 **Total Solved** | **3** |
+| 📦 **Total Solved** | **4** |
 <!-- STATS:END -->
 
 ---
@@ -91,7 +91,7 @@ Leetcode-Solutions/
 <!-- TOPICS:START -->
 | Topic | Solved | Easy | Medium | Hard |
 |-------|--------|------|--------|------|
-| Strings | 3 | 0 | 3 | 0 |
+| Strings | 4 | 0 | 4 | 0 |
 <!-- TOPICS:END -->
 
 ---
@@ -101,6 +101,7 @@ Leetcode-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|---------|
+| 205 | Isomorphic Strings | 🟡 Medium | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
 | 2032 | Largest Odd Number In String | 🟡 Medium | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
 | 151 | Reverse Words In A String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
 | 14 | Longest Common Prefix | 🟡 Medium | Strings | [View →](./topics/strings/14-longest-common-prefix/) |
