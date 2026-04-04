@@ -26,8 +26,8 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Metric | Count |
 |--------|-------|
-| 🟢 Easy | 0 |
-| 🟡 Medium | 7 |
+| 🟢 Easy | 5 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
 | 📦 **Total Solved** | **7** |
 <!-- STATS:END -->
@@ -86,7 +86,7 @@ Leetcode-Solutions/
 <!-- TOPICS:START -->
 | Topic | Solved | Easy | Medium | Hard |
 |-------|--------|------|--------|------|
-| Strings | 7 | 0 | 7 | 0 |
+| Strings | 7 | 5 | 2 | 0 |
 <!-- TOPICS:END -->
 
 ---
@@ -96,13 +96,13 @@ Leetcode-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|---------|
-| 812 | Rotate String | 🟡 Medium | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 812 | Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
 | 451 | Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 242 | Valid Anagram | 🟡 Medium | Strings | [View →](./topics/strings/242-valid-anagram/) |
-| 205 | Isomorphic Strings | 🟡 Medium | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
-| 2032 | Largest Odd Number In String | 🟡 Medium | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
-| 151 | Reverse Words In A String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
-| 14 | Longest Common Prefix | 🟡 Medium | Strings | [View →](./topics/strings/14-longest-common-prefix/) |
+| 242 | Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
+| 205 | Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
+| 2032 | Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
+| 151 | Reverse Words in a String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
+| 14 | Longest Common Prefix | 🟢 Easy | Strings | [View →](./topics/strings/14-longest-common-prefix/) |
 <!-- RECENT:END -->
 
 ---
