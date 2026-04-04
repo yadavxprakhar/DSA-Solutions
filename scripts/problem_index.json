@@ -1,0 +1,30 @@
+{
+  "812-rotate-string": {
+    "title": "Rotate String",
+    "difficulty": "easy"
+  },
+  "451-sort-characters-by-frequency": {
+    "title": "Sort Characters By Frequency",
+    "difficulty": "medium"
+  },
+  "242-valid-anagram": {
+    "title": "Valid Anagram",
+    "difficulty": "easy"
+  },
+  "205-isomorphic-strings": {
+    "title": "Isomorphic Strings",
+    "difficulty": "easy"
+  },
+  "2032-largest-odd-number-in-string": {
+    "title": "Largest Odd Number in String",
+    "difficulty": "easy"
+  },
+  "151-reverse-words-in-a-string": {
+    "title": "Reverse Words in a String",
+    "difficulty": "medium"
+  },
+  "14-longest-common-prefix": {
+    "title": "Longest Common Prefix",
+    "difficulty": "easy"
+  }
+}
