@@ -27,9 +27,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 | Metric | Count |
 |--------|-------|
 | 🟢 Easy | 7 |
-| 🟡 Medium | 5 |
+| 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
-| 📦 **Total Solved** | **12** |
+| 📦 **Total Solved** | **13** |
 <!-- STATS:END -->
 
 ---
@@ -87,6 +87,7 @@ Leetcode-Solutions/
 | Topic | Solved | Easy | Medium | Hard |
 |-------|--------|------|--------|------|
 | Strings | 12 | 7 | 5 | 0 |
+| Linked List | 1 | 0 | 1 | 0 |
 <!-- TOPICS:END -->
 
 ---

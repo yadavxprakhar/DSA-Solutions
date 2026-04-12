@@ -46,5 +46,9 @@
   "13-roman-to-integer": {
     "title": "Roman to Integer",
     "difficulty": "easy"
+  },
+  "237-delete-node-in-a-linked-list": {
+    "title": "Delete Node in a Linked List",
+    "difficulty": "medium"
   }
 }
