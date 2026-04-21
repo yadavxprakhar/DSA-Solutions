@@ -78,5 +78,165 @@
   "838-design-linked-list": {
     "title": "Design Linked List",
     "difficulty": "medium"
+  },
+  "lc-908-middle-of-the-linked-list": {
+    "title": "Middle of the Linked List",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-838-design-linked-list": {
+    "title": "Design Linked List",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-237-delete-node-in-a-linked-list": {
+    "title": "Delete Node in a Linked List",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-206-reverse-linked-list": {
+    "title": "Reverse Linked List",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-203-remove-linked-list-elements": {
+    "title": "Remove Linked List Elements",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-19-remove-nth-node-from-end-of-list": {
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-142-linked-list-cycle-ii": {
+    "title": "Linked List Cycle II",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-141-linked-list-cycle": {
+    "title": "Linked List Cycle",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-812-rotate-string": {
+    "title": "Rotate String",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-8-string-to-integer-atoi": {
+    "title": "String to Integer (atoi)",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-5-longest-palindromic-substring": {
+    "title": "Longest Palindromic Substring",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-451-sort-characters-by-frequency": {
+    "title": "Sort Characters By Frequency",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-242-valid-anagram": {
+    "title": "Valid Anagram",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-205-isomorphic-strings": {
+    "title": "Isomorphic Strings",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-2032-largest-odd-number-in-string": {
+    "title": "Largest Odd Number in String",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-1890-sum-of-beauty-of-all-substrings": {
+    "title": "Sum of Beauty of All Substrings",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-1737-maximum-nesting-depth-of-the-parentheses": {
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-151-reverse-words-in-a-string": {
+    "title": "Reverse Words in a String",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-14-longest-common-prefix": {
+    "title": "Longest Common Prefix",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-13-roman-to-integer": {
+    "title": "Roman to Integer",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "gfg-basic-linked-list-end-insertion": {
+    "title": "Linked List End Insertion",
+    "difficulty": "basic",
+    "platform": "gfg"
+  },
+  "gfg-basic-length-of-linked-list": {
+    "title": "Length of Linked List",
+    "difficulty": "basic",
+    "platform": "gfg"
+  },
+  "gfg-easy-search-in-linked-list": {
+    "title": "Search in Linked List",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-reverse-a-doubly-linked-list": {
+    "title": "Reverse a Doubly Linked List",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-linked-list-insertion-at-beginning": {
+    "title": "Linked List Insertion At Beginning",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-insertion-at-doubly-linked-list": {
+    "title": "Insertion at doubly linked list",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-insertion-at-a-given-position-in-a-linked-list": {
+    "title": "Insertion at a Given Position in a Linked List",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-delete-in-a-singly-linked-list": {
+    "title": "Delete in a Singly Linked List",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-delete-in-a-doubly-linked-list": {
+    "title": "Delete in a Doubly Linked List",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-delete-head-of-doubly-linked-list": {
+    "title": "Delete Head of Doubly Linked List",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-create-a-doubly-linked-list-from-a-given-array": {
+    "title": "Create a Doubly Linked List from a given array",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-medium-find-length-of-loop": {
+    "title": "Find length of Loop",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
