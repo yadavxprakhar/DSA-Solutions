@@ -1,0 +1,61 @@
+name: 🔥 Update Recent Activity
+
+on:
+  push:
+    branches: [main]
+    paths:
+      # Trigger on any new solution landing in these locations
+      - 'topics/**'              # LC organized solutions
+      - 'Difficulty: **'         # GFG solutions
+      - '[0-9]*/**'              # LC root LeetSync dumps
+  schedule:
+    # Nightly at 12:30 AM IST (7:00 PM UTC) — catches any missed pushes
+    - cron: '0 19 * * *'
+  workflow_dispatch:             # Manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-recent:
+    name: Refresh Recent Activity Table
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Full checkout with complete git history ─────────────
+      # fetch-depth: 0 is CRITICAL — we use git log timestamps
+      # to sort problems. Shallow clone (default) would give wrong dates.
+      - name: 📥 Checkout with full history
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      # ── 2. Python setup ────────────────────────────────────────
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # No pip installs needed — script uses only stdlib + git CLI
+
+      # ── 3. Run the recent activity script ──────────────────────
+      - name: 🔥 Update Recent Activity
+        run: python scripts/update_recent_activity.py
+
+      # ── 4. Commit only if README actually changed ───────────────
+      - name: 💾 Commit changes if any
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+
+          git add README.md scripts/recent_cache.json
+
+          # Check if there's anything staged to commit
+          if git diff --staged --quiet; then
+            echo "✅ No changes to commit — Recent Activity already current."
+          else
+            git commit -m "chore(recent): auto-update Recent Activity table [skip ci]"
+            git push
+            echo "✅ README updated and pushed."
+          fi
