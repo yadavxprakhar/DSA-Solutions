@@ -111,6 +111,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 234 | 🟠 LC Palindrome Linked List | ⚪ Unknown | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/234-palindrome-linked-list/palindrome-linked-list.java) |
 | 838 | 🟠 LC Design Linked List | 🟡 Medium | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/838-design-linked-list/design-linked-list.java) |
 | 142 | 🟠 LC Linked List Cycle Ii | 🟡 Medium | Linked List | 2026-04-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/142-linked-list-cycle-ii/linked-list-cycle-ii.java) |
 | 141 | 🟠 LC Linked List Cycle | 🟢 Easy | Linked List | 2026-04-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/141-linked-list-cycle/linked-list-cycle.java) |
@@ -122,7 +123,6 @@ DSA-Solutions/
 | — | 🔵 GFG Delete Head of Doubly Linked List | 🟢 Easy | Linked List | 2026-04-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Delete%20Head%20of%20Doubly%20Linked%20List/delete-head-of-doubly-linked-list.java) |
 | 908 | 🟠 LC Middle Of The Linked List | 🟢 Easy | Linked List | 2026-04-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
 | 206 | 🟠 LC Reverse Linked List | 🟢 Easy | Linked List | 2026-04-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/206-reverse-linked-list/reverse-linked-list.java) |
-| — | 🔵 GFG Create a Doubly Linked List from a given array | 🟢 Easy | Linked List | 2026-04-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Create%20a%20Doubly%20Linked%20List%20from%20a%20given%20array/create-a-doubly-linked-list-from-a-given-array.java) |
 <!-- RECENT:END -->
 
 ---
