@@ -1,18 +1,16 @@
 #!/usr/bin/env python3
 """
-update_readme.py
-────────────────
-Scans the topics/ directory, counts problems by difficulty and topic,
-then rewrites the stats sections in README.md between special markers.
+update_readme.py  ─  Dual-platform DSA stats engine
+═════════════════════════════════════════════════════
+Supports: LeetCode (topics/ + {num}-{slug}/) + GeeksforGeeks (Difficulty: {level}/{name}/)
 
-KEY FIX: Fetches real difficulty from LeetCode's GraphQL API for any
-problem not already cached in problem_index.json. Auto-saves new
-entries back to the index so each problem is only fetched once.
+README markers patched:
+  <!-- STATS:START -->        ... <!-- STATS:END -->
+  <!-- PLATFORM:START -->     ... <!-- PLATFORM:END -->
+  <!-- TOPICS:START -->       ... <!-- TOPICS:END -->
+  <!-- RECENT:START -->       ... <!-- RECENT:END -->
 
-Markers used:
-  <!-- STATS:START --> ... <!-- STATS:END -->
-  <!-- TOPICS:START --> ... <!-- TOPICS:END -->
-  <!-- RECENT:START --> ... <!-- RECENT:END -->
+Author: auto-generated for yadavxprakhar/DSA-Solutions
 """
 
 import os
@@ -24,231 +22,412 @@ from datetime import datetime
 from pathlib import Path
 from collections import defaultdict
 
-# ─── Config ───────────────────────────────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════════════
+# CONFIG
+# ══════════════════════════════════════════════════════════════════════════════
 
 REPO_ROOT   = Path(__file__).parent.parent
-TOPICS_DIR  = REPO_ROOT / "topics"
 README_PATH = REPO_ROOT / "README.md"
 INDEX_FILE  = REPO_ROOT / "scripts" / "problem_index.json"
+
+# ── LeetCode paths ──
+LC_TOPICS_DIR = REPO_ROOT / "topics"          # organized problems
+LC_ROOT_PATTERN = re.compile(r'^(\d+)-(.+)$') # raw LeetSync dumps in root
+
+# ── GFG paths ──
+# GFG-to-GitHub extension creates: Difficulty: {Basic|Easy|Medium|Hard}/{Problem Name}/
+GFG_DIFFICULTY_RE = re.compile(
+    r'^Difficulty:\s*(Basic|Easy|Medium|Hard)$',
+    re.IGNORECASE
+)
+
+# ── Difficulty normalization ──
+LC_DIFFICULTIES  = ("easy", "medium", "hard")
+GFG_DIFFICULTIES = ("basic", "easy", "medium", "hard")
 
 DIFFICULTY_EMOJI = {
     "easy":   "🟢 Easy",
     "medium": "🟡 Medium",
     "hard":   "🔴 Hard",
+    "basic":  "🔵 Basic",
+}
+
+PLATFORM_BADGE = {
+    "leetcode": "![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white)",
+    "gfg":      "![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)",
 }
 
 TOPIC_ORDER = [
     "arrays", "strings", "linked-list", "trees", "graphs",
     "dynamic-programming", "sliding-window", "two-pointers",
     "binary-search", "stack-queue", "backtracking", "greedy",
-    "heap", "math"
+    "heap", "math",
 ]
 
-# LeetCode GraphQL endpoint (public, no auth needed)
-LEETCODE_API = "https://leetcode.com/graphql"
-
-GRAPHQL_QUERY = """
+LEETCODE_API   = "https://leetcode.com/graphql"
+LEETCODE_QUERY = """
 query getProblem($titleSlug: String!) {
   question(titleSlug: $titleSlug) {
     title
     difficulty
-    topicTags {
-      slug
-    }
   }
 }
 """
 
-# ─── LeetCode API ─────────────────────────────────────────────────────────────
-
-def fetch_difficulty_from_leetcode(problem_slug: str) -> dict:
-    """
-    Calls LeetCode's GraphQL API to get real difficulty + title for a problem.
-    Returns dict with 'title' and 'difficulty', or empty dict on failure.
-    """
-    try:
-        response = requests.post(
-            LEETCODE_API,
-            json={"query": GRAPHQL_QUERY, "variables": {"titleSlug": problem_slug}},
-            headers={
-                "Content-Type": "application/json",
-                "User-Agent": "Mozilla/5.0",
-                "Referer": "https://leetcode.com",
-            },
-            timeout=10,
-        )
-        if response.status_code != 200:
-            print(f"   ⚠️  API returned {response.status_code} for '{problem_slug}'")
-            return {}
-
-        data = response.json()
-        question = data.get("data", {}).get("question")
-
-        if not question:
-            print(f"   ⚠️  No data returned for '{problem_slug}'")
-            return {}
-
-        return {
-            "title":      question["title"],
-            "difficulty": question["difficulty"].lower(),  # "Easy" -> "easy"
-        }
-
-    except requests.exceptions.RequestException as e:
-        print(f"   ⚠️  Network error fetching '{problem_slug}': {e}")
-        return {}
-
-# ─── Index Management ─────────────────────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════════════
+# INDEX  (problem_index.json)
+# ══════════════════════════════════════════════════════════════════════════════
 
 def load_index() -> dict:
-    """Load the problem index JSON. Returns empty dict if not found."""
     if INDEX_FILE.exists():
         with open(INDEX_FILE) as f:
             raw = json.load(f)
-        # Strip comment keys that start with "_"
         return {k: v for k, v in raw.items() if not k.startswith("_")}
     return {}
 
+
 def save_index(index: dict):
-    """Save updated index back to disk."""
     with open(INDEX_FILE, "w") as f:
         json.dump(index, f, indent=2)
-    print(f"   💾 Saved {len(index)} entries to problem_index.json")
+    print(f"   💾  Saved {len(index)} entries → problem_index.json")
 
-def get_problem_meta(index: dict, problem_key: str, problem_slug: str) -> dict:
+
+# ══════════════════════════════════════════════════════════════════════════════
+# LEETCODE API
+# ══════════════════════════════════════════════════════════════════════════════
+
+def fetch_lc_difficulty(slug: str) -> dict:
+    """Hit LeetCode GraphQL. Returns {title, difficulty} or {}."""
+    try:
+        r = requests.post(
+            LEETCODE_API,
+            json={"query": LEETCODE_QUERY, "variables": {"titleSlug": slug}},
+            headers={
+                "Content-Type": "application/json",
+                "User-Agent":   "Mozilla/5.0",
+                "Referer":      "https://leetcode.com",
+            },
+            timeout=10,
+        )
+        if r.status_code != 200:
+            print(f"   ⚠️   LC API {r.status_code} for '{slug}'")
+            return {}
+        q = r.json().get("data", {}).get("question")
+        if not q:
+            return {}
+        return {"title": q["title"], "difficulty": q["difficulty"].lower()}
+    except requests.exceptions.RequestException as e:
+        print(f"   ⚠️   LC API error for '{slug}': {e}")
+        return {}
+
+
+def resolve_lc_meta(index: dict, key: str, slug: str) -> dict:
     """
-    Returns metadata for a problem. Priority order:
-      1. Already in index with valid difficulty -> return cached (no API call)
-      2. Not in index -> fetch from LeetCode API -> cache it -> return it
-      3. API fails -> fallback to slug-derived title + 'medium'
+    Return cached LC metadata, or fetch from API if missing/invalid.
+    Mutates index in-place so caller can detect whether it changed.
     """
-    if problem_key in index:
-        entry = index[problem_key]
-        if entry.get("difficulty") and entry["difficulty"] in ("easy", "medium", "hard"):
-            return entry
+    cached = index.get(key, {})
+    if cached.get("difficulty") in LC_DIFFICULTIES and cached.get("platform") == "leetcode":
+        return cached
 
-    # Not cached or malformed — fetch from LeetCode
-    print(f"   🌐 Fetching from LeetCode API: {problem_slug}")
-    api_data = fetch_difficulty_from_leetcode(problem_slug)
-    time.sleep(0.3)  # Be polite to LeetCode's servers
+    print(f"   🌐  Fetching LC: {slug}")
+    data = fetch_lc_difficulty(slug)
+    time.sleep(0.3)
 
-    if api_data:
-        existing = index.get(problem_key, {})
-        existing.update({
-            "title":      api_data["title"],
-            "difficulty": api_data["difficulty"],
-        })
-        index[problem_key] = existing
-        print(f"   ✅ {api_data['title']} -> {api_data['difficulty'].upper()}")
-        return existing
+    if data:
+        entry = {**cached, **data, "platform": "leetcode"}
+        index[key] = entry
+        print(f"   ✅  {data['title']} → {data['difficulty'].upper()}")
+        return entry
 
-    # API failed — safe fallback
-    print(f"   ❌ Could not fetch difficulty for '{problem_slug}', defaulting to medium")
+    # API failed — keep existing or create fallback (will retry next run)
     fallback = {
-        "title":      problem_slug.replace("-", " ").title(),
+        "title":      slug.replace("-", " ").title(),
         "difficulty": "medium",
+        "platform":   "leetcode",
     }
-    index[problem_key] = fallback
-    return fallback
+    index[key] = {**fallback, **cached}  # cached fields win if present
+    return index[key]
 
-# ─── Scan Problems ────────────────────────────────────────────────────────────
 
-def scan_problems(index: dict) -> dict:
-    """Walk topics/ dir, resolve difficulty via API if needed, build stats."""
-    stats = {
-        "total":    0,
-        "easy":     0,
-        "medium":   0,
-        "hard":     0,
-        "by_topic": defaultdict(lambda: {"total": 0, "easy": 0, "medium": 0, "hard": 0}),
-        "recent":   [],
+# ══════════════════════════════════════════════════════════════════════════════
+# GFG PARSER
+# ══════════════════════════════════════════════════════════════════════════════
+
+def slugify(name: str) -> str:
+    """'Find length of Loop' → 'find-length-of-loop'"""
+    return re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
+
+
+def resolve_gfg_meta(index: dict, key: str, problem_name: str, difficulty: str) -> dict:
+    """
+    GFG metadata comes directly from folder structure — no API needed.
+    Upserts into index for caching purposes.
+    """
+    cached = index.get(key, {})
+    if cached.get("platform") == "gfg" and cached.get("difficulty"):
+        return cached
+
+    entry = {
+        "title":      problem_name,
+        "difficulty": difficulty.lower(),  # basic / easy / medium / hard
+        "platform":   "gfg",
     }
+    index[key] = {**entry, **{k: v for k, v in cached.items() if v}}
+    return index[key]
 
-    if not TOPICS_DIR.exists():
-        print(f"⚠️  topics/ directory not found at {TOPICS_DIR}")
-        return stats
 
-    index_updated = False
+# ══════════════════════════════════════════════════════════════════════════════
+# SCANNERS
+# ══════════════════════════════════════════════════════════════════════════════
 
-    for topic_dir in sorted(TOPICS_DIR.iterdir()):
-        if not topic_dir.is_dir():
+def scan_leetcode(index: dict) -> list[dict]:
+    """
+    Scan topics/{topic}/{num}-{slug}/ for organized LC problems.
+    Falls back to scanning root {num}-{slug}/ for unorganized LeetSync dumps.
+    De-duplicates by problem number — topics/ wins over root.
+    """
+    problems = {}  # num → problem dict
+
+    # ── Pass 1: topics/ (authoritative, organized) ──
+    if LC_TOPICS_DIR.exists():
+        for topic_dir in sorted(LC_TOPICS_DIR.iterdir()):
+            if not topic_dir.is_dir():
+                continue
+            topic = topic_dir.name
+            for prob_dir in sorted(topic_dir.iterdir(), reverse=True):
+                if not prob_dir.is_dir():
+                    continue
+                m = LC_ROOT_PATTERN.match(prob_dir.name)
+                if not m:
+                    continue
+                num, slug = m.group(1), m.group(2)
+                key = f"lc-{num}-{slug}"
+                meta = resolve_lc_meta(index, key, slug)
+                java = list(prob_dir.glob("*.java"))
+                mtime = max(f.stat().st_mtime for f in java) if java else 0
+                problems[num] = {
+                    "platform":   "leetcode",
+                    "num":        num,
+                    "slug":       slug,
+                    "key":        key,
+                    "title":      meta.get("title", slug.replace("-", " ").title()),
+                    "difficulty": meta.get("difficulty", "medium"),
+                    "topic":      topic,
+                    "path":       f"./topics/{topic}/{prob_dir.name}/",
+                    "mtime":      mtime,
+                    "source":     "topics",
+                }
+
+    # ── Pass 2: root {num}-{slug}/ (unorganized LeetSync) — only if not in topics ──
+    for item in sorted(REPO_ROOT.iterdir()):
+        if not item.is_dir():
             continue
-        topic = topic_dir.name
+        m = LC_ROOT_PATTERN.match(item.name)
+        if not m:
+            continue
+        num, slug = m.group(1), m.group(2)
+        if num in problems:
+            continue  # already captured from topics/
+        key = f"lc-{num}-{slug}"
+        meta = resolve_lc_meta(index, key, slug)
+        java = list(item.glob("*.java"))
+        mtime = max(f.stat().st_mtime for f in java) if java else 0
+        problems[num] = {
+            "platform":   "leetcode",
+            "num":        num,
+            "slug":       slug,
+            "key":        key,
+            "title":      meta.get("title", slug.replace("-", " ").title()),
+            "difficulty": meta.get("difficulty", "medium"),
+            "topic":      "uncategorized",
+            "path":       f"./{item.name}/",
+            "mtime":      mtime,
+            "source":     "root",
+        }
 
-        for problem_dir in sorted(topic_dir.iterdir(), reverse=True):
-            if not problem_dir.is_dir():
+    return list(problems.values())
+
+
+def scan_gfg(index: dict) -> list[dict]:
+    """
+    Scan root for GFG-to-GitHub folder pattern:
+      Difficulty: Basic/
+      Difficulty: Easy/
+      Difficulty: Medium/
+      Difficulty: Hard/
+    Each contains one subfolder per problem named after the problem.
+    """
+    problems = []
+    seen_keys = set()
+
+    for diff_dir in sorted(REPO_ROOT.iterdir()):
+        if not diff_dir.is_dir():
+            continue
+        m = GFG_DIFFICULTY_RE.match(diff_dir.name)
+        if not m:
+            continue
+        difficulty = m.group(1).lower()  # basic / easy / medium / hard
+
+        for prob_dir in sorted(diff_dir.iterdir(), reverse=True):
+            if not prob_dir.is_dir():
                 continue
+            problem_name = prob_dir.name  # "Find length of Loop"
+            slug = slugify(problem_name)
+            key  = f"gfg-{difficulty}-{slug}"
 
-            # Parse: "1-two-sum" -> num="1", slug="two-sum"
-            match = re.match(r'^(\d+)-(.+)$', problem_dir.name)
-            if not match:
+            if key in seen_keys:
                 continue
+            seen_keys.add(key)
 
-            problem_num  = match.group(1)
-            problem_slug = match.group(2)
-            problem_key  = f"{problem_num}-{problem_slug}"
+            meta = resolve_gfg_meta(index, key, problem_name, difficulty)
+            java = list(prob_dir.glob("*.java")) + list(prob_dir.glob("*.cpp"))
+            mtime = max(f.stat().st_mtime for f in java) if java else 0
 
-            # THE FIX: resolve from API if not already cached
-            before_count = len(index)
-            meta = get_problem_meta(index, problem_key, problem_slug)
-            if len(index) != before_count:
-                index_updated = True
+            # Best-guess topic from slug keywords
+            topic = infer_topic(slug)
 
-            difficulty   = meta.get("difficulty", "medium")
-            display_name = meta.get("title", problem_slug.replace("-", " ").title())
-
-            java_files = list(problem_dir.glob("*.java"))
-            mtime = max(f.stat().st_mtime for f in java_files) if java_files else 0
-
-            stats["total"] += 1
-            stats[difficulty] += 1
-            stats["by_topic"][topic]["total"]    += 1
-            stats["by_topic"][topic][difficulty] += 1
-
-            stats["recent"].append({
-                "num":        problem_num,
-                "title":      display_name,
-                "difficulty": difficulty,
+            problems.append({
+                "platform":   "gfg",
+                "num":        None,
+                "slug":       slug,
+                "key":        key,
+                "title":      meta.get("title", problem_name),
+                "difficulty": meta.get("difficulty", difficulty),
                 "topic":      topic,
-                "path":       f"./topics/{topic}/{problem_dir.name}/",
+                "path":       f"./{diff_dir.name}/{prob_dir.name}/",
                 "mtime":      mtime,
             })
 
-    if index_updated:
-        save_index(index)
+    return problems
+
+
+TOPIC_KEYWORDS = {
+    "linked-list":           ["linked", "list", "node", "cycle", "loop", "lru", "flatten"],
+    "trees":                 ["tree", "bst", "binary", "inorder", "preorder", "postorder", "height", "diameter", "lca"],
+    "graphs":                ["graph", "bfs", "dfs", "island", "path", "connected", "topological", "cycle"],
+    "dynamic-programming":   ["dp", "knapsack", "subsequence", "substring", "partition", "coin", "jump", "climb"],
+    "arrays":                ["array", "subarray", "rotate", "sort", "search", "matrix", "spiral", "kadane"],
+    "strings":               ["string", "palindrome", "anagram", "prefix", "suffix", "character", "reverse", "pattern"],
+    "sliding-window":        ["window", "longest", "maximum subarray"],
+    "two-pointers":          ["two pointer", "container", "trap", "three sum"],
+    "binary-search":         ["binary search", "sorted", "rotated", "peak", "median"],
+    "stack-queue":           ["stack", "queue", "monotonic", "bracket", "parenthes"],
+    "backtracking":          ["subset", "permutation", "combination", "backtrack", "n-queen", "sudoku"],
+    "heap":                  ["heap", "priority", "kth largest", "kth smallest", "merge k"],
+    "greedy":                ["greedy", "activity", "job schedule", "minimum cost"],
+    "math":                  ["prime", "gcd", "lcm", "factorial", "fibonacci", "power", "sqrt"],
+}
+
+def infer_topic(slug: str) -> str:
+    """Guess topic from problem slug keywords."""
+    slug_lower = slug.lower()
+    for topic, keywords in TOPIC_KEYWORDS.items():
+        if any(kw in slug_lower for kw in keywords):
+            return topic
+    return "uncategorized"
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# STATS BUILDER
+# ══════════════════════════════════════════════════════════════════════════════
+
+def build_stats(lc_problems: list, gfg_problems: list) -> dict:
+    stats = {
+        "lc":  {"total": 0, "easy": 0, "medium": 0, "hard": 0},
+        "gfg": {"total": 0, "basic": 0, "easy": 0, "medium": 0, "hard": 0},
+        "total": 0,
+        "by_topic": defaultdict(lambda: {
+            "total": 0, "easy": 0, "medium": 0, "hard": 0, "basic": 0
+        }),
+        "recent": [],
+    }
+
+    for p in lc_problems:
+        d = p["difficulty"]
+        stats["lc"]["total"] += 1
+        stats["lc"][d]       = stats["lc"].get(d, 0) + 1
+        stats["total"]       += 1
+        stats["by_topic"][p["topic"]]["total"] += 1
+        stats["by_topic"][p["topic"]][d]        = stats["by_topic"][p["topic"]].get(d, 0) + 1
+        stats["recent"].append(p)
+
+    for p in gfg_problems:
+        d = p["difficulty"]
+        stats["gfg"]["total"] += 1
+        stats["gfg"][d]       = stats["gfg"].get(d, 0) + 1
+        stats["total"]       += 1
+        stats["by_topic"][p["topic"]]["total"] += 1
+        stats["by_topic"][p["topic"]][d]        = stats["by_topic"][p["topic"]].get(d, 0) + 1
+        stats["recent"].append(p)
 
     stats["recent"].sort(key=lambda x: x["mtime"], reverse=True)
     stats["recent"] = stats["recent"][:10]
 
     return stats
 
-# ─── Generate Markdown Sections ───────────────────────────────────────────────
+
+# ══════════════════════════════════════════════════════════════════════════════
+# README SECTION GENERATORS
+# ══════════════════════════════════════════════════════════════════════════════
 
 def make_stats_table(stats: dict) -> str:
-    return f"""| Metric | Count |
-|--------|-------|
-| 🟢 Easy | {stats['easy']} |
-| 🟡 Medium | {stats['medium']} |
-| 🔴 Hard | {stats['hard']} |
-| 📦 **Total Solved** | **{stats['total']}** |"""
+    lc  = stats["lc"]
+    gfg = stats["gfg"]
+    lc_total  = lc["total"]
+    gfg_total = gfg["total"]
+    grand     = stats["total"]
+
+    return f"""\
+| Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
+|----------|----------|---------|-----------|---------|-----------|
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | {lc.get('easy',0)} | {lc.get('medium',0)} | {lc.get('hard',0)} | **{lc_total}** |
+| ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | {gfg.get('basic',0)} | {gfg.get('easy',0)} | {gfg.get('medium',0)} | {gfg.get('hard',0)} | **{gfg_total}** |
+| **Combined** | — | {lc.get('easy',0)+gfg.get('easy',0)} | {lc.get('medium',0)+gfg.get('medium',0)} | {lc.get('hard',0)+gfg.get('hard',0)} | **{grand}** |"""
+
+
+def make_platform_summary(stats: dict) -> str:
+    lc  = stats["lc"]
+    gfg = stats["gfg"]
+    total = stats["total"]
+    lc_pct  = round(lc["total"]  / total * 100) if total else 0
+    gfg_pct = round(gfg["total"] / total * 100) if total else 0
+    return f"""\
+| | LeetCode | GeeksForGeeks |
+|--|----------|---------------|
+| Problems | {lc['total']} ({lc_pct}%) | {gfg['total']} ({gfg_pct}%) |
+| Easy | {lc.get('easy',0)} | {gfg.get('easy',0)} |
+| Medium | {lc.get('medium',0)} | {gfg.get('medium',0)} |
+| Hard | {lc.get('hard',0)} | {gfg.get('hard',0)} |
+| Basic (GFG) | — | {gfg.get('basic',0)} |
+
+> 📦 **Total across both platforms: {total} problems solved**"""
 
 
 def make_topics_table(stats: dict) -> str:
-    rows     = []
     by_topic = stats["by_topic"]
+    rows = []
 
     for topic in TOPIC_ORDER:
         if topic not in by_topic:
             continue
         t    = by_topic[topic]
         name = topic.replace("-", " ").title()
-        rows.append(f"| {name} | {t['total']} | {t['easy']} | {t['medium']} | {t['hard']} |")
+        rows.append(
+            f"| {name} | {t['total']} | {t.get('basic',0)} | {t.get('easy',0)} | {t.get('medium',0)} | {t.get('hard',0)} |"
+        )
 
     for topic, t in by_topic.items():
         if topic not in TOPIC_ORDER:
             name = topic.replace("-", " ").title()
-            rows.append(f"| {name} | {t['total']} | {t['easy']} | {t['medium']} | {t['hard']} |")
+            rows.append(
+                f"| {name} | {t['total']} | {t.get('basic',0)} | {t.get('easy',0)} | {t.get('medium',0)} | {t.get('hard',0)} |"
+            )
 
-    header = "| Topic | Solved | Easy | Medium | Hard |\n|-------|--------|------|--------|------|"
+    header = (
+        "| Topic | Solved | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard |\n"
+        "|-------|--------|----------|---------|-----------|---------|"
+    )
     return header + "\n" + "\n".join(rows) if rows else header
 
 
@@ -257,45 +436,78 @@ def make_recent_table(stats: dict) -> str:
     for p in stats["recent"]:
         diff_emoji    = DIFFICULTY_EMOJI.get(p["difficulty"], "🟡 Medium")
         topic_display = p["topic"].replace("-", " ").title()
+        platform_tag  = PLATFORM_BADGE.get(p["platform"], "")
+        title_cell    = f"{platform_tag} {p['title']}"
         rows.append(
-            f"| {p['num']} | {p['title']} | {diff_emoji} | {topic_display} | [View →]({p['path']}) |"
+            f"| {p.get('num') or '—'} | {title_cell} | {diff_emoji} | {topic_display} | [View →]({p['path']}) |"
         )
 
-    header = "| # | Problem | Difficulty | Topic | Solution |\n|---|---------|------------|-------|---------|"
+    header = (
+        "| # | Problem | Difficulty | Topic | Solution |\n"
+        "|---|---------|------------|-------|---------|"
+    )
     return header + "\n" + "\n".join(rows) if rows else header + "\n| — | No problems yet | — | — | — |"
 
-# ─── Patch README ─────────────────────────────────────────────────────────────
+
+# ══════════════════════════════════════════════════════════════════════════════
+# README PATCHER
+# ══════════════════════════════════════════════════════════════════════════════
 
 def patch_section(content: str, marker: str, new_body: str) -> str:
     pattern     = rf'(<!-- {marker}:START -->)(.*?)(<!-- {marker}:END -->)'
     replacement = rf'\g<1>\n{new_body}\n\g<3>'
-    new_content, count = re.subn(pattern, replacement, content, flags=re.DOTALL)
-    if count == 0:
-        print(f"⚠️  Marker '{marker}' not found in README.md")
-    return new_content
+    result, n   = re.subn(pattern, replacement, content, flags=re.DOTALL)
+    if n == 0:
+        print(f"   ⚠️   Marker '{marker}' not found in README.md — section skipped")
+    return result
 
-# ─── Main ─────────────────────────────────────────────────────────────────────
+
+# ══════════════════════════════════════════════════════════════════════════════
+# MAIN
+# ══════════════════════════════════════════════════════════════════════════════
 
 def main():
-    print("🔍 Scanning problems...")
-    index = load_index()
-    stats = scan_problems(index)
+    print("=" * 60)
+    print("  DSA-Solutions README Updater  —  LeetCode + GFG")
+    print("=" * 60)
 
-    print(f"\n📊 Results: {stats['total']} total | {stats['easy']} easy | {stats['medium']} medium | {stats['hard']} hard")
+    index        = load_index()
+    index_before = json.dumps(index, sort_keys=True)
+
+    print("\n📂 Scanning LeetCode problems...")
+    lc_problems = scan_leetcode(index)
+    print(f"   Found {len(lc_problems)} LC problems")
+
+    print("\n📂 Scanning GeeksForGeeks problems...")
+    gfg_problems = scan_gfg(index)
+    print(f"   Found {len(gfg_problems)} GFG problems")
+
+    # Persist index if anything changed
+    if json.dumps(index, sort_keys=True) != index_before:
+        save_index(index)
+
+    stats = build_stats(lc_problems, gfg_problems)
+
+    print(f"\n📊 Stats:")
+    print(f"   LeetCode  → easy:{stats['lc'].get('easy',0)}  medium:{stats['lc'].get('medium',0)}  hard:{stats['lc'].get('hard',0)}  total:{stats['lc']['total']}")
+    print(f"   GFG       → basic:{stats['gfg'].get('basic',0)}  easy:{stats['gfg'].get('easy',0)}  medium:{stats['gfg'].get('medium',0)}  hard:{stats['gfg'].get('hard',0)}  total:{stats['gfg']['total']}")
+    print(f"   Combined  → {stats['total']}")
 
     print("\n📝 Patching README.md...")
-    with open(README_PATH, "r") as f:
+    with open(README_PATH) as f:
         content = f.read()
 
-    content = patch_section(content, "STATS",  make_stats_table(stats))
-    content = patch_section(content, "TOPICS", make_topics_table(stats))
-    content = patch_section(content, "RECENT", make_recent_table(stats))
+    content = patch_section(content, "STATS",    make_stats_table(stats))
+    content = patch_section(content, "PLATFORM", make_platform_summary(stats))
+    content = patch_section(content, "TOPICS",   make_topics_table(stats))
+    content = patch_section(content, "RECENT",   make_recent_table(stats))
 
     with open(README_PATH, "w") as f:
         f.write(content)
 
-    print(f"✅ README.md updated successfully!")
-    print(f"   Last run: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"✅ Done — {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print("=" * 60)
+
 
 if __name__ == "__main__":
     main()
