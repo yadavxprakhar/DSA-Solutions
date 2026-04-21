@@ -4,8 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'topics/**'
-      - 'daily/**'
+      - 'topics/**'            # LC organized solutions
+      - 'Difficulty: **'       # GFG solutions (GFG-to-GitHub format)
+      - '[0-9]*/**'            # LC root dumps from LeetSync
 
 jobs:
   validate:
@@ -16,104 +17,121 @@ jobs:
       - name: 📥 Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2 # Need previous commit to detect new files
+          fetch-depth: 2
 
       - name: 🔍 Get Changed Files
         id: changed-files
         run: |
           echo "changed=$(git diff --name-only HEAD~1 HEAD | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
-      - name: ✅ Validate Java Solution Files
+      - name: ✅ Validate LeetCode Solutions (topics/)
         run: |
           python3 - <<'EOF'
-          import os
-          import sys
+          import os, sys, re
 
-          changed = "${{ steps.changed-files.outputs.changed }}".split()
-          java_files = [f for f in changed if f.endswith('.java') and 'topics/' in f]
-
-          errors = []
-          warnings = []
-
-          REQUIRED_SECTIONS = [
-              'INTUITION',
-              'APPROACH',
-              'COMPLEXITY',
-              'Time',
-              'Space',
+          changed   = "${{ steps.changed-files.outputs.changed }}".split()
+          lc_files  = [
+              f for f in changed
+              if f.endswith('.java') and 'topics/' in f
           ]
 
-          for filepath in java_files:
+          REQUIRED = ['INTUITION', 'APPROACH', 'COMPLEXITY', 'Time', 'Space']
+          warnings = []
+
+          for filepath in lc_files:
               if not os.path.exists(filepath):
                   continue
-              
-              with open(filepath, 'r') as f:
-                  content = f.read()
-              
-              for section in REQUIRED_SECTIONS:
+              content = open(filepath).read()
+              for section in REQUIRED:
                   if section not in content:
-                      warnings.append(f"⚠️  {filepath}: Missing section '{section}'")
-              
-              # Check for placeholder text that wasn't filled in
+                      warnings.append(f"⚠️  [LC] {filepath}: Missing section '{section}'")
               if 'MM-DD' in content:
-                  warnings.append(f"⚠️  {filepath}: Date not filled in (still shows MM-DD)")
-              
-              if 'Problem Statement' in content and '???' in content:
-                  warnings.append(f"⚠️  {filepath}: Placeholder text detected")
+                  warnings.append(f"⚠️  [LC] {filepath}: Date placeholder not filled in")
 
           if warnings:
-              print("Validation Warnings:")
-              for w in warnings:
-                  print(w)
-              print(f"\n{len(warnings)} warning(s) found. Please update the solution.")
-              # Warnings don't fail the build, just notify
-          
-          if errors:
-              print("\nValidation Errors:")
-              for e in errors:
-                  print(e)
-              sys.exit(1)
-          
-          print(f"✅ Validated {len(java_files)} Java file(s). All good!")
+              print("LeetCode Validation Warnings:")
+              [print(w) for w in warnings]
+          else:
+              print(f"✅ {len(lc_files)} LC Java file(s) validated.")
           EOF
 
-      - name: 📋 Check Folder Naming Convention
+      - name: ✅ Validate GFG Solutions (Difficulty: */)
         run: |
           python3 - <<'EOF'
-          import os
-          import re
-          import sys
+          import os, sys, re
 
-          errors = []
-          
-          for topic_dir in ['topics']:
-              if not os.path.exists(topic_dir):
+          changed   = "${{ steps.changed-files.outputs.changed }}".split()
+          # GFG files match: Difficulty: Easy/Problem Name/Solution.java
+          gfg_files = [
+              f for f in changed
+              if f.startswith('Difficulty:') and f.endswith('.java')
+          ]
+
+          warnings = []
+          for filepath in gfg_files:
+              if not os.path.exists(filepath):
                   continue
-              for topic in os.listdir(topic_dir):
-                  topic_path = os.path.join(topic_dir, topic)
-                  if not os.path.isdir(topic_path):
-                      continue
-                  for problem in os.listdir(topic_path):
-                      problem_path = os.path.join(topic_path, problem)
+              content = open(filepath).read()
+              # GFG solutions have looser requirements — just check non-empty
+              if len(content.strip()) < 50:
+                  warnings.append(f"⚠️  [GFG] {filepath}: File seems empty or too short")
 
-                      # ✅ Ignore files like .gitkeep
-                      if not os.path.isdir(problem_path):
-                          continue
-
-                      # ✅ Ignore hidden files/folders
-                      if problem.startswith('.'):
-                          continue
-
-                      # Expected: {number}-{slug}
-                      if not re.match(r'^\d+-[a-z0-9-]+$', problem):
-                          errors.append(f"❌ Bad folder name: {problem_path}")
-                          errors.append(f"   Expected format: {{number}}-{{kebab-case-name}}")
-
-          if errors:
-              for e in errors:
-                  print(e)
-              sys.exit(1)
-          
-          print("✅ Folder naming conventions are valid!")
+          if warnings:
+              print("GFG Validation Warnings:")
+              [print(w) for w in warnings]
+          else:
+              print(f"✅ {len(gfg_files)} GFG file(s) validated.")
           EOF
 
+      - name: 📋 Check LC Folder Naming Convention
+        run: |
+          python3 - <<'EOF'
+          import os, re, sys
+
+          errors = []
+          topics_dir = 'topics'
+
+          if not os.path.exists(topics_dir):
+              print("⚠️  topics/ not found, skipping naming check.")
+              sys.exit(0)
+
+          for topic in os.listdir(topics_dir):
+              topic_path = os.path.join(topics_dir, topic)
+              if not os.path.isdir(topic_path):
+                  continue
+              for problem in os.listdir(topic_path):
+                  prob_path = os.path.join(topic_path, problem)
+                  if not os.path.isdir(prob_path) or problem.startswith('.'):
+                      continue
+                  if not re.match(r'^\d+-[a-z0-9-]+$', problem):
+                      errors.append(f"❌ Bad folder name: {prob_path}")
+                      errors.append(f"   Expected: {{number}}-{{kebab-case-name}}")
+
+          if errors:
+              [print(e) for e in errors]
+              sys.exit(1)
+
+          print("✅ All LC folder names are valid.")
+          EOF
+
+      - name: 📋 Check GFG Folder Naming Convention
+        run: |
+          python3 - <<'EOF'
+          import os, re, sys
+
+          VALID_DIFFICULTIES = {'Difficulty: Basic', 'Difficulty: Easy',
+                                'Difficulty: Medium', 'Difficulty: Hard'}
+          warnings = []
+
+          for item in os.listdir('.'):
+              if not item.startswith('Difficulty:'):
+                  continue
+              if item not in VALID_DIFFICULTIES:
+                  warnings.append(f"⚠️  Unknown GFG difficulty folder: '{item}'")
+                  warnings.append(f"   Expected one of: {sorted(VALID_DIFFICULTIES)}")
+
+          if warnings:
+              [print(w) for w in warnings]
+          else:
+              print("✅ GFG difficulty folders are valid.")
+          EOF
