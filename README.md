@@ -111,6 +111,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 328 | 🟠 LC Odd Even Linked List | ⚪ Unknown | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/328-odd-even-linked-list/odd-even-linked-list.java) |
 | 234 | 🟠 LC Palindrome Linked List | 🟢 Easy | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/234-palindrome-linked-list/palindrome-linked-list.java) |
 | 838 | 🟠 LC Design Linked List | 🟡 Medium | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/838-design-linked-list/design-linked-list.java) |
 | 142 | 🟠 LC Linked List Cycle Ii | 🟡 Medium | Linked List | 2026-04-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/142-linked-list-cycle-ii/linked-list-cycle-ii.java) |
@@ -122,7 +123,6 @@ DSA-Solutions/
 | — | 🔵 GFG Delete in a Doubly Linked List | 🟢 Easy | Linked List | 2026-04-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Delete%20in%20a%20Doubly%20Linked%20List/delete-in-a-doubly-linked-list.java) |
 | — | 🔵 GFG Delete Head of Doubly Linked List | 🟢 Easy | Linked List | 2026-04-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Delete%20Head%20of%20Doubly%20Linked%20List/delete-head-of-doubly-linked-list.java) |
 | 908 | 🟠 LC Middle Of The Linked List | 🟢 Easy | Linked List | 2026-04-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
-| 206 | 🟠 LC Reverse Linked List | 🟢 Easy | Linked List | 2026-04-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/206-reverse-linked-list/reverse-linked-list.java) |
 <!-- RECENT:END -->
 
 ---
