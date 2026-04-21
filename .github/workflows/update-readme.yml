@@ -1,12 +1,12 @@
-name: 📊 Update README Stats
+name: 📊 Update README Stats (LC + GFG)
 
 on:
   push:
     branches: [main]
   schedule:
-    # Runs every day at midnight IST (6:30 PM UTC)
+    # Every day at midnight IST (6:30 PM UTC)
     - cron: '30 18 * * *'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -28,20 +28,26 @@ jobs:
           python-version: '3.11'
 
       - name: 📦 Install Dependencies
-        run: |
-          pip install requests python-dotenv
+        run: pip install requests
 
-      - name: 🔄 Run Stats Update Script
+      - name: 📊 Scan LeetCode Problems
+        id: lc_scan
+        continue-on-error: true       # ← GFG still runs even if LC API is down
+        run: python scripts/update_readme.py
         env:
-          LEETCODE_USERNAME: yadavxprakhar
-        run: |
-          python scripts/update_readme.py
+          SCAN_MODE: leetcode_only    # future flag for partial runs
+
+      - name: 📊 Full Dual-Platform Update
+        # Runs unconditionally — if LC scan failed above, this catches everything
+        run: python scripts/update_readme.py
 
       - name: 💾 Commit & Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.name  "github-actions[bot]"
+          # Stage README + auto-updated problem index
           git add README.md scripts/problem_index.json
-          # Only commit if there are changes
-          git diff --staged --quiet || git commit -m "chore(stats): auto-update progress + difficulty cache [skip ci]"
+          # Only commit when something actually changed
+          git diff --staged --quiet || \
+            git commit -m "chore(stats): auto-update LC+GFG progress [skip ci]"
           git push
