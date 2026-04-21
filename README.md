@@ -27,9 +27,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 | Metric | Count |
 |--------|-------|
 | 🟢 Easy | 11 |
-| 🟡 Medium | 8 |
+| 🟡 Medium | 9 |
 | 🔴 Hard | 0 |
-| 📦 **Total Solved** | **19** |
+| 📦 **Total Solved** | **20** |
 <!-- STATS:END -->
 
 ---
@@ -87,7 +87,7 @@ DSA-Solutions/
 | Topic | Solved | Easy | Medium | Hard |
 |-------|--------|------|--------|------|
 | Strings | 12 | 7 | 5 | 0 |
-| Linked List | 7 | 4 | 3 | 0 |
+| Linked List | 8 | 4 | 4 | 0 |
 <!-- TOPICS:END -->
 
 ---

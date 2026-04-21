@@ -74,5 +74,9 @@
   "141-linked-list-cycle": {
     "title": "Linked List Cycle",
     "difficulty": "easy"
+  },
+  "838-design-linked-list": {
+    "title": "Design Linked List",
+    "difficulty": "medium"
   }
 }
