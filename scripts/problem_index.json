@@ -188,5 +188,10 @@
     "title": "Intersection of Two Linked Lists",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "gfg-medium-sort-a-linked-list-of-0s-1s-and-2s": {
+    "title": "Sort a linked list of 0s, 1s and 2s",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
