@@ -113,13 +113,13 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Sort a linked list of 0s, 1s and 2s | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s/sort-a-linked-list-of-0s-1s-and-2s.java) |
 | 148 | 🟠 LC Sort List | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/148-sort-list/sort-list.java) |
 | 2 | 🟠 LC Add Two Numbers | ⚪ Unknown | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/2-add-two-numbers/add-two-numbers.java) |
 | 160 | 🟠 LC Intersection Of Two Linked Lists | 🟢 Easy | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java) |
-| — | 🔵 GFG Sort a linked list of 0s, 1s and 2s | 🟡 Medium | Linked List | 2026-04-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s/sort-a-linked-list-of-0s-1s-and-2s.java) |
 | — | 🔵 GFG Longest Subarray with Sum K | 🟡 Medium | Arrays | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Medium/Longest%20Subarray%20with%20Sum%20K) |
-| 2216 | 🟠 LC Delete The Middle Node Of A Linked List | 🟡 Medium | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.java) |
 | 328 | 🟠 LC Odd Even Linked List | 🟡 Medium | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/328-odd-even-linked-list/odd-even-linked-list.java) |
+| 2216 | 🟠 LC Delete The Middle Node Of A Linked List | 🟡 Medium | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.java) |
 | 234 | 🟠 LC Palindrome Linked List | 🟢 Easy | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/234-palindrome-linked-list/palindrome-linked-list.java) |
 | 838 | 🟠 LC Design Linked List | 🟡 Medium | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/838-design-linked-list/design-linked-list.java) |
 | 142 | 🟠 LC Linked List Cycle Ii | 🟡 Medium | Linked List | 2026-04-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/142-linked-list-cycle-ii/linked-list-cycle-ii.java) |
