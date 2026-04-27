@@ -193,5 +193,10 @@
     "title": "Sort a linked list of 0s, 1s and 2s",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-2-add-two-numbers": {
+    "title": "Add Two Numbers",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
