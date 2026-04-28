@@ -198,5 +198,10 @@
     "title": "Add Two Numbers",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "gfg-medium-add-1-to-a-linked-list-number": {
+    "title": "Add 1 to a Linked List Number",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
