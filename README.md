@@ -112,6 +112,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1056 | 🟠 LC Capacity To Ship Packages Within D Days | ⚪ Unknown | General | 2026-04-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
 | — | 🔵 GFG Delete all occurrences of a given key in a doubly linked list | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Delete%20all%20occurrences%20of%20a%20given%20key%20in%20a%20doubly%20linked%20list/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
 | — | 🔵 GFG Add 1 to a Linked List Number | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Add%201%20to%20a%20Linked%20List%20Number/add-1-to-a-linked-list-number.java) |
 | — | 🔵 GFG Sort a linked list of 0s, 1s and 2s | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s/sort-a-linked-list-of-0s-1s-and-2s.java) |
@@ -123,7 +124,6 @@ DSA-Solutions/
 | 328 | 🟠 LC Odd Even Linked List | 🟡 Medium | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/328-odd-even-linked-list/odd-even-linked-list.java) |
 | 234 | 🟠 LC Palindrome Linked List | 🟢 Easy | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/234-palindrome-linked-list/palindrome-linked-list.java) |
 | 838 | 🟠 LC Design Linked List | 🟡 Medium | Linked List | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/838-design-linked-list/design-linked-list.java) |
-| 142 | 🟠 LC Linked List Cycle Ii | 🟡 Medium | Linked List | 2026-04-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/142-linked-list-cycle-ii/linked-list-cycle-ii.java) |
 <!-- RECENT:END -->
 
 ---
