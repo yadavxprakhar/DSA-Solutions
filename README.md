@@ -114,7 +114,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
-| 766 | 🟠 LC Flatten A Multilevel Doubly Linked List | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/766-flatten-a-multilevel-doubly-linked-list/flatten-a-multilevel-doubly-linked-list.java) |
+| 766 | 🟠 LC Flatten A Multilevel Doubly Linked List | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/766-flatten-a-multilevel-doubly-linked-list/flatten-a-multilevel-doubly-linked-list.java) |
 | — | 🔵 GFG Flattening a Linked List | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Flattening%20a%20Linked%20List/flattening-a-linked-list.java) |
 | 907 | 🟠 LC Koko Eating Bananas | 🟡 Medium | Binary Search | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/907-koko-eating-bananas/koko-eating-bananas.java) |
 | 1056 | 🟠 LC Capacity To Ship Packages Within D Days | 🟡 Medium | Binary Search | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
