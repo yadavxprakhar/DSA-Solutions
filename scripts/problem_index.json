@@ -253,5 +253,10 @@
     "title": "Flattening a Linked List",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-766-flatten-a-multilevel-doubly-linked-list": {
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
