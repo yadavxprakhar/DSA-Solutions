@@ -113,6 +113,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Remove duplicates from a sorted DLL | 🟢 Easy | Two Pointers | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Remove%20duplicates%20from%20a%20sorted%20DLL/remove-duplicates-from-a-sorted-dll.java) |
 | — | 🔵 GFG Pair Sum in Doubly Linked List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Pair%20Sum%20in%20Doubly%20Linked%20List/pair-sum-in-doubly-linked-list.java) |
 | 907 | 🟠 LC Koko Eating Bananas | 🟡 Medium | Binary Search | 2026-04-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/907-koko-eating-bananas/koko-eating-bananas.java) |
 | 61 | 🟠 LC Rotate List | 🟡 Medium | Linked List | 2026-04-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/61-rotate-list/rotate-list.java) |
@@ -124,7 +125,6 @@ DSA-Solutions/
 | 148 | 🟠 LC Sort List | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/148-sort-list/sort-list.java) |
 | 2 | 🟠 LC Add Two Numbers | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/2-add-two-numbers/add-two-numbers.java) |
 | 160 | 🟠 LC Intersection Of Two Linked Lists | 🟢 Easy | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java) |
-| — | 🔵 GFG Longest Subarray with Sum K | 🟡 Medium | Arrays | 2026-04-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Medium/Longest%20Subarray%20with%20Sum%20K) |
 <!-- RECENT:END -->
 
 ---
