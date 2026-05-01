@@ -111,18 +111,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
-| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
-| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
-| 1890 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sum of Beauty of All Substrings | 🟡 Medium | Strings | [View →](./topics/strings/1890-sum-of-beauty-of-all-substrings/) |
-| 151 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Reverse Words in a String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
-| 14 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Common Prefix | 🟢 Easy | Strings | [View →](./topics/strings/14-longest-common-prefix/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| 82 | 🟠 LC Remove Duplicates From Sorted List Ii | ⚪ Unknown | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/82-remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.java) |
+| 83 | 🟠 LC Remove Duplicates From Sorted List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) |
+| — | 🔵 GFG Remove duplicates from a sorted DLL | 🟢 Easy | Two Pointers | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Remove%20duplicates%20from%20a%20sorted%20DLL/remove-duplicates-from-a-sorted-dll.java) |
+| — | 🔵 GFG Pair Sum in Doubly Linked List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Pair%20Sum%20in%20Doubly%20Linked%20List/pair-sum-in-doubly-linked-list.java) |
+| 907 | 🟠 LC Koko Eating Bananas | 🟡 Medium | Binary Search | 2026-04-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/907-koko-eating-bananas/koko-eating-bananas.java) |
+| 61 | 🟠 LC Rotate List | 🟡 Medium | Linked List | 2026-04-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/61-rotate-list/rotate-list.java) |
+| 25 | 🟠 LC Reverse Nodes In K Group | 🔴 Hard | Linked List | 2026-04-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.java) |
+| 1056 | 🟠 LC Capacity To Ship Packages Within D Days | 🟡 Medium | General | 2026-04-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
+| — | 🔵 GFG Delete all occurrences of a given key in a doubly linked list | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Delete%20all%20occurrences%20of%20a%20given%20key%20in%20a%20doubly%20linked%20list/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
+| — | 🔵 GFG Add 1 to a Linked List Number | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Add%201%20to%20a%20Linked%20List%20Number/add-1-to-a-linked-list-number.java) |
+| — | 🔵 GFG Sort a linked list of 0s, 1s and 2s | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s/sort-a-linked-list-of-0s-1s-and-2s.java) |
+| 148 | 🟠 LC Sort List | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/148-sort-list/sort-list.java) |
 <!-- RECENT:END -->
 
 ---
