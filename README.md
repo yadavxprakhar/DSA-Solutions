@@ -113,13 +113,13 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
-| 82 | 🟠 LC Remove Duplicates From Sorted List Ii | ⚪ Unknown | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/82-remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.java) |
-| 83 | 🟠 LC Remove Duplicates From Sorted List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) |
+| 61 | 🟠 LC Rotate List | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/61-rotate-list/rotate-list.java) |
+| 83 | 🟠 LC Remove Duplicates From Sorted List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) |
+| 82 | 🟠 LC Remove Duplicates From Sorted List Ii | ⚪ Unknown | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/82-remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.java) |
+| 25 | 🟠 LC Reverse Nodes In K Group | 🔴 Hard | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.java) |
 | — | 🔵 GFG Remove duplicates from a sorted DLL | 🟢 Easy | Two Pointers | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Remove%20duplicates%20from%20a%20sorted%20DLL/remove-duplicates-from-a-sorted-dll.java) |
 | — | 🔵 GFG Pair Sum in Doubly Linked List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Pair%20Sum%20in%20Doubly%20Linked%20List/pair-sum-in-doubly-linked-list.java) |
 | 907 | 🟠 LC Koko Eating Bananas | 🟡 Medium | Binary Search | 2026-04-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/907-koko-eating-bananas/koko-eating-bananas.java) |
-| 61 | 🟠 LC Rotate List | 🟡 Medium | Linked List | 2026-04-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/61-rotate-list/rotate-list.java) |
-| 25 | 🟠 LC Reverse Nodes In K Group | 🔴 Hard | Linked List | 2026-04-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.java) |
 | 1056 | 🟠 LC Capacity To Ship Packages Within D Days | 🟡 Medium | General | 2026-04-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
 | — | 🔵 GFG Delete all occurrences of a given key in a doubly linked list | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Delete%20all%20occurrences%20of%20a%20given%20key%20in%20a%20doubly%20linked%20list/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
 | — | 🔵 GFG Add 1 to a Linked List Number | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Add%201%20to%20a%20Linked%20List%20Number/add-1-to-a-linked-list-number.java) |
