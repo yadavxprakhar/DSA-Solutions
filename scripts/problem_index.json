@@ -248,5 +248,10 @@
     "title": "Remove Duplicates from Sorted List II",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "gfg-medium-flattening-a-linked-list": {
+    "title": "Flattening a Linked List",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
