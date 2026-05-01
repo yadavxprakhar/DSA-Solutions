@@ -113,6 +113,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 766 | 🟠 LC Flatten A Multilevel Doubly Linked List | ⚪ Unknown | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/766-flatten-a-multilevel-doubly-linked-list/flatten-a-multilevel-doubly-linked-list.java) |
 | — | 🔵 GFG Flattening a Linked List | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Flattening%20a%20Linked%20List/flattening-a-linked-list.java) |
 | 907 | 🟠 LC Koko Eating Bananas | 🟡 Medium | Binary Search | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/907-koko-eating-bananas/koko-eating-bananas.java) |
 | 1056 | 🟠 LC Capacity To Ship Packages Within D Days | 🟡 Medium | Binary Search | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
@@ -124,7 +125,6 @@ DSA-Solutions/
 | — | 🔵 GFG Pair Sum in Doubly Linked List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Pair%20Sum%20in%20Doubly%20Linked%20List/pair-sum-in-doubly-linked-list.java) |
 | — | 🔵 GFG Delete all occurrences of a given key in a doubly linked list | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Delete%20all%20occurrences%20of%20a%20given%20key%20in%20a%20doubly%20linked%20list/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
 | — | 🔵 GFG Add 1 to a Linked List Number | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Add%201%20to%20a%20Linked%20List%20Number/add-1-to-a-linked-list-number.java) |
-| — | 🔵 GFG Sort a linked list of 0s, 1s and 2s | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s/sort-a-linked-list-of-0s-1s-and-2s.java) |
 <!-- RECENT:END -->
 
 ---
