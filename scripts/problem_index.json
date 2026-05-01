@@ -228,5 +228,20 @@
     "title": "Koko Eating Bananas",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-83-remove-duplicates-from-sorted-list": {
+    "title": "Remove Duplicates from Sorted List",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "gfg-easy-remove-duplicates-from-a-sorted-dll": {
+    "title": "Remove duplicates from a sorted DLL",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-pair-sum-in-doubly-linked-list": {
+    "title": "Pair Sum in Doubly Linked List",
+    "difficulty": "easy",
+    "platform": "gfg"
   }
 }

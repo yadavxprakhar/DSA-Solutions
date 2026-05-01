@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 13 | 16 | 1 | **30** |
-| ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 2 | 9 | 5 | 0 | **16** |
-| **Combined** | — | 22 | 21 | 1 | **46** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 14 | 16 | 1 | **31** |
+| ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 2 | 11 | 5 | 0 | **18** |
+| **Combined** | — | 25 | 21 | 1 | **49** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 30 (65%) | 16 (35%) |
-| Easy | 13 | 9 |
+| Problems | 31 (63%) | 18 (37%) |
+| Easy | 14 | 11 |
 | Medium | 16 | 5 |
 | Hard | 1 | 0 |
 | Basic (GFG) | — | 2 |
 
-> 📦 **Total across both platforms: 46 problems solved**
+> 📦 **Total across both platforms: 49 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -100,10 +100,10 @@ DSA-Solutions/
 <!-- TOPICS:START -->
 | Topic | Solved | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |-------|--------|----------|---------|-----------|---------|
-| Arrays | 1 | 0 | 0 | 1 | 0 |
+| Arrays | 2 | 0 | 1 | 1 | 0 |
 | Strings | 12 | 0 | 7 | 5 | 0 |
-| Linked List | 29 | 2 | 15 | 12 | 0 |
-| Uncategorized | 4 | 0 | 0 | 3 | 1 |
+| Linked List | 30 | 2 | 16 | 12 | 0 |
+| Uncategorized | 5 | 0 | 1 | 3 | 1 |
 <!-- TOPICS:END -->
 
 ---
@@ -111,20 +111,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| — | 🔵 GFG Remove duplicates from a sorted DLL | 🟢 Easy | Two Pointers | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Remove%20duplicates%20from%20a%20sorted%20DLL/remove-duplicates-from-a-sorted-dll.java) |
-| — | 🔵 GFG Pair Sum in Doubly Linked List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Pair%20Sum%20in%20Doubly%20Linked%20List/pair-sum-in-doubly-linked-list.java) |
-| 907 | 🟠 LC Koko Eating Bananas | 🟡 Medium | Binary Search | 2026-04-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/907-koko-eating-bananas/koko-eating-bananas.java) |
-| 61 | 🟠 LC Rotate List | 🟡 Medium | Linked List | 2026-04-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/61-rotate-list/rotate-list.java) |
-| 25 | 🟠 LC Reverse Nodes In K Group | 🔴 Hard | Linked List | 2026-04-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.java) |
-| 1056 | 🟠 LC Capacity To Ship Packages Within D Days | 🟡 Medium | General | 2026-04-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
-| — | 🔵 GFG Delete all occurrences of a given key in a doubly linked list | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Delete%20all%20occurrences%20of%20a%20given%20key%20in%20a%20doubly%20linked%20list/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
-| — | 🔵 GFG Add 1 to a Linked List Number | 🟡 Medium | Linked List | 2026-04-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Add%201%20to%20a%20Linked%20List%20Number/add-1-to-a-linked-list-number.java) |
-| — | 🔵 GFG Sort a linked list of 0s, 1s and 2s | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20linked%20list%20of%200s%2C%201s%20and%202s/sort-a-linked-list-of-0s-1s-and-2s.java) |
-| 148 | 🟠 LC Sort List | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/148-sort-list/sort-list.java) |
-| 2 | 🟠 LC Add Two Numbers | 🟡 Medium | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/2-add-two-numbers/add-two-numbers.java) |
-| 160 | 🟠 LC Intersection Of Two Linked Lists | 🟢 Easy | Linked List | 2026-04-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
+| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
+| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
+| 1890 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sum of Beauty of All Substrings | 🟡 Medium | Strings | [View →](./topics/strings/1890-sum-of-beauty-of-all-substrings/) |
+| 151 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Reverse Words in a String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
+| 14 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Common Prefix | 🟢 Easy | Strings | [View →](./topics/strings/14-longest-common-prefix/) |
 <!-- RECENT:END -->
 
 ---
