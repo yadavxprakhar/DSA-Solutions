@@ -258,5 +258,10 @@
     "title": "Flatten a Multilevel Doubly Linked List",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-138-copy-list-with-random-pointer": {
+    "title": "Copy List with Random Pointer",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
