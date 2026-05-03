@@ -102,9 +102,8 @@ DSA-Solutions/
 |-------|--------|----------|---------|-----------|---------|
 | Arrays | 2 | 0 | 1 | 1 | 0 |
 | Strings | 12 | 0 | 7 | 5 | 0 |
-| Linked List | 36 | 2 | 17 | 16 | 1 |
+| Linked List | 37 | 2 | 17 | 17 | 1 |
 | Binary Search | 2 | 0 | 0 | 2 | 0 |
-| Uncategorized | 1 | 0 | 0 | 1 | 0 |
 <!-- TOPICS:END -->
 
 ---
