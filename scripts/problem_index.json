@@ -263,5 +263,10 @@
     "title": "Copy List with Random Pointer",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-229-majority-element-ii": {
+    "title": "Majority Element II",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
