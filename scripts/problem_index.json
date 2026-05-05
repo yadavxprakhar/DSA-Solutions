@@ -268,5 +268,10 @@
     "title": "Majority Element II",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-50-powx-n": {
+    "title": "Pow(x, n)",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
