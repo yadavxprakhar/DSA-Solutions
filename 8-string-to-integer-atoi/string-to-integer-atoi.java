@@ -1,27 +1,43 @@
 class Solution {
+
     public int myAtoi(String s) {
-    s= s.trim();
-    long nums=0;
-    if(s.isEmpty()){
-        return 0;
-    } 
-    int i=0;
-    int sign=1;
-    int n = s.length();
-    if(s.charAt(i)=='-' || s.charAt(i)=='+')  {
-        sign= (s.charAt(i)=='-')?-1:1;
-        i++;
-    } 
-    while (i<n && Character.isDigit(s.charAt(i))){
-        nums=nums*10+(s.charAt(i)-'0');
-        if(nums*sign >Integer.MAX_VALUE){
-            return Integer.MAX_VALUE;
+        int i = skipSpaces(s, 0);
+
+        if (i == s.length()) return 0;
+
+        int sign = 1;
+
+        
+        if (s.charAt(i) == '-' || s.charAt(i) == '+') {
+            sign = (s.charAt(i) == '-') ? -1 : 1;
+            i++;
         }
-        if(nums*sign < Integer.MIN_VALUE){
-            return Integer.MIN_VALUE;
-        }
-        i++;
+
+        return helper(s, i, 0, sign);
     }
-    return (int) (sign*nums);
+
+    private int skipSpaces(String s, int i) {
+        if (i < s.length() && s.charAt(i) == ' ') {
+            return skipSpaces(s, i + 1);
+        }
+        return i;
+    }
+
+    private int helper(String s, int i, long result, int sign) {
+
+       
+        if (i >= s.length() || !Character.isDigit(s.charAt(i))) {
+            return (int)(sign * result);
+        }
+
+        int digit = s.charAt(i) - '0';
+
+        result = result * 10 + digit;
+
+        
+        if (sign * result > Integer.MAX_VALUE) return Integer.MAX_VALUE;
+        if (sign * result < Integer.MIN_VALUE) return Integer.MIN_VALUE;
+
+        return helper(s, i + 1, result, sign);
     }
 }
