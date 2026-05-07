@@ -273,5 +273,10 @@
     "title": "Pow(x, n)",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-31-next-permutation": {
+    "title": "Next Permutation",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
