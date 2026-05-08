@@ -115,6 +115,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-05-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Remove%20Invalid%20Parentheses/remove-invalid-parentheses.java) |
 | — | 🔵 GFG Sort a stack | 🟡 Medium | Stack Queue | 2026-05-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20stack/sort-a-stack.java) |
 | 31 | 🟠 LC Next Permutation | 🟡 Medium | Backtracking | 2026-05-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/31-next-permutation) |
 | 229 | 🟠 LC Majority Element Ii | 🟡 Medium | Arrays | 2026-05-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/229-majority-element-ii/majority-element-ii.java) |
@@ -126,7 +127,6 @@ DSA-Solutions/
 | 1056 | 🟠 LC Capacity To Ship Packages Within D Days | 🟡 Medium | Binary Search | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
 | 61 | 🟠 LC Rotate List | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/61-rotate-list/rotate-list.java) |
 | 83 | 🟠 LC Remove Duplicates From Sorted List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) |
-| 82 | 🟠 LC Remove Duplicates From Sorted List Ii | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/82-remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.java) |
 <!-- RECENT:END -->
 
 ---
