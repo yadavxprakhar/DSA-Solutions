@@ -278,5 +278,15 @@
     "title": "Next Permutation",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "gfg-hard-remove-invalid-parentheses": {
+    "title": "Remove Invalid Parentheses",
+    "difficulty": "hard",
+    "platform": "gfg"
+  },
+  "gfg-medium-sort-a-stack": {
+    "title": "Sort a stack",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
