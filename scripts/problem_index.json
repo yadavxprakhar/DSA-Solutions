@@ -288,5 +288,10 @@
     "title": "Sort a stack",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-23-merge-k-sorted-lists": {
+    "title": "Merge k Sorted Lists",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
