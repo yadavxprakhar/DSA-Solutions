@@ -116,6 +116,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 23 | 🟠 LC Merge K Sorted Lists | ⚪ Unknown | Linked List | 2026-05-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/23-merge-k-sorted-lists/merge-k-sorted-lists.java) |
 | — | 🔵 GFG Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-05-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Remove%20Invalid%20Parentheses/remove-invalid-parentheses.java) |
 | — | 🔵 GFG Sort a stack | 🟡 Medium | Stack Queue | 2026-05-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20stack/sort-a-stack.java) |
 | 31 | 🟠 LC Next Permutation | 🟡 Medium | Backtracking | 2026-05-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/31-next-permutation) |
@@ -127,7 +128,6 @@ DSA-Solutions/
 | 907 | 🟠 LC Koko Eating Bananas | 🟡 Medium | Binary Search | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/907-koko-eating-bananas/koko-eating-bananas.java) |
 | 1056 | 🟠 LC Capacity To Ship Packages Within D Days | 🟡 Medium | Binary Search | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
 | 61 | 🟠 LC Rotate List | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/61-rotate-list/rotate-list.java) |
-| 83 | 🟠 LC Remove Duplicates From Sorted List | 🟢 Easy | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) |
 <!-- RECENT:END -->
 
 ---
