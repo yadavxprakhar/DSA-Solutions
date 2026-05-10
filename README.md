@@ -116,6 +116,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4 | 🟠 LC Median Of Two Sorted Arrays | ⚪ Unknown | Binary Search | 2026-05-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) |
 | 23 | 🟠 LC Merge K Sorted Lists | 🔴 Hard | Linked List | 2026-05-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/23-merge-k-sorted-lists/merge-k-sorted-lists.java) |
 | — | 🔵 GFG Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-05-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Remove%20Invalid%20Parentheses/remove-invalid-parentheses.java) |
 | — | 🔵 GFG Sort a stack | 🟡 Medium | Stack Queue | 2026-05-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20stack/sort-a-stack.java) |
@@ -127,7 +128,6 @@ DSA-Solutions/
 | — | 🔵 GFG Flattening a Linked List | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Flattening%20a%20Linked%20List/flattening-a-linked-list.java) |
 | 907 | 🟠 LC Koko Eating Bananas | 🟡 Medium | Binary Search | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/907-koko-eating-bananas/koko-eating-bananas.java) |
 | 1056 | 🟠 LC Capacity To Ship Packages Within D Days | 🟡 Medium | Binary Search | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/1056-capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.java) |
-| 61 | 🟠 LC Rotate List | 🟡 Medium | Linked List | 2026-05-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/61-rotate-list/rotate-list.java) |
 <!-- RECENT:END -->
 
 ---
