@@ -105,8 +105,8 @@ DSA-Solutions/
 | Linked List | 38 | 2 | 17 | 17 | 2 |
 | Binary Search | 3 | 0 | 0 | 2 | 1 |
 | Stack Queue | 1 | 0 | 0 | 0 | 1 |
-| Recursion | 1 | 0 | 0 | 1 | 0 |
-| Uncategorized | 2 | 0 | 0 | 2 | 0 |
+| Recursion | 2 | 0 | 0 | 2 | 0 |
+| Uncategorized | 1 | 0 | 0 | 1 | 0 |
 <!-- TOPICS:END -->
 
 ---
