@@ -313,5 +313,10 @@
     "title": "Subsets",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "gfg-medium-power-set": {
+    "title": "Power Set",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
