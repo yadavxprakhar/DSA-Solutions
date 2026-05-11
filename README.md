@@ -103,10 +103,10 @@ DSA-Solutions/
 | Arrays | 4 | 0 | 1 | 3 | 0 |
 | Strings | 13 | 0 | 7 | 6 | 0 |
 | Linked List | 37 | 2 | 17 | 17 | 1 |
-| Binary Search | 2 | 0 | 0 | 2 | 0 |
+| Binary Search | 3 | 0 | 0 | 2 | 1 |
 | Stack Queue | 1 | 0 | 0 | 0 | 1 |
 | Recursion | 1 | 0 | 0 | 1 | 0 |
-| Uncategorized | 3 | 0 | 0 | 1 | 2 |
+| Uncategorized | 2 | 0 | 0 | 1 | 1 |
 <!-- TOPICS:END -->
 
 ---
