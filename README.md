@@ -116,9 +116,9 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 78 | 🟠 LC Subsets | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/78-subsets/subsets.java) |
 | — | 🔵 GFG Power Set | 🟡 Medium | Math | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Power%20Set/power-set.java) |
 | 22 | 🟠 LC Generate Parentheses | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/22-generate-parentheses) |
-| 78 | 🟠 LC Subsets | 🟡 Medium | Backtracking | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/78-subsets/subsets.java) |
 | 31 | 🟠 LC Next Permutation | 🟡 Medium | Arrays | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/arrays/31-next-permutation) |
 | 23 | 🟠 LC Merge K Sorted Lists | 🔴 Hard | Linked List | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/23-merge-k-sorted-lists/merge-k-sorted-lists.java) |
 | 4 | 🟠 LC Median Of Two Sorted Arrays | 🔴 Hard | Binary Search | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) |
