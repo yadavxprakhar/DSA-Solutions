@@ -303,5 +303,15 @@
     "title": "Reverse a Stack",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-22-generate-parentheses": {
+    "title": "Generate Parentheses",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-78-subsets": {
+    "title": "Subsets",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
