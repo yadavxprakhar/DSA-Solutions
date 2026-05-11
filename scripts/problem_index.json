@@ -293,5 +293,15 @@
     "title": "Merge k Sorted Lists",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-4-median-of-two-sorted-arrays": {
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "hard",
+    "platform": "leetcode"
+  },
+  "gfg-medium-reverse-a-stack": {
+    "title": "Reverse a Stack",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
