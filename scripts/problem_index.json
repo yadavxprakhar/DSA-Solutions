@@ -318,5 +318,10 @@
     "title": "Power Set",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-152-maximum-product-subarray": {
+    "title": "Maximum Product Subarray",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
