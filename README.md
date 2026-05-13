@@ -117,6 +117,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 39 | 🟠 LC Combination Sum | ⚪ Unknown | Backtracking | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/39-combination-sum/combination-sum.java) |
 | 152 | 🟠 LC Maximum Product Subarray | 🟡 Medium | Dynamic Programming | 2026-05-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/152-maximum-product-subarray) |
 | 78 | 🟠 LC Subsets | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/78-subsets/subsets.java) |
 | — | 🔵 GFG Power Set | 🟡 Medium | Math | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Power%20Set/power-set.java) |
@@ -128,7 +129,6 @@ DSA-Solutions/
 | — | 🔵 GFG Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-05-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Remove%20Invalid%20Parentheses/remove-invalid-parentheses.java) |
 | — | 🔵 GFG Sort a stack | 🟡 Medium | Stack Queue | 2026-05-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Sort%20a%20stack/sort-a-stack.java) |
 | 229 | 🟠 LC Majority Element Ii | 🟡 Medium | Arrays | 2026-05-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/229-majority-element-ii/majority-element-ii.java) |
-| 50 | 🟠 LC Powx N | 🟡 Medium | Recursion | 2026-05-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/50-powx-n/powx-n.java) |
 <!-- RECENT:END -->
 
 ---
