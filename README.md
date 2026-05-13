@@ -117,18 +117,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
-| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
-| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
-| 1890 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sum of Beauty of All Substrings | 🟡 Medium | Strings | [View →](./topics/strings/1890-sum-of-beauty-of-all-substrings/) |
-| 151 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Reverse Words in a String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
-| 14 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Common Prefix | 🟢 Easy | Strings | [View →](./topics/strings/14-longest-common-prefix/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Subsequence with Sum K | 🟡 Medium | Dynamic Programming | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subsequence%20with%20Sum%20K/subsequence-with-sum-k.java) |
+| — | 🔵 GFG Generate all binary strings | 🟡 Medium | Trees | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Generate%20all%20binary%20strings/generate-all-binary-strings.java) |
+| 39 | 🟠 LC Combination Sum | 🟡 Medium | Backtracking | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/39-combination-sum/combination-sum.java) |
+| 152 | 🟠 LC Maximum Product Subarray | 🟡 Medium | Dynamic Programming | 2026-05-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/152-maximum-product-subarray) |
+| 78 | 🟠 LC Subsets | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/78-subsets/subsets.java) |
+| — | 🔵 GFG Power Set | 🟡 Medium | Math | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Power%20Set/power-set.java) |
+| 22 | 🟠 LC Generate Parentheses | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/22-generate-parentheses) |
+| 31 | 🟠 LC Next Permutation | 🟡 Medium | Arrays | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/arrays/31-next-permutation) |
+| 23 | 🟠 LC Merge K Sorted Lists | 🔴 Hard | Linked List | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/23-merge-k-sorted-lists/merge-k-sorted-lists.java) |
+| 4 | 🟠 LC Median Of Two Sorted Arrays | 🔴 Hard | Binary Search | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) |
+| — | 🔵 GFG Reverse a Stack | 🟡 Medium | Stack Queue | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Reverse%20a%20Stack/reverse-a-stack.java) |
+| — | 🔵 GFG Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-05-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Remove%20Invalid%20Parentheses/remove-invalid-parentheses.java) |
 <!-- RECENT:END -->
 
 ---
