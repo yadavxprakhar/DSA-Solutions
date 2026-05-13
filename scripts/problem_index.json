@@ -323,5 +323,20 @@
     "title": "Maximum Product Subarray",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-39-combination-sum": {
+    "title": "Combination Sum",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "gfg-medium-subsequence-with-sum-k": {
+    "title": "Subsequence with Sum K",
+    "difficulty": "medium",
+    "platform": "gfg"
+  },
+  "gfg-medium-generate-all-binary-strings": {
+    "title": "Generate all binary strings",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
