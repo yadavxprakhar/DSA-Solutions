@@ -338,5 +338,15 @@
     "title": "Generate all binary strings",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-40-combination-sum-ii": {
+    "title": "Combination Sum II",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-216-combination-sum-iii": {
+    "title": "Combination Sum III",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }

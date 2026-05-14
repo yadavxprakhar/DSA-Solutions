@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 14 | 26 | 3 | **43** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 14 | 28 | 3 | **45** |
 | ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 2 | 11 | 11 | 1 | **25** |
-| **Combined** | — | 25 | 37 | 4 | **68** |
+| **Combined** | — | 25 | 39 | 4 | **70** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 43 (63%) | 25 (37%) |
+| Problems | 45 (64%) | 25 (36%) |
 | Easy | 14 | 11 |
-| Medium | 26 | 11 |
+| Medium | 28 | 11 |
 | Hard | 3 | 1 |
 | Basic (GFG) | — | 2 |
 
-> 📦 **Total across both platforms: 68 problems solved**
+> 📦 **Total across both platforms: 70 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -104,12 +104,11 @@ DSA-Solutions/
 | Strings | 13 | 0 | 7 | 6 | 0 |
 | Linked List | 38 | 2 | 17 | 17 | 2 |
 | Trees | 1 | 0 | 0 | 1 | 0 |
-| Dynamic Programming | 1 | 0 | 0 | 1 | 0 |
+| Dynamic Programming | 2 | 0 | 0 | 2 | 0 |
 | Binary Search | 3 | 0 | 0 | 2 | 1 |
 | Stack Queue | 1 | 0 | 0 | 0 | 1 |
 | Math | 1 | 0 | 0 | 1 | 0 |
-| Recursion | 3 | 0 | 0 | 3 | 0 |
-| Uncategorized | 2 | 0 | 0 | 2 | 0 |
+| Recursion | 6 | 0 | 0 | 6 | 0 |
 <!-- TOPICS:END -->
 
 ---
@@ -117,20 +116,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 152 | 🟠 LC Maximum Product Subarray | 🟡 Medium | Dynamic Programming | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/152-maximum-product-subarray/maximum-product-subarray.java) |
-| 40 | 🟠 LC Combination Sum Ii | ⚪ Unknown | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/40-combination-sum-ii/combination-sum-ii.java) |
-| 216 | 🟠 LC Combination Sum Iii | ⚪ Unknown | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/216-combination-sum-iii/combination-sum-iii.java) |
-| 39 | 🟠 LC Combination Sum | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/39-combination-sum/combination-sum.java) |
-| — | 🔵 GFG Subsequence with Sum K | 🟡 Medium | Dynamic Programming | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subsequence%20with%20Sum%20K/subsequence-with-sum-k.java) |
-| — | 🔵 GFG Generate all binary strings | 🟡 Medium | Trees | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Generate%20all%20binary%20strings/generate-all-binary-strings.java) |
-| 78 | 🟠 LC Subsets | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/78-subsets/subsets.java) |
-| — | 🔵 GFG Power Set | 🟡 Medium | Math | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Power%20Set/power-set.java) |
-| 22 | 🟠 LC Generate Parentheses | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/22-generate-parentheses) |
-| 31 | 🟠 LC Next Permutation | 🟡 Medium | Arrays | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/arrays/31-next-permutation) |
-| 23 | 🟠 LC Merge K Sorted Lists | 🔴 Hard | Linked List | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/linked-list/23-merge-k-sorted-lists/merge-k-sorted-lists.java) |
-| 4 | 🟠 LC Median Of Two Sorted Arrays | 🔴 Hard | Binary Search | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
+| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
+| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
+| 1890 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sum of Beauty of All Substrings | 🟡 Medium | Strings | [View →](./topics/strings/1890-sum-of-beauty-of-all-substrings/) |
+| 151 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Reverse Words in a String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
+| 14 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Common Prefix | 🟢 Easy | Strings | [View →](./topics/strings/14-longest-common-prefix/) |
 <!-- RECENT:END -->
 
 ---
