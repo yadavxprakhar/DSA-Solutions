@@ -119,11 +119,11 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
-| 216 | 🟠 LC Combination Sum Iii | ⚪ Unknown | Backtracking | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/216-combination-sum-iii/combination-sum-iii.java) |
-| 40 | 🟠 LC Combination Sum Ii | ⚪ Unknown | Backtracking | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/40-combination-sum-ii/combination-sum-ii.java) |
+| 40 | 🟠 LC Combination Sum Ii | ⚪ Unknown | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/40-combination-sum-ii/combination-sum-ii.java) |
+| 216 | 🟠 LC Combination Sum Iii | ⚪ Unknown | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/216-combination-sum-iii/combination-sum-iii.java) |
+| 39 | 🟠 LC Combination Sum | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/39-combination-sum/combination-sum.java) |
 | — | 🔵 GFG Subsequence with Sum K | 🟡 Medium | Dynamic Programming | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subsequence%20with%20Sum%20K/subsequence-with-sum-k.java) |
 | — | 🔵 GFG Generate all binary strings | 🟡 Medium | Trees | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Generate%20all%20binary%20strings/generate-all-binary-strings.java) |
-| 39 | 🟠 LC Combination Sum | 🟡 Medium | Backtracking | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/39-combination-sum/combination-sum.java) |
 | 152 | 🟠 LC Maximum Product Subarray | 🟡 Medium | Dynamic Programming | 2026-05-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/152-maximum-product-subarray) |
 | 78 | 🟠 LC Subsets | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/78-subsets/subsets.java) |
 | — | 🔵 GFG Power Set | 🟡 Medium | Math | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Power%20Set/power-set.java) |
