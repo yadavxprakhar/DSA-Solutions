@@ -353,5 +353,15 @@
     "title": "Subsets II",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-15-3sum": {
+    "title": "3Sum",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-17-letter-combinations-of-a-phone-number": {
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
