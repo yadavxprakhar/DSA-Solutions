@@ -119,6 +119,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 15 | 🟠 LC 3Sum | ⚪ Unknown | General | 2026-05-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/15-3sum/3sum.java) |
 | 17 | 🟠 LC Letter Combinations Of A Phone Number | ⚪ Unknown | Backtracking | 2026-05-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java) |
 | 90 | 🟠 LC Subsets Ii | 🟡 Medium | Backtracking | 2026-05-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/90-subsets-ii) |
 | 152 | 🟠 LC Maximum Product Subarray | 🟡 Medium | Dynamic Programming | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/152-maximum-product-subarray/maximum-product-subarray.java) |
@@ -130,7 +131,6 @@ DSA-Solutions/
 | 78 | 🟠 LC Subsets | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/78-subsets/subsets.java) |
 | — | 🔵 GFG Power Set | 🟡 Medium | Math | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Power%20Set/power-set.java) |
 | 22 | 🟠 LC Generate Parentheses | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/22-generate-parentheses) |
-| 31 | 🟠 LC Next Permutation | 🟡 Medium | Arrays | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/arrays/31-next-permutation) |
 <!-- RECENT:END -->
 
 ---
