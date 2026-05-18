@@ -119,6 +119,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Subset Sum Problem | 🟡 Medium | Dynamic Programming | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subset%20Sum%20Problem/subset-sum-problem.java) |
 | 79 | 🟠 LC Word Search | ⚪ Unknown | Backtracking | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/79-word-search/word-search.java) |
 | 1447 | 🟠 LC Jump Game Iv | ⚪ Unknown | Dynamic Programming | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1447-jump-game-iv/jump-game-iv.java) |
 | 1428 | 🟠 LC Jump Game Iii | ⚪ Unknown | Dynamic Programming | 2026-05-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1428-jump-game-iii/jump-game-iii.java) |
@@ -130,7 +131,6 @@ DSA-Solutions/
 | 40 | 🟠 LC Combination Sum Ii | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/40-combination-sum-ii/combination-sum-ii.java) |
 | 216 | 🟠 LC Combination Sum Iii | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/216-combination-sum-iii/combination-sum-iii.java) |
 | — | 🔵 GFG Subsequence with Sum K | 🟡 Medium | Dynamic Programming | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subsequence%20with%20Sum%20K/subsequence-with-sum-k.java) |
-| — | 🔵 GFG Generate all binary strings | 🟡 Medium | Trees | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Generate%20all%20binary%20strings/generate-all-binary-strings.java) |
 <!-- RECENT:END -->
 
 ---
