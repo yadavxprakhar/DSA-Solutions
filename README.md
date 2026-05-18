@@ -119,6 +119,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3933 | 🟠 LC Minimum Jumps To Reach End Via Prime Teleportation | ⚪ Unknown | Dynamic Programming | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3933-minimum-jumps-to-reach-end-via-prime-teleportation/minimum-jumps-to-reach-end-via-prime-teleportation.java) |
 | 79 | 🟠 LC Word Search | ⚪ Unknown | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/79-word-search/word-search.java) |
 | 90 | 🟠 LC Subsets Ii | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/90-subsets-ii) |
 | 17 | 🟠 LC Letter Combinations Of A Phone Number | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java) |
@@ -130,7 +131,6 @@ DSA-Solutions/
 | 39 | 🟠 LC Combination Sum | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/39-combination-sum/combination-sum.java) |
 | 40 | 🟠 LC Combination Sum Ii | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/40-combination-sum-ii/combination-sum-ii.java) |
 | 216 | 🟠 LC Combination Sum Iii | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/216-combination-sum-iii/combination-sum-iii.java) |
-| — | 🔵 GFG Subsequence with Sum K | 🟡 Medium | Dynamic Programming | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subsequence%20with%20Sum%20K/subsequence-with-sum-k.java) |
 <!-- RECENT:END -->
 
 ---
