@@ -119,6 +119,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1447 | 🟠 LC Jump Game Iv | ⚪ Unknown | Dynamic Programming | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1447-jump-game-iv/jump-game-iv.java) |
 | 1428 | 🟠 LC Jump Game Iii | ⚪ Unknown | Dynamic Programming | 2026-05-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1428-jump-game-iii/jump-game-iii.java) |
 | 15 | 🟠 LC 3Sum | 🟡 Medium | General | 2026-05-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/15-3sum/3sum.java) |
 | 17 | 🟠 LC Letter Combinations Of A Phone Number | 🟡 Medium | Backtracking | 2026-05-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java) |
@@ -130,7 +131,6 @@ DSA-Solutions/
 | — | 🔵 GFG Subsequence with Sum K | 🟡 Medium | Dynamic Programming | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subsequence%20with%20Sum%20K/subsequence-with-sum-k.java) |
 | — | 🔵 GFG Generate all binary strings | 🟡 Medium | Trees | 2026-05-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Generate%20all%20binary%20strings/generate-all-binary-strings.java) |
 | 78 | 🟠 LC Subsets | 🟡 Medium | Recursion | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/78-subsets/subsets.java) |
-| — | 🔵 GFG Power Set | 🟡 Medium | Math | 2026-05-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Power%20Set/power-set.java) |
 <!-- RECENT:END -->
 
 ---
