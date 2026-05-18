@@ -363,5 +363,30 @@
     "title": "Letter Combinations of a Phone Number",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1447-jump-game-iv": {
+    "title": "Jump Game IV",
+    "difficulty": "hard",
+    "platform": "leetcode"
+  },
+  "lc-1428-jump-game-iii": {
+    "title": "Jump Game III",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-79-word-search": {
+    "title": "Word Search",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-3933-minimum-jumps-to-reach-end-via-prime-teleportation": {
+    "title": "Minimum Jumps to Reach End via Prime Teleportation",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "gfg-medium-subset-sum-problem": {
+    "title": "Subset Sum Problem",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }

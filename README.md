@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 14 | 31 | 3 | **48** |
-| ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 2 | 11 | 11 | 1 | **25** |
-| **Combined** | — | 25 | 42 | 4 | **73** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 14 | 34 | 4 | **52** |
+| ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 2 | 11 | 12 | 1 | **26** |
+| **Combined** | — | 25 | 46 | 5 | **78** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 48 (66%) | 25 (34%) |
+| Problems | 52 (67%) | 26 (33%) |
 | Easy | 14 | 11 |
-| Medium | 31 | 11 |
-| Hard | 3 | 1 |
+| Medium | 34 | 12 |
+| Hard | 4 | 1 |
 | Basic (GFG) | — | 2 |
 
-> 📦 **Total across both platforms: 73 problems solved**
+> 📦 **Total across both platforms: 78 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -104,12 +104,15 @@ DSA-Solutions/
 | Strings | 13 | 0 | 7 | 6 | 0 |
 | Linked List | 38 | 2 | 17 | 17 | 2 |
 | Trees | 1 | 0 | 0 | 1 | 0 |
+| Graphs | 2 | 0 | 0 | 1 | 1 |
 | Dynamic Programming | 2 | 0 | 0 | 2 | 0 |
+| Two Pointers | 1 | 0 | 0 | 1 | 0 |
 | Binary Search | 3 | 0 | 0 | 2 | 1 |
 | Stack Queue | 1 | 0 | 0 | 0 | 1 |
+| Backtracking | 1 | 0 | 0 | 1 | 0 |
 | Math | 1 | 0 | 0 | 1 | 0 |
-| Recursion | 6 | 0 | 0 | 6 | 0 |
-| Uncategorized | 3 | 0 | 0 | 3 | 0 |
+| Recursion | 9 | 0 | 0 | 9 | 0 |
+| Uncategorized | 1 | 0 | 0 | 1 | 0 |
 <!-- TOPICS:END -->
 
 ---
@@ -117,20 +120,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 3933 | 🟠 LC Minimum Jumps To Reach End Via Prime Teleportation | ⚪ Unknown | Dynamic Programming | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3933-minimum-jumps-to-reach-end-via-prime-teleportation/minimum-jumps-to-reach-end-via-prime-teleportation.java) |
-| 79 | 🟠 LC Word Search | ⚪ Unknown | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/79-word-search/word-search.java) |
-| 90 | 🟠 LC Subsets Ii | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/90-subsets-ii) |
-| 17 | 🟠 LC Letter Combinations Of A Phone Number | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java) |
-| 15 | 🟠 LC 3Sum | 🟡 Medium | Two Pointers | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/two-pointers/15-3sum/3sum.java) |
-| 1447 | 🟠 LC Jump Game Iv | ⚪ Unknown | Graphs | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/1447-jump-game-iv/jump-game-iv.java) |
-| 1428 | 🟠 LC Jump Game Iii | ⚪ Unknown | Graphs | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/1428-jump-game-iii/jump-game-iii.java) |
-| — | 🔵 GFG Subset Sum Problem | 🟡 Medium | Dynamic Programming | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subset%20Sum%20Problem/subset-sum-problem.java) |
-| 152 | 🟠 LC Maximum Product Subarray | 🟡 Medium | Dynamic Programming | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/152-maximum-product-subarray/maximum-product-subarray.java) |
-| 39 | 🟠 LC Combination Sum | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/39-combination-sum/combination-sum.java) |
-| 40 | 🟠 LC Combination Sum Ii | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/40-combination-sum-ii/combination-sum-ii.java) |
-| 216 | 🟠 LC Combination Sum Iii | 🟡 Medium | Recursion | 2026-05-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/216-combination-sum-iii/combination-sum-iii.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
+| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
+| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
+| 1890 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sum of Beauty of All Substrings | 🟡 Medium | Strings | [View →](./topics/strings/1890-sum-of-beauty-of-all-substrings/) |
+| 151 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Reverse Words in a String | 🟡 Medium | Strings | [View →](./topics/strings/151-reverse-words-in-a-string/) |
 <!-- RECENT:END -->
 
 ---
