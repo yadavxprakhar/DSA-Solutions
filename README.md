@@ -119,10 +119,10 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1447 | 🟠 LC Jump Game Iv | ⚪ Unknown | Graphs | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/1447-jump-game-iv/jump-game-iv.java) |
+| 1428 | 🟠 LC Jump Game Iii | ⚪ Unknown | Graphs | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/1428-jump-game-iii/jump-game-iii.java) |
 | — | 🔵 GFG Subset Sum Problem | 🟡 Medium | Dynamic Programming | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subset%20Sum%20Problem/subset-sum-problem.java) |
 | 79 | 🟠 LC Word Search | ⚪ Unknown | Backtracking | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/79-word-search/word-search.java) |
-| 1447 | 🟠 LC Jump Game Iv | ⚪ Unknown | Dynamic Programming | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1447-jump-game-iv/jump-game-iv.java) |
-| 1428 | 🟠 LC Jump Game Iii | ⚪ Unknown | Dynamic Programming | 2026-05-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1428-jump-game-iii/jump-game-iii.java) |
 | 15 | 🟠 LC 3Sum | 🟡 Medium | General | 2026-05-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/15-3sum/3sum.java) |
 | 17 | 🟠 LC Letter Combinations Of A Phone Number | 🟡 Medium | Backtracking | 2026-05-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java) |
 | 90 | 🟠 LC Subsets Ii | 🟡 Medium | Backtracking | 2026-05-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/90-subsets-ii) |
