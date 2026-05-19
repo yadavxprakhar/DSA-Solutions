@@ -388,5 +388,15 @@
     "title": "Subset Sum Problem",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-2634-minimum-common-value": {
+    "title": "Minimum Common Value",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "gfg-medium-minimum-multiplications-to-reach-end": {
+    "title": "Minimum Multiplications to reach End",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
