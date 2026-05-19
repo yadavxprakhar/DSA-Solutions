@@ -122,8 +122,8 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2634 | 🟠 LC Minimum Common Value | ⚪ Unknown | Two Pointers | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/two-pointers/2634-minimum-common-value/minimum-common-value.java) |
 | 3933 | 🟠 LC Minimum Jumps To Reach End Via Prime Teleportation | 🟡 Medium | Graphs | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/3933-minimum-jumps-to-reach-end-via-prime-teleportation/minimum-jumps-to-reach-end-via-prime-teleportation.java) |
-| 2634 | 🟠 LC Minimum Common Value | ⚪ Unknown | General | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2634-minimum-common-value/minimum-common-value.java) |
 | 79 | 🟠 LC Word Search | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/79-word-search/word-search.java) |
 | 90 | 🟠 LC Subsets Ii | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/90-subsets-ii) |
 | 17 | 🟠 LC Letter Combinations Of A Phone Number | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java) |
