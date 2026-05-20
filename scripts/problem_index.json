@@ -398,5 +398,35 @@
     "title": "Minimum Multiplications to reach End",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-1064-smallest-integer-divisible-by-k": {
+    "title": "Smallest Integer Divisible by K",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-263-ugly-number": {
+    "title": "Ugly Number",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-2766-find-the-prefix-common-array-of-two-arrays": {
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-728-self-dividing-numbers": {
+    "title": "Self Dividing Numbers",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-9-palindrome-number": {
+    "title": "Palindrome Number",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "gfg-medium-product-pair": {
+    "title": "Product Pair",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
