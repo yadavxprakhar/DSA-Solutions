@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 263 | 🟠 LC Ugly Number | ⚪ Unknown | General | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/263-ugly-number/ugly-number.java) |
 | 9 | 🟠 LC Palindrome Number | ⚪ Unknown | Strings | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/9-palindrome-number/palindrome-number.java) |
 | 2766 | 🟠 LC Find The Prefix Common Array Of Two Arrays | ⚪ Unknown | Arrays | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2766-find-the-prefix-common-array-of-two-arrays/find-the-prefix-common-array-of-two-arrays.java) |
 | — | 🔵 GFG Minimum Multiplications to reach End | 🟡 Medium | General | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Minimum%20Multiplications%20to%20reach%20End/minimum-multiplications-to-reach-end.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 15 | 🟠 LC 3Sum | 🟡 Medium | Two Pointers | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/two-pointers/15-3sum/3sum.java) |
 | 1447 | 🟠 LC Jump Game Iv | 🔴 Hard | Graphs | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/1447-jump-game-iv/jump-game-iv.java) |
 | 1428 | 🟠 LC Jump Game Iii | 🟡 Medium | Graphs | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/1428-jump-game-iii/jump-game-iii.java) |
-| — | 🔵 GFG Subset Sum Problem | 🟡 Medium | Dynamic Programming | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Subset%20Sum%20Problem/subset-sum-problem.java) |
 <!-- RECENT:END -->
 
 ---
