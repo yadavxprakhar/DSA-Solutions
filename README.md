@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 728 | 🟠 LC Self Dividing Numbers | ⚪ Unknown | General | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/728-self-dividing-numbers/self-dividing-numbers.java) |
 | 1064 | 🟠 LC Smallest Integer Divisible By K | ⚪ Unknown | General | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1064-smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.java) |
 | 263 | 🟠 LC Ugly Number | ⚪ Unknown | General | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/263-ugly-number/ugly-number.java) |
 | 9 | 🟠 LC Palindrome Number | ⚪ Unknown | Strings | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/9-palindrome-number/palindrome-number.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 90 | 🟠 LC Subsets Ii | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/90-subsets-ii) |
 | 17 | 🟠 LC Letter Combinations Of A Phone Number | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java) |
 | 15 | 🟠 LC 3Sum | 🟡 Medium | Two Pointers | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/two-pointers/15-3sum/3sum.java) |
-| 1447 | 🟠 LC Jump Game Iv | 🔴 Hard | Graphs | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/1447-jump-game-iv/jump-game-iv.java) |
 <!-- RECENT:END -->
 
 ---
