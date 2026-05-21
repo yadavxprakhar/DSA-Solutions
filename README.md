@@ -122,18 +122,18 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
-| 3329 | 🟠 LC Find The Length Of The Longest Common Prefix | ⚪ Unknown | Strings | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3329-find-the-length-of-the-longest-common-prefix/find-the-length-of-the-longest-common-prefix.java) |
+| 1064 | 🟠 LC Smallest Integer Divisible By K | 🟡 Medium | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/1064-smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.java) |
+| 263 | 🟠 LC Ugly Number | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/263-ugly-number/ugly-number.java) |
+| 728 | 🟠 LC Self Dividing Numbers | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/728-self-dividing-numbers/self-dividing-numbers.java) |
+| 9 | 🟠 LC Palindrome Number | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/9-palindrome-number/palindrome-number.java) |
+| 3329 | 🟠 LC Find The Length Of The Longest Common Prefix | ⚪ Unknown | Strings | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/strings/3329-find-the-length-of-the-longest-common-prefix/find-the-length-of-the-longest-common-prefix.java) |
 | — | 🔵 GFG Product Pair | 🟡 Medium | General | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Product%20Pair/product-pair.java) |
-| 728 | 🟠 LC Self Dividing Numbers | 🟢 Easy | General | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/728-self-dividing-numbers/self-dividing-numbers.java) |
-| 1064 | 🟠 LC Smallest Integer Divisible By K | 🟡 Medium | General | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1064-smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.java) |
-| 263 | 🟠 LC Ugly Number | 🟢 Easy | General | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/263-ugly-number/ugly-number.java) |
-| 9 | 🟠 LC Palindrome Number | 🟢 Easy | Strings | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/9-palindrome-number/palindrome-number.java) |
-| 2766 | 🟠 LC Find The Prefix Common Array Of Two Arrays | 🟡 Medium | Arrays | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2766-find-the-prefix-common-array-of-two-arrays/find-the-prefix-common-array-of-two-arrays.java) |
 | — | 🔵 GFG Minimum Multiplications to reach End | 🟡 Medium | General | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Minimum%20Multiplications%20to%20reach%20End/minimum-multiplications-to-reach-end.java) |
 | 2634 | 🟠 LC Minimum Common Value | 🟡 Medium | Two Pointers | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/two-pointers/2634-minimum-common-value/minimum-common-value.java) |
 | 3933 | 🟠 LC Minimum Jumps To Reach End Via Prime Teleportation | 🟡 Medium | Graphs | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/3933-minimum-jumps-to-reach-end-via-prime-teleportation/minimum-jumps-to-reach-end-via-prime-teleportation.java) |
 | 79 | 🟠 LC Word Search | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/79-word-search/word-search.java) |
 | 90 | 🟠 LC Subsets Ii | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/90-subsets-ii) |
+| 17 | 🟠 LC Letter Combinations Of A Phone Number | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java) |
 <!-- RECENT:END -->
 
 ---
