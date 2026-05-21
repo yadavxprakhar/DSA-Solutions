@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 56 | 🟠 LC Merge Intervals | ⚪ Unknown | Linked List | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/56-merge-intervals/merge-intervals.java) |
 | 215 | 🟠 LC Kth Largest Element In An Array | ⚪ Unknown | Heap | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java) |
 | 1064 | 🟠 LC Smallest Integer Divisible By K | 🟡 Medium | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/1064-smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.java) |
 | 263 | 🟠 LC Ugly Number | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/263-ugly-number/ugly-number.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 2634 | 🟠 LC Minimum Common Value | 🟡 Medium | Two Pointers | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/two-pointers/2634-minimum-common-value/minimum-common-value.java) |
 | 3933 | 🟠 LC Minimum Jumps To Reach End Via Prime Teleportation | 🟡 Medium | Graphs | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/graphs/3933-minimum-jumps-to-reach-end-via-prime-teleportation/minimum-jumps-to-reach-end-via-prime-teleportation.java) |
 | 79 | 🟠 LC Word Search | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/recursion/79-word-search/word-search.java) |
-| 90 | 🟠 LC Subsets Ii | 🟡 Medium | Recursion | 2026-05-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/recursion/90-subsets-ii) |
 <!-- RECENT:END -->
 
 ---
