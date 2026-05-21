@@ -428,5 +428,25 @@
     "title": "Product Pair",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-3329-find-the-length-of-the-longest-common-prefix": {
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-2037-count-square-sum-triples": {
+    "title": "Count Square Sum Triples",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-215-kth-largest-element-in-an-array": {
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-56-merge-intervals": {
+    "title": "Merge Intervals",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
