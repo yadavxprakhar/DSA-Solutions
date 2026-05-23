@@ -453,5 +453,25 @@
     "title": "Search in Rotated Sorted Array",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "gfg-easy-array-leaders": {
+    "title": "Array Leaders",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-hard-minimize-max-distance-to-gas-station": {
+    "title": "Minimize Max Distance to Gas Station",
+    "difficulty": "hard",
+    "platform": "gfg"
+  },
+  "gfg-medium-substrings-with-k-distinct": {
+    "title": "Substrings with K Distinct",
+    "difficulty": "medium",
+    "platform": "gfg"
+  },
+  "gfg-medium-longest-consecutive-subsequence": {
+    "title": "Longest Consecutive Subsequence",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }

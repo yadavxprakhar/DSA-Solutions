@@ -27,8 +27,8 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
 | ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 18 | 40 | 4 | **62** |
-| ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 2 | 11 | 14 | 1 | **28** |
-| **Combined** | — | 29 | 54 | 5 | **90** |
+| ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 2 | 12 | 16 | 2 | **32** |
+| **Combined** | — | 30 | 56 | 6 | **94** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 62 (69%) | 28 (31%) |
-| Easy | 18 | 11 |
-| Medium | 40 | 14 |
-| Hard | 4 | 1 |
+| Problems | 62 (66%) | 32 (34%) |
+| Easy | 18 | 12 |
+| Medium | 40 | 16 |
+| Hard | 4 | 2 |
 | Basic (GFG) | — | 2 |
 
-> 📦 **Total across both platforms: 90 problems solved**
+> 📦 **Total across both platforms: 94 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -100,19 +100,19 @@ DSA-Solutions/
 <!-- TOPICS:START -->
 | Topic | Solved | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |-------|--------|----------|---------|-----------|---------|
-| Arrays | 5 | 0 | 1 | 4 | 0 |
+| Arrays | 6 | 0 | 2 | 4 | 0 |
 | Strings | 14 | 0 | 7 | 7 | 0 |
 | Linked List | 38 | 2 | 17 | 17 | 2 |
-| Trees | 1 | 0 | 0 | 1 | 0 |
+| Trees | 2 | 0 | 0 | 2 | 0 |
 | Graphs | 3 | 0 | 0 | 2 | 1 |
-| Dynamic Programming | 2 | 0 | 0 | 2 | 0 |
+| Dynamic Programming | 3 | 0 | 0 | 3 | 0 |
 | Two Pointers | 2 | 0 | 0 | 2 | 0 |
 | Binary Search | 3 | 0 | 0 | 2 | 1 |
 | Stack Queue | 1 | 0 | 0 | 0 | 1 |
 | Backtracking | 1 | 0 | 0 | 1 | 0 |
 | Math | 5 | 0 | 3 | 2 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 6 | 0 | 1 | 5 | 0 |
+| Uncategorized | 7 | 0 | 1 | 5 | 1 |
 <!-- TOPICS:END -->
 
 ---
@@ -120,20 +120,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| — | 🔵 GFG Longest Consecutive Subsequence | 🟡 Medium | Dynamic Programming | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Longest%20Consecutive%20Subsequence/longest-consecutive-subsequence.java) |
-| — | 🔵 GFG Array Leaders | 🟢 Easy | Arrays | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Array%20Leaders/array-leaders.java) |
-| — | 🔵 GFG Minimize Max Distance to Gas Station | 🔴 Hard | Greedy | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Minimize%20Max%20Distance%20to%20Gas%20Station/minimize-max-distance-to-gas-station.java) |
-| — | 🔵 GFG Substrings with K Distinct | 🟡 Medium | Trees | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Medium/Substrings%20with%20K%20Distinct) |
-| 33 | 🟠 LC Search In Rotated Sorted Array | 🟡 Medium | Binary Search | 2026-05-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/33-search-in-rotated-sorted-array) |
-| 2037 | 🟠 LC Count Square Sum Triples | 🟢 Easy | General | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2037-count-square-sum-triples/count-square-sum-triples.java) |
-| 56 | 🟠 LC Merge Intervals | 🟡 Medium | Linked List | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/56-merge-intervals/merge-intervals.java) |
-| 215 | 🟠 LC Kth Largest Element In An Array | 🟡 Medium | Heap | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java) |
-| 1064 | 🟠 LC Smallest Integer Divisible By K | 🟡 Medium | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/1064-smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.java) |
-| 263 | 🟠 LC Ugly Number | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/263-ugly-number/ugly-number.java) |
-| 728 | 🟠 LC Self Dividing Numbers | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/728-self-dividing-numbers/self-dividing-numbers.java) |
-| 9 | 🟠 LC Palindrome Number | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/9-palindrome-number/palindrome-number.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 3329 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Find the Length of the Longest Common Prefix | 🟡 Medium | Strings | [View →](./topics/strings/3329-find-the-length-of-the-longest-common-prefix/) |
+| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
+| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
+| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
 <!-- RECENT:END -->
 
 ---
