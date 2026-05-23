@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Substrings with K Distinct | 🟡 Medium | Trees | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Medium/Substrings%20with%20K%20Distinct) |
 | 33 | 🟠 LC Search In Rotated Sorted Array | 🟡 Medium | Binary Search | 2026-05-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/33-search-in-rotated-sorted-array) |
 | 2037 | 🟠 LC Count Square Sum Triples | 🟢 Easy | General | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2037-count-square-sum-triples/count-square-sum-triples.java) |
 | 56 | 🟠 LC Merge Intervals | 🟡 Medium | Linked List | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/56-merge-intervals/merge-intervals.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 3329 | 🟠 LC Find The Length Of The Longest Common Prefix | 🟡 Medium | Strings | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/strings/3329-find-the-length-of-the-longest-common-prefix/find-the-length-of-the-longest-common-prefix.java) |
 | — | 🔵 GFG Product Pair | 🟡 Medium | General | 2026-05-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Product%20Pair/product-pair.java) |
 | — | 🔵 GFG Minimum Multiplications to reach End | 🟡 Medium | General | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Minimum%20Multiplications%20to%20reach%20End/minimum-multiplications-to-reach-end.java) |
-| 2634 | 🟠 LC Minimum Common Value | 🟡 Medium | Two Pointers | 2026-05-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/two-pointers/2634-minimum-common-value/minimum-common-value.java) |
 <!-- RECENT:END -->
 
 ---
