@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Last Coin in a Game of Alternates | 🔵 Basic | Dynamic Programming | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Last%20Coin%20in%20a%20Game%20of%20Alternates/last-coin-in-a-game-of-alternates.java) |
 | — | 🔵 GFG Longest Consecutive Subsequence | 🟡 Medium | Dynamic Programming | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Longest%20Consecutive%20Subsequence/longest-consecutive-subsequence.java) |
 | — | 🔵 GFG Array Leaders | 🟢 Easy | Arrays | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Array%20Leaders/array-leaders.java) |
 | — | 🔵 GFG Minimize Max Distance to Gas Station | 🔴 Hard | Greedy | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Minimize%20Max%20Distance%20to%20Gas%20Station/minimize-max-distance-to-gas-station.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 1064 | 🟠 LC Smallest Integer Divisible By K | 🟡 Medium | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/1064-smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.java) |
 | 263 | 🟠 LC Ugly Number | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/263-ugly-number/ugly-number.java) |
 | 728 | 🟠 LC Self Dividing Numbers | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/728-self-dividing-numbers/self-dividing-numbers.java) |
-| 9 | 🟠 LC Palindrome Number | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/9-palindrome-number/palindrome-number.java) |
 <!-- RECENT:END -->
 
 ---
