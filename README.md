@@ -120,18 +120,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
-| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 3329 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Find the Length of the Longest Common Prefix | 🟡 Medium | Strings | [View →](./topics/strings/3329-find-the-length-of-the-longest-common-prefix/) |
-| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
-| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
-| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Longest Consecutive Subsequence | 🟡 Medium | Dynamic Programming | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Longest%20Consecutive%20Subsequence/longest-consecutive-subsequence.java) |
+| — | 🔵 GFG Array Leaders | 🟢 Easy | Arrays | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Array%20Leaders/array-leaders.java) |
+| — | 🔵 GFG Minimize Max Distance to Gas Station | 🔴 Hard | Greedy | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Minimize%20Max%20Distance%20to%20Gas%20Station/minimize-max-distance-to-gas-station.java) |
+| — | 🔵 GFG Substrings with K Distinct | 🟡 Medium | Trees | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Medium/Substrings%20with%20K%20Distinct) |
+| 33 | 🟠 LC Search In Rotated Sorted Array | 🟡 Medium | Binary Search | 2026-05-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/33-search-in-rotated-sorted-array) |
+| 2037 | 🟠 LC Count Square Sum Triples | 🟢 Easy | General | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2037-count-square-sum-triples/count-square-sum-triples.java) |
+| 56 | 🟠 LC Merge Intervals | 🟡 Medium | Linked List | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/56-merge-intervals/merge-intervals.java) |
+| 215 | 🟠 LC Kth Largest Element In An Array | 🟡 Medium | Heap | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java) |
+| 1064 | 🟠 LC Smallest Integer Divisible By K | 🟡 Medium | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/1064-smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.java) |
+| 263 | 🟠 LC Ugly Number | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/263-ugly-number/ugly-number.java) |
+| 728 | 🟠 LC Self Dividing Numbers | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/728-self-dividing-numbers/self-dividing-numbers.java) |
+| 9 | 🟠 LC Palindrome Number | 🟢 Easy | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/9-palindrome-number/palindrome-number.java) |
 <!-- RECENT:END -->
 
 ---
