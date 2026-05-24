@@ -473,5 +473,15 @@
     "title": "Longest Consecutive Subsequence",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-1466-jump-game-v": {
+    "title": "Jump Game V",
+    "difficulty": "hard",
+    "platform": "leetcode"
+  },
+  "gfg-basic-last-coin-in-a-game-of-alternates": {
+    "title": "Last Coin in a Game of Alternates",
+    "difficulty": "basic",
+    "platform": "gfg"
   }
 }
