@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Minimum Toogles to partition | 🟢 Easy | Dynamic Programming | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Minimum%20Toogles%20to%20partition/minimum-toogles-to-partition.java) |
 | 215 | 🟠 LC Kth Largest Element In An Array | 🟡 Medium | Arrays | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java) |
 | 56 | 🟠 LC Merge Intervals | 🟡 Medium | Arrays | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/56-merge-intervals/merge-intervals.java) |
 | 33 | 🟠 LC Search In Rotated Sorted Array | 🟡 Medium | Binary Search | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/binary-search/33-search-in-rotated-sorted-array) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | — | 🔵 GFG Array Leaders | 🟢 Easy | Arrays | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Array%20Leaders/array-leaders.java) |
 | — | 🔵 GFG Minimize Max Distance to Gas Station | 🔴 Hard | Greedy | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Minimize%20Max%20Distance%20to%20Gas%20Station/minimize-max-distance-to-gas-station.java) |
 | — | 🔵 GFG Substrings with K Distinct | 🟡 Medium | Trees | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Medium/Substrings%20with%20K%20Distinct) |
-| 1064 | 🟠 LC Smallest Integer Divisible By K | 🟡 Medium | Math | 2026-05-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/1064-smallest-integer-divisible-by-k/smallest-integer-divisible-by-k.java) |
 <!-- RECENT:END -->
 
 ---
