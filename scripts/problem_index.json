@@ -483,5 +483,10 @@
     "title": "Last Coin in a Game of Alternates",
     "difficulty": "basic",
     "platform": "gfg"
+  },
+  "lc-2001-jump-game-vii": {
+    "title": "Jump Game VII",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
