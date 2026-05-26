@@ -488,5 +488,10 @@
     "title": "Jump Game VII",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "gfg-easy-minimum-toogles-to-partition": {
+    "title": "Minimum Toogles to partition",
+    "difficulty": "easy",
+    "platform": "gfg"
   }
 }
