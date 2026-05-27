@@ -493,5 +493,10 @@
     "title": "Minimum Toogles to partition",
     "difficulty": "easy",
     "platform": "gfg"
+  },
+  "lc-3405-count-the-number-of-special-characters-ii": {
+    "title": "Count the Number of Special Characters II",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
