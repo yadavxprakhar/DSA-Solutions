@@ -122,18 +122,18 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3405 | 🟠 LC Count The Number Of Special Characters Ii | ⚪ Unknown | Strings | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3405-count-the-number-of-special-characters-ii/count-the-number-of-special-characters-ii.java) |
 | — | 🔵 GFG Minimum Toogles to partition | 🟢 Easy | Dynamic Programming | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Minimum%20Toogles%20to%20partition/minimum-toogles-to-partition.java) |
 | 215 | 🟠 LC Kth Largest Element In An Array | 🟡 Medium | Arrays | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java) |
 | 56 | 🟠 LC Merge Intervals | 🟡 Medium | Arrays | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/56-merge-intervals/merge-intervals.java) |
 | 33 | 🟠 LC Search In Rotated Sorted Array | 🟡 Medium | Binary Search | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/binary-search/33-search-in-rotated-sorted-array) |
-| 1466 | 🟠 LC Jump Game V | 🔴 Hard | Dynamic Programming | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/1466-jump-game-v/jump-game-v.java) |
 | 2001 | 🟠 LC Jump Game Vii | 🟡 Medium | Dynamic Programming | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/2001-jump-game-vii/jump-game-vii.java) |
+| 1466 | 🟠 LC Jump Game V | 🔴 Hard | Dynamic Programming | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/1466-jump-game-v/jump-game-v.java) |
 | 2037 | 🟠 LC Count Square Sum Triples | 🟢 Easy | Math | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/2037-count-square-sum-triples/count-square-sum-triples.java) |
 | — | 🔵 GFG Last Coin in a Game of Alternates | 🔵 Basic | Dynamic Programming | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Last%20Coin%20in%20a%20Game%20of%20Alternates/last-coin-in-a-game-of-alternates.java) |
 | — | 🔵 GFG Longest Consecutive Subsequence | 🟡 Medium | Dynamic Programming | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Longest%20Consecutive%20Subsequence/longest-consecutive-subsequence.java) |
 | — | 🔵 GFG Array Leaders | 🟢 Easy | Arrays | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Array%20Leaders/array-leaders.java) |
 | — | 🔵 GFG Minimize Max Distance to Gas Station | 🔴 Hard | Greedy | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Hard/Minimize%20Max%20Distance%20to%20Gas%20Station/minimize-max-distance-to-gas-station.java) |
-| — | 🔵 GFG Substrings with K Distinct | 🟡 Medium | Trees | 2026-05-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Medium/Substrings%20with%20K%20Distinct) |
 <!-- RECENT:END -->
 
 ---
