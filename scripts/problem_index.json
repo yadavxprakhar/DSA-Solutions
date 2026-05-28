@@ -498,5 +498,25 @@
     "title": "Count the Number of Special Characters II",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-10-regular-expression-matching": {
+    "title": "Regular Expression Matching",
+    "difficulty": "hard",
+    "platform": "leetcode"
+  },
+  "lc-29-divide-two-integers": {
+    "title": "Divide Two Integers",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-3376-longest-common-suffix-queries": {
+    "title": "Longest Common Suffix Queries",
+    "difficulty": "hard",
+    "platform": "leetcode"
+  },
+  "lc-43-multiply-strings": {
+    "title": "Multiply Strings",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
