@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3606 | 🟠 LC Minimum Element After Replacement With Digit Sum | ⚪ Unknown | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3606-minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.java) |
 | 10 | 🟠 LC Regular Expression Matching | 🔴 Hard | General | 2026-05-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/10-regular-expression-matching/regular-expression-matching.java) |
 | 3376 | 🟠 LC Longest Common Suffix Queries | 🔴 Hard | Strings | 2026-05-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3376-longest-common-suffix-queries/longest-common-suffix-queries.java) |
 | 43 | 🟠 LC Multiply Strings | 🟡 Medium | Strings | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/43-multiply-strings/multiply-strings.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 33 | 🟠 LC Search In Rotated Sorted Array | 🟡 Medium | Binary Search | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/binary-search/33-search-in-rotated-sorted-array) |
 | 2001 | 🟠 LC Jump Game Vii | 🟡 Medium | Dynamic Programming | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/2001-jump-game-vii/jump-game-vii.java) |
 | 1466 | 🟠 LC Jump Game V | 🔴 Hard | Dynamic Programming | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/1466-jump-game-v/jump-game-v.java) |
-| 2037 | 🟠 LC Count Square Sum Triples | 🟢 Easy | Math | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/2037-count-square-sum-triples/count-square-sum-triples.java) |
 <!-- RECENT:END -->
 
 ---
