@@ -518,5 +518,20 @@
     "title": "Multiply Strings",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-227-basic-calculator-ii": {
+    "title": "Basic Calculator II",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-3606-minimum-element-after-replacement-with-digit-sum": {
+    "title": "Minimum Element After Replacement With Digit Sum",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "gfg-medium-count-sorted-digit-groupings": {
+    "title": "Count Sorted Digit Groupings",
+    "difficulty": "medium",
+    "platform": "gfg"
   }
 }
