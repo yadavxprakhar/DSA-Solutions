@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 19 | 45 | 7 | **71** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 19 | 45 | 8 | **72** |
 | ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 3 | 13 | 17 | 2 | **35** |
-| **Combined** | — | 32 | 62 | 9 | **106** |
+| **Combined** | — | 32 | 62 | 10 | **107** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 71 (67%) | 35 (33%) |
+| Problems | 72 (67%) | 35 (33%) |
 | Easy | 19 | 13 |
 | Medium | 45 | 17 |
-| Hard | 7 | 2 |
+| Hard | 8 | 2 |
 | Basic (GFG) | — | 3 |
 
-> 📦 **Total across both platforms: 106 problems solved**
+> 📦 **Total across both platforms: 107 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -112,7 +112,7 @@ DSA-Solutions/
 | Backtracking | 1 | 0 | 0 | 1 | 0 |
 | Math | 6 | 0 | 4 | 2 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 10 | 0 | 1 | 6 | 3 |
+| Uncategorized | 11 | 0 | 1 | 6 | 4 |
 <!-- TOPICS:END -->
 
 ---
@@ -120,20 +120,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 3435 | 🟠 LC Block Placement Queries | ⚪ Unknown | General | 2026-05-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3435-block-placement-queries/block-placement-queries.java) |
-| — | 🔵 GFG Count Sorted Digit Groupings | 🟡 Medium | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Count%20Sorted%20Digit%20Groupings/count-sorted-digit-groupings.java) |
-| 227 | 🟠 LC Basic Calculator Ii | 🟡 Medium | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/227-basic-calculator-ii/basic-calculator-ii.java) |
-| 3606 | 🟠 LC Minimum Element After Replacement With Digit Sum | 🟢 Easy | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3606-minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.java) |
-| 10 | 🟠 LC Regular Expression Matching | 🔴 Hard | General | 2026-05-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/10-regular-expression-matching/regular-expression-matching.java) |
-| 3376 | 🟠 LC Longest Common Suffix Queries | 🔴 Hard | Strings | 2026-05-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3376-longest-common-suffix-queries/longest-common-suffix-queries.java) |
-| 43 | 🟠 LC Multiply Strings | 🟡 Medium | Strings | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/43-multiply-strings/multiply-strings.java) |
-| 29 | 🟠 LC Divide Two Integers | 🟡 Medium | General | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/29-divide-two-integers/divide-two-integers.java) |
-| 3405 | 🟠 LC Count The Number Of Special Characters Ii | 🟡 Medium | Strings | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3405-count-the-number-of-special-characters-ii/count-the-number-of-special-characters-ii.java) |
-| — | 🔵 GFG Minimum Toogles to partition | 🟢 Easy | Dynamic Programming | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Minimum%20Toogles%20to%20partition/minimum-toogles-to-partition.java) |
-| 215 | 🟠 LC Kth Largest Element In An Array | 🟡 Medium | Arrays | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java) |
-| 56 | 🟠 LC Merge Intervals | 🟡 Medium | Arrays | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/56-merge-intervals/merge-intervals.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 3329 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Find the Length of the Longest Common Prefix | 🟡 Medium | Strings | [View →](./topics/strings/3329-find-the-length-of-the-longest-common-prefix/) |
+| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
+| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
+| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
 <!-- RECENT:END -->
 
 ---

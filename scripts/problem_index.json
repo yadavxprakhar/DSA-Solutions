@@ -533,5 +533,10 @@
     "title": "Count Sorted Digit Groupings",
     "difficulty": "medium",
     "platform": "gfg"
+  },
+  "lc-3435-block-placement-queries": {
+    "title": "Block Placement Queries",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
