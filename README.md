@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2245 | 🟠 LC Destroying Asteroids | ⚪ Unknown | General | 2026-05-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/2245-destroying-asteroids) |
 | 16 | 🟠 LC 3Sum Closest | ⚪ Unknown | General | 2026-05-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/16-3sum-closest/3sum-closest.java) |
 | 3435 | 🟠 LC Block Placement Queries | 🔴 Hard | General | 2026-05-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3435-block-placement-queries/block-placement-queries.java) |
 | — | 🔵 GFG Count Sorted Digit Groupings | 🟡 Medium | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Count%20Sorted%20Digit%20Groupings/count-sorted-digit-groupings.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 29 | 🟠 LC Divide Two Integers | 🟡 Medium | General | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/29-divide-two-integers/divide-two-integers.java) |
 | 3405 | 🟠 LC Count The Number Of Special Characters Ii | 🟡 Medium | Strings | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3405-count-the-number-of-special-characters-ii/count-the-number-of-special-characters-ii.java) |
 | — | 🔵 GFG Minimum Toogles to partition | 🟢 Easy | Dynamic Programming | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Minimum%20Toogles%20to%20partition/minimum-toogles-to-partition.java) |
-| 215 | 🟠 LC Kth Largest Element In An Array | 🟡 Medium | Arrays | 2026-05-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java) |
 <!-- RECENT:END -->
 
 ---
