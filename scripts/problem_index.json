@@ -538,5 +538,15 @@
     "title": "Block Placement Queries",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-16-3sum-closest": {
+    "title": "3Sum Closest",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-2245-destroying-asteroids": {
+    "title": "Destroying Asteroids",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
