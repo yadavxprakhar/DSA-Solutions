@@ -548,5 +548,10 @@
     "title": "Destroying Asteroids",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2248-minimum-cost-of-buying-candies-with-discount": {
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
