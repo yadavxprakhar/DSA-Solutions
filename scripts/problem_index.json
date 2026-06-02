@@ -553,5 +553,10 @@
     "title": "Minimum Cost of Buying Candies With Discount",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3965-earliest-finish-time-for-land-and-water-rides-i": {
+    "title": "Earliest Finish Time for Land and Water Rides I",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
