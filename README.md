@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3965 | 🟠 LC Earliest Finish Time For Land And Water Rides I | ⚪ Unknown | General | 2026-06-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | 2248 | 🟠 LC Minimum Cost Of Buying Candies With Discount | 🟢 Easy | Greedy | 2026-06-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2248-minimum-cost-of-buying-candies-with-discount/minimum-cost-of-buying-candies-with-discount.java) |
 | 2245 | 🟠 LC Destroying Asteroids | 🟡 Medium | General | 2026-05-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/2245-destroying-asteroids) |
 | 16 | 🟠 LC 3Sum Closest | 🟡 Medium | General | 2026-05-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/16-3sum-closest/3sum-closest.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 3376 | 🟠 LC Longest Common Suffix Queries | 🔴 Hard | Strings | 2026-05-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3376-longest-common-suffix-queries/longest-common-suffix-queries.java) |
 | 43 | 🟠 LC Multiply Strings | 🟡 Medium | Strings | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/43-multiply-strings/multiply-strings.java) |
 | 29 | 🟠 LC Divide Two Integers | 🟡 Medium | General | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/29-divide-two-integers/divide-two-integers.java) |
-| 3405 | 🟠 LC Count The Number Of Special Characters Ii | 🟡 Medium | Strings | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3405-count-the-number-of-special-characters-ii/count-the-number-of-special-characters-ii.java) |
 <!-- RECENT:END -->
 
 ---
