@@ -558,5 +558,15 @@
     "title": "Earliest Finish Time for Land and Water Rides I",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-225-implement-stack-using-queues": {
+    "title": "Implement Stack using Queues",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-3967-earliest-finish-time-for-land-and-water-rides-ii": {
+    "title": "Earliest Finish Time for Land and Water Rides II",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
