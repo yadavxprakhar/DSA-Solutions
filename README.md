@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 225 | 🟠 LC Implement Stack Using Queues | ⚪ Unknown | Stack Queue | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/225-implement-stack-using-queues/implement-stack-using-queues.java) |
 | 3967 | 🟠 LC Earliest Finish Time For Land And Water Rides Ii | ⚪ Unknown | General | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3967-earliest-finish-time-for-land-and-water-rides-ii/earliest-finish-time-for-land-and-water-rides-ii.java) |
 | 3965 | 🟠 LC Earliest Finish Time For Land And Water Rides I | 🟢 Easy | General | 2026-06-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | 2248 | 🟠 LC Minimum Cost Of Buying Candies With Discount | 🟢 Easy | Greedy | 2026-06-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2248-minimum-cost-of-buying-candies-with-discount/minimum-cost-of-buying-candies-with-discount.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 3606 | 🟠 LC Minimum Element After Replacement With Digit Sum | 🟢 Easy | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3606-minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.java) |
 | 10 | 🟠 LC Regular Expression Matching | 🔴 Hard | General | 2026-05-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/10-regular-expression-matching/regular-expression-matching.java) |
 | 3376 | 🟠 LC Longest Common Suffix Queries | 🔴 Hard | Strings | 2026-05-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3376-longest-common-suffix-queries/longest-common-suffix-queries.java) |
-| 43 | 🟠 LC Multiply Strings | 🟡 Medium | Strings | 2026-05-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/43-multiply-strings/multiply-strings.java) |
 <!-- RECENT:END -->
 
 ---
