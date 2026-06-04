@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Odd or Even | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Odd%20or%20Even/odd-or-even.java) |
 | — | 🔵 GFG Count Set Bits | 🟢 Easy | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Count%20Set%20Bits/count-set-bits.java) |
 | 231 | 🟠 LC Power Of Two | ⚪ Unknown | Math | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/231-power-of-two/power-of-two.java) |
 | — | 🔵 GFG Replace the Bit | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Basic/Replace%20the%20Bit) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 4057 | 🟠 LC Total Waviness Of Numbers In Range I | ⚪ Unknown | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4057-total-waviness-of-numbers-in-range-i/total-waviness-of-numbers-in-range-i.java) |
 | 225 | 🟠 LC Implement Stack Using Queues | 🟢 Easy | Stack Queue | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/225-implement-stack-using-queues/implement-stack-using-queues.java) |
 | 3967 | 🟠 LC Earliest Finish Time For Land And Water Rides Ii | 🟡 Medium | General | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3967-earliest-finish-time-for-land-and-water-rides-ii/earliest-finish-time-for-land-and-water-rides-ii.java) |
-| 3965 | 🟠 LC Earliest Finish Time For Land And Water Rides I | 🟢 Easy | General | 2026-06-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3965-earliest-finish-time-for-land-and-water-rides-i) |
 <!-- RECENT:END -->
 
 ---
