@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Set kth bit | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Basic/Set%20kth%20bit) |
 | — | 🔵 GFG Check K-th Bit | 🟢 Easy | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Check%20K-th%20Bit/check-kth-bit.java) |
 | — | 🔵 GFG Swap The Numbers | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Swap%20The%20Numbers/swap-the-numbers.java) |
 | — | 🔵 GFG Binary to Decimal | 🔵 Basic | Trees | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Binary%20to%20Decimal/binary-to-decimal.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 2248 | 🟠 LC Minimum Cost Of Buying Candies With Discount | 🟢 Easy | Greedy | 2026-06-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2248-minimum-cost-of-buying-candies-with-discount/minimum-cost-of-buying-candies-with-discount.java) |
 | 2245 | 🟠 LC Destroying Asteroids | 🟡 Medium | General | 2026-05-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/2245-destroying-asteroids) |
 | 16 | 🟠 LC 3Sum Closest | 🟡 Medium | General | 2026-05-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/16-3sum-closest/3sum-closest.java) |
-| 3435 | 🟠 LC Block Placement Queries | 🔴 Hard | General | 2026-05-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3435-block-placement-queries/block-placement-queries.java) |
 <!-- RECENT:END -->
 
 ---
