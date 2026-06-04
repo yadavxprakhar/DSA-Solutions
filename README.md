@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Swap The Numbers | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Swap%20The%20Numbers/swap-the-numbers.java) |
 | — | 🔵 GFG Binary to Decimal | 🔵 Basic | Trees | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Binary%20to%20Decimal/binary-to-decimal.java) |
 | — | 🔵 GFG Decimal to binary | 🟢 Easy | Trees | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Decimal%20to%20binary/decimal-to-binary.java) |
 | 4057 | 🟠 LC Total Waviness Of Numbers In Range I | ⚪ Unknown | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4057-total-waviness-of-numbers-in-range-i/total-waviness-of-numbers-in-range-i.java) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 16 | 🟠 LC 3Sum Closest | 🟡 Medium | General | 2026-05-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/16-3sum-closest/3sum-closest.java) |
 | 3435 | 🟠 LC Block Placement Queries | 🔴 Hard | General | 2026-05-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3435-block-placement-queries/block-placement-queries.java) |
 | — | 🔵 GFG Count Sorted Digit Groupings | 🟡 Medium | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Medium/Count%20Sorted%20Digit%20Groupings/count-sorted-digit-groupings.java) |
-| 227 | 🟠 LC Basic Calculator Ii | 🟡 Medium | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/227-basic-calculator-ii/basic-calculator-ii.java) |
 <!-- RECENT:END -->
 
 ---
