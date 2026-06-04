@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4057 | 🟠 LC Total Waviness Of Numbers In Range I | ⚪ Unknown | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4057-total-waviness-of-numbers-in-range-i/total-waviness-of-numbers-in-range-i.java) |
 | 225 | 🟠 LC Implement Stack Using Queues | 🟢 Easy | Stack Queue | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/225-implement-stack-using-queues/implement-stack-using-queues.java) |
 | 3967 | 🟠 LC Earliest Finish Time For Land And Water Rides Ii | 🟡 Medium | General | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3967-earliest-finish-time-for-land-and-water-rides-ii/earliest-finish-time-for-land-and-water-rides-ii.java) |
 | 3965 | 🟠 LC Earliest Finish Time For Land And Water Rides I | 🟢 Easy | General | 2026-06-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 227 | 🟠 LC Basic Calculator Ii | 🟡 Medium | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/227-basic-calculator-ii/basic-calculator-ii.java) |
 | 3606 | 🟠 LC Minimum Element After Replacement With Digit Sum | 🟢 Easy | General | 2026-05-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3606-minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.java) |
 | 10 | 🟠 LC Regular Expression Matching | 🔴 Hard | General | 2026-05-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/10-regular-expression-matching/regular-expression-matching.java) |
-| 3376 | 🟠 LC Longest Common Suffix Queries | 🔴 Hard | Strings | 2026-05-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3376-longest-common-suffix-queries/longest-common-suffix-queries.java) |
 <!-- RECENT:END -->
 
 ---
