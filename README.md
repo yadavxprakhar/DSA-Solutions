@@ -100,19 +100,20 @@ DSA-Solutions/
 <!-- TOPICS:START -->
 | Topic | Solved | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |-------|--------|----------|---------|-----------|---------|
-| Arrays | 9 | 0 | 2 | 7 | 0 |
-| Strings | 14 | 0 | 7 | 7 | 0 |
+| Arrays | 10 | 0 | 3 | 7 | 0 |
+| Strings | 17 | 0 | 7 | 9 | 1 |
 | Linked List | 38 | 2 | 17 | 17 | 2 |
 | Trees | 4 | 1 | 1 | 2 | 0 |
 | Graphs | 3 | 0 | 0 | 2 | 1 |
-| Dynamic Programming | 7 | 1 | 1 | 4 | 1 |
-| Two Pointers | 2 | 0 | 0 | 2 | 0 |
-| Binary Search | 4 | 0 | 0 | 3 | 1 |
-| Stack Queue | 1 | 0 | 0 | 0 | 1 |
+| Dynamic Programming | 9 | 1 | 1 | 5 | 2 |
+| Two Pointers | 3 | 0 | 0 | 3 | 0 |
+| Binary Search | 5 | 0 | 0 | 3 | 2 |
+| Stack Queue | 3 | 0 | 1 | 1 | 1 |
 | Backtracking | 1 | 0 | 0 | 1 | 0 |
-| Math | 6 | 0 | 4 | 2 | 0 |
+| Greedy | 4 | 0 | 2 | 2 | 0 |
+| Math | 8 | 0 | 5 | 3 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 25 | 4 | 7 | 10 | 4 |
+| Uncategorized | 9 | 4 | 2 | 2 | 1 |
 <!-- TOPICS:END -->
 
 ---
@@ -120,20 +121,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 3606 | 🟠 LC Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/3606-minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.java) |
-| 3435 | 🟠 LC Block Placement Queries | 🔴 Hard | Binary Search | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/3435-block-placement-queries/block-placement-queries.java) |
-| 4057 | 🟠 LC Total Waviness Of Numbers In Range I | 🟡 Medium | Dynamic Programming | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/4057-total-waviness-of-numbers-in-range-i/total-waviness-of-numbers-in-range-i.java) |
-| 3965 | 🟠 LC Earliest Finish Time For Land And Water Rides I | 🟢 Easy | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/greedy/3965-earliest-finish-time-for-land-and-water-rides-i) |
-| 3967 | 🟠 LC Earliest Finish Time For Land And Water Rides Ii | 🟡 Medium | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/greedy/3967-earliest-finish-time-for-land-and-water-rides-ii/earliest-finish-time-for-land-and-water-rides-ii.java) |
-| 3405 | 🟠 LC Count The Number Of Special Characters Ii | 🟡 Medium | Strings | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/strings/3405-count-the-number-of-special-characters-ii/count-the-number-of-special-characters-ii.java) |
-| 10 | 🟠 LC Regular Expression Matching | 🔴 Hard | Dynamic Programming | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/10-regular-expression-matching/regular-expression-matching.java) |
-| 2245 | 🟠 LC Destroying Asteroids | 🟡 Medium | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/greedy/2245-destroying-asteroids) |
-| 2248 | 🟠 LC Minimum Cost Of Buying Candies With Discount | 🟢 Easy | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/greedy/2248-minimum-cost-of-buying-candies-with-discount/minimum-cost-of-buying-candies-with-discount.java) |
-| 29 | 🟠 LC Divide Two Integers | 🟡 Medium | Math | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/29-divide-two-integers/divide-two-integers.java) |
-| 231 | 🟠 LC Power Of Two | 🟢 Easy | Math | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/231-power-of-two/power-of-two.java) |
-| 227 | 🟠 LC Basic Calculator Ii | 🟡 Medium | Stack Queue | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/stack-queue/227-basic-calculator-ii/basic-calculator-ii.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
+| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
+| 3376 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Common Suffix Queries | 🔴 Hard | Strings | [View →](./topics/strings/3376-longest-common-suffix-queries/) |
 <!-- RECENT:END -->
 
 ---
