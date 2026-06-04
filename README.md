@@ -122,6 +122,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| — | 🔵 GFG Count Set Bits | 🟢 Easy | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Count%20Set%20Bits/count-set-bits.java) |
 | 231 | 🟠 LC Power Of Two | ⚪ Unknown | Math | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/231-power-of-two/power-of-two.java) |
 | — | 🔵 GFG Replace the Bit | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Basic/Replace%20the%20Bit) |
 | — | 🔵 GFG Set kth bit | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Basic/Set%20kth%20bit) |
@@ -133,7 +134,6 @@ DSA-Solutions/
 | 225 | 🟠 LC Implement Stack Using Queues | 🟢 Easy | Stack Queue | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/225-implement-stack-using-queues/implement-stack-using-queues.java) |
 | 3967 | 🟠 LC Earliest Finish Time For Land And Water Rides Ii | 🟡 Medium | General | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3967-earliest-finish-time-for-land-and-water-rides-ii/earliest-finish-time-for-land-and-water-rides-ii.java) |
 | 3965 | 🟠 LC Earliest Finish Time For Land And Water Rides I | 🟢 Easy | General | 2026-06-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3965-earliest-finish-time-for-land-and-water-rides-i) |
-| 2248 | 🟠 LC Minimum Cost Of Buying Candies With Discount | 🟢 Easy | Greedy | 2026-06-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2248-minimum-cost-of-buying-candies-with-discount/minimum-cost-of-buying-candies-with-discount.java) |
 <!-- RECENT:END -->
 
 ---
