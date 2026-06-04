@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 22 | 48 | 8 | **78** |
-| ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 3 | 13 | 17 | 2 | **35** |
-| **Combined** | — | 35 | 65 | 10 | **113** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 23 | 49 | 8 | **80** |
+| ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 8 | 16 | 17 | 2 | **43** |
+| **Combined** | — | 39 | 66 | 10 | **123** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 78 (69%) | 35 (31%) |
-| Easy | 22 | 13 |
-| Medium | 48 | 17 |
+| Problems | 80 (65%) | 43 (35%) |
+| Easy | 23 | 16 |
+| Medium | 49 | 17 |
 | Hard | 8 | 2 |
-| Basic (GFG) | — | 3 |
+| Basic (GFG) | — | 8 |
 
-> 📦 **Total across both platforms: 113 problems solved**
+> 📦 **Total across both platforms: 123 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -103,7 +103,7 @@ DSA-Solutions/
 | Arrays | 9 | 0 | 2 | 7 | 0 |
 | Strings | 14 | 0 | 7 | 7 | 0 |
 | Linked List | 38 | 2 | 17 | 17 | 2 |
-| Trees | 2 | 0 | 0 | 2 | 0 |
+| Trees | 4 | 1 | 1 | 2 | 0 |
 | Graphs | 3 | 0 | 0 | 2 | 1 |
 | Dynamic Programming | 7 | 1 | 1 | 4 | 1 |
 | Two Pointers | 2 | 0 | 0 | 2 | 0 |
@@ -112,7 +112,7 @@ DSA-Solutions/
 | Backtracking | 1 | 0 | 0 | 1 | 0 |
 | Math | 6 | 0 | 4 | 2 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 17 | 0 | 4 | 9 | 4 |
+| Uncategorized | 25 | 4 | 7 | 10 | 4 |
 <!-- TOPICS:END -->
 
 ---
@@ -120,20 +120,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| — | 🔵 GFG Odd or Even | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Odd%20or%20Even/odd-or-even.java) |
-| — | 🔵 GFG Count Set Bits | 🟢 Easy | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Count%20Set%20Bits/count-set-bits.java) |
-| 231 | 🟠 LC Power Of Two | ⚪ Unknown | Math | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/231-power-of-two/power-of-two.java) |
-| — | 🔵 GFG Replace the Bit | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Basic/Replace%20the%20Bit) |
-| — | 🔵 GFG Set kth bit | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/Difficulty%3A%20Basic/Set%20kth%20bit) |
-| — | 🔵 GFG Check K-th Bit | 🟢 Easy | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Check%20K-th%20Bit/check-kth-bit.java) |
-| — | 🔵 GFG Swap The Numbers | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Swap%20The%20Numbers/swap-the-numbers.java) |
-| — | 🔵 GFG Binary to Decimal | 🔵 Basic | Trees | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Binary%20to%20Decimal/binary-to-decimal.java) |
-| — | 🔵 GFG Decimal to binary | 🟢 Easy | Trees | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Decimal%20to%20binary/decimal-to-binary.java) |
-| 4057 | 🟠 LC Total Waviness Of Numbers In Range I | ⚪ Unknown | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4057-total-waviness-of-numbers-in-range-i/total-waviness-of-numbers-in-range-i.java) |
-| 225 | 🟠 LC Implement Stack Using Queues | 🟢 Easy | Stack Queue | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/225-implement-stack-using-queues/implement-stack-using-queues.java) |
-| 3967 | 🟠 LC Earliest Finish Time For Land And Water Rides Ii | 🟡 Medium | General | 2026-06-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3967-earliest-finish-time-for-land-and-water-rides-ii/earliest-finish-time-for-land-and-water-rides-ii.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 3329 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Find the Length of the Longest Common Prefix | 🟡 Medium | Strings | [View →](./topics/strings/3329-find-the-length-of-the-longest-common-prefix/) |
+| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
+| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
+| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
 <!-- RECENT:END -->
 
 ---

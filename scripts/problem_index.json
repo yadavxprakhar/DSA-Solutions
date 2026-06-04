@@ -568,5 +568,55 @@
     "title": "Earliest Finish Time for Land and Water Rides II",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-231-power-of-two": {
+    "title": "Power of Two",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-4057-total-waviness-of-numbers-in-range-i": {
+    "title": "Total Waviness of Numbers in Range I",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "gfg-basic-swap-the-numbers": {
+    "title": "Swap The Numbers",
+    "difficulty": "basic",
+    "platform": "gfg"
+  },
+  "gfg-basic-set-kth-bit": {
+    "title": "Set kth bit",
+    "difficulty": "basic",
+    "platform": "gfg"
+  },
+  "gfg-basic-replace-the-bit": {
+    "title": "Replace the Bit",
+    "difficulty": "basic",
+    "platform": "gfg"
+  },
+  "gfg-basic-odd-or-even": {
+    "title": "Odd or Even",
+    "difficulty": "basic",
+    "platform": "gfg"
+  },
+  "gfg-basic-binary-to-decimal": {
+    "title": "Binary to Decimal",
+    "difficulty": "basic",
+    "platform": "gfg"
+  },
+  "gfg-easy-decimal-to-binary": {
+    "title": "Decimal to binary",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-count-set-bits": {
+    "title": "Count Set Bits",
+    "difficulty": "easy",
+    "platform": "gfg"
+  },
+  "gfg-easy-check-k-th-bit": {
+    "title": "Check K-th Bit",
+    "difficulty": "easy",
+    "platform": "gfg"
   }
 }
