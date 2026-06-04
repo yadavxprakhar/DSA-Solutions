@@ -120,18 +120,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
-| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 3329 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Find the Length of the Longest Common Prefix | 🟡 Medium | Strings | [View →](./topics/strings/3329-find-the-length-of-the-longest-common-prefix/) |
-| 242 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Valid Anagram | 🟢 Easy | Strings | [View →](./topics/strings/242-valid-anagram/) |
-| 205 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Isomorphic Strings | 🟢 Easy | Strings | [View →](./topics/strings/205-isomorphic-strings/) |
-| 2032 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Largest Odd Number in String | 🟢 Easy | Strings | [View →](./topics/strings/2032-largest-odd-number-in-string/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| 10 | 🟠 LC Regular Expression Matching | 🔴 Hard | Dynamic Programming | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/10-regular-expression-matching/regular-expression-matching.java) |
+| 2245 | 🟠 LC Destroying Asteroids | 🟡 Medium | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/greedy/2245-destroying-asteroids) |
+| 2248 | 🟠 LC Minimum Cost Of Buying Candies With Discount | 🟢 Easy | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/greedy/2248-minimum-cost-of-buying-candies-with-discount/minimum-cost-of-buying-candies-with-discount.java) |
+| 29 | 🟠 LC Divide Two Integers | 🟡 Medium | Math | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/29-divide-two-integers/divide-two-integers.java) |
+| 231 | 🟠 LC Power Of Two | 🟢 Easy | Math | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/231-power-of-two/power-of-two.java) |
+| 227 | 🟠 LC Basic Calculator Ii | 🟡 Medium | Stack Queue | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/stack-queue/227-basic-calculator-ii/basic-calculator-ii.java) |
+| 225 | 🟠 LC Implement Stack Using Queues | 🟢 Easy | Stack Queue | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/stack-queue/225-implement-stack-using-queues/implement-stack-using-queues.java) |
+| 3376 | 🟠 LC Longest Common Suffix Queries | 🔴 Hard | Strings | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/strings/3376-longest-common-suffix-queries/longest-common-suffix-queries.java) |
+| 43 | 🟠 LC Multiply Strings | 🟡 Medium | Strings | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/strings/43-multiply-strings/multiply-strings.java) |
+| 16 | 🟠 LC 3Sum Closest | 🟡 Medium | Two Pointers | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/two-pointers/16-3sum-closest/3sum-closest.java) |
+| — | 🔵 GFG Odd or Even | 🔵 Basic | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Basic/Odd%20or%20Even/odd-or-even.java) |
+| — | 🔵 GFG Count Set Bits | 🟢 Easy | General | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/Difficulty%3A%20Easy/Count%20Set%20Bits/count-set-bits.java) |
 <!-- RECENT:END -->
 
 ---
