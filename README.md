@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4128 | 🟠 LC Total Waviness Of Numbers In Range Ii | ⚪ Unknown | General | 2026-06-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4128-total-waviness-of-numbers-in-range-ii) |
 | 2323 | 🟠 LC Minimum Bit Flips To Convert Number | ⚪ Unknown | General | 2026-06-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2323-minimum-bit-flips-to-convert-number/minimum-bit-flips-to-convert-number.java) |
 | 3606 | 🟠 LC Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/3606-minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.java) |
 | 3435 | 🟠 LC Block Placement Queries | 🔴 Hard | Binary Search | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/3435-block-placement-queries/block-placement-queries.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2245 | 🟠 LC Destroying Asteroids | 🟡 Medium | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/greedy/2245-destroying-asteroids) |
 | 2248 | 🟠 LC Minimum Cost Of Buying Candies With Discount | 🟢 Easy | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/greedy/2248-minimum-cost-of-buying-candies-with-discount/minimum-cost-of-buying-candies-with-discount.java) |
 | 29 | 🟠 LC Divide Two Integers | 🟡 Medium | Math | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/29-divide-two-integers/divide-two-integers.java) |
-| 231 | 🟠 LC Power Of Two | 🟢 Easy | Math | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/231-power-of-two/power-of-two.java) |
 <!-- RECENT:END -->
 
 ---
