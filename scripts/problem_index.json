@@ -618,5 +618,15 @@
     "title": "Check K-th Bit",
     "difficulty": "easy",
     "platform": "gfg"
+  },
+  "lc-2323-minimum-bit-flips-to-convert-number": {
+    "title": "Minimum Bit Flips to Convert Number",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-4128-total-waviness-of-numbers-in-range-ii": {
+    "title": "Total Waviness of Numbers in Range II",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
