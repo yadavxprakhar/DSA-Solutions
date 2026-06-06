@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 24 | 49 | 9 | **82** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 25 | 49 | 9 | **83** |
 | ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 8 | 16 | 17 | 2 | **43** |
-| **Combined** | — | 40 | 66 | 11 | **125** |
+| **Combined** | — | 41 | 66 | 11 | **126** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 82 (66%) | 43 (34%) |
-| Easy | 24 | 16 |
+| Problems | 83 (66%) | 43 (34%) |
+| Easy | 25 | 16 |
 | Medium | 49 | 17 |
 | Hard | 9 | 2 |
 | Basic (GFG) | — | 8 |
 
-> 📦 **Total across both platforms: 125 problems solved**
+> 📦 **Total across both platforms: 126 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -113,7 +113,7 @@ DSA-Solutions/
 | Greedy | 4 | 0 | 2 | 2 | 0 |
 | Math | 8 | 0 | 5 | 3 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 11 | 4 | 3 | 2 | 2 |
+| Uncategorized | 12 | 4 | 4 | 2 | 2 |
 <!-- TOPICS:END -->
 
 ---
@@ -121,20 +121,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 28 | 🟠 LC Find The Index Of The First Occurrence In A String | ⚪ Unknown | Strings | 2026-06-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.java) |
-| 4128 | 🟠 LC Total Waviness Of Numbers In Range Ii | 🔴 Hard | General | 2026-06-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4128-total-waviness-of-numbers-in-range-ii) |
-| 2323 | 🟠 LC Minimum Bit Flips To Convert Number | 🟢 Easy | General | 2026-06-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2323-minimum-bit-flips-to-convert-number/minimum-bit-flips-to-convert-number.java) |
-| 3606 | 🟠 LC Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/3606-minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.java) |
-| 3435 | 🟠 LC Block Placement Queries | 🔴 Hard | Binary Search | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/3435-block-placement-queries/block-placement-queries.java) |
-| 4057 | 🟠 LC Total Waviness Of Numbers In Range I | 🟡 Medium | Dynamic Programming | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/4057-total-waviness-of-numbers-in-range-i/total-waviness-of-numbers-in-range-i.java) |
-| 3965 | 🟠 LC Earliest Finish Time For Land And Water Rides I | 🟢 Easy | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/greedy/3965-earliest-finish-time-for-land-and-water-rides-i) |
-| 3967 | 🟠 LC Earliest Finish Time For Land And Water Rides Ii | 🟡 Medium | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/greedy/3967-earliest-finish-time-for-land-and-water-rides-ii/earliest-finish-time-for-land-and-water-rides-ii.java) |
-| 3405 | 🟠 LC Count The Number Of Special Characters Ii | 🟡 Medium | Strings | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/strings/3405-count-the-number-of-special-characters-ii/count-the-number-of-special-characters-ii.java) |
-| 10 | 🟠 LC Regular Expression Matching | 🔴 Hard | Dynamic Programming | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/10-regular-expression-matching/regular-expression-matching.java) |
-| 2245 | 🟠 LC Destroying Asteroids | 🟡 Medium | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/greedy/2245-destroying-asteroids) |
-| 2248 | 🟠 LC Minimum Cost Of Buying Candies With Discount | 🟢 Easy | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/greedy/2248-minimum-cost-of-buying-candies-with-discount/minimum-cost-of-buying-candies-with-discount.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
+| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
+| 3376 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Common Suffix Queries | 🔴 Hard | Strings | [View →](./topics/strings/3376-longest-common-suffix-queries/) |
 <!-- RECENT:END -->
 
 ---

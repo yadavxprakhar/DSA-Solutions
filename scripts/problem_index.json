@@ -628,5 +628,10 @@
     "title": "Total Waviness of Numbers in Range II",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-28-find-the-index-of-the-first-occurrence-in-a-string": {
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
