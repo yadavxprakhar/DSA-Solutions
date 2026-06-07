@@ -633,5 +633,10 @@
     "title": "Find the Index of the First Occurrence in a String",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-2306-create-binary-tree-from-descriptions": {
+    "title": "Create Binary Tree From Descriptions",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
