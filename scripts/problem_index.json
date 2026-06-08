@@ -638,5 +638,15 @@
     "title": "Create Binary Tree From Descriptions",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-202-happy-number": {
+    "title": "Happy Number",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-2265-partition-array-according-to-given-pivot": {
+    "title": "Partition Array According to Given Pivot",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
