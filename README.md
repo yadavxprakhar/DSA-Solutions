@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 202 | 🟠 LC Happy Number | ⚪ Unknown | General | 2026-06-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/202-happy-number/happy-number.java) |
 | 2306 | 🟠 LC Create Binary Tree From Descriptions | 🟡 Medium | Trees | 2026-06-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/2306-create-binary-tree-from-descriptions) |
 | 28 | 🟠 LC Find The Index Of The First Occurrence In A String | 🟢 Easy | Strings | 2026-06-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.java) |
 | 4128 | 🟠 LC Total Waviness Of Numbers In Range Ii | 🔴 Hard | General | 2026-06-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4128-total-waviness-of-numbers-in-range-ii) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3967 | 🟠 LC Earliest Finish Time For Land And Water Rides Ii | 🟡 Medium | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/greedy/3967-earliest-finish-time-for-land-and-water-rides-ii/earliest-finish-time-for-land-and-water-rides-ii.java) |
 | 3405 | 🟠 LC Count The Number Of Special Characters Ii | 🟡 Medium | Strings | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/strings/3405-count-the-number-of-special-characters-ii/count-the-number-of-special-characters-ii.java) |
 | 10 | 🟠 LC Regular Expression Matching | 🔴 Hard | Dynamic Programming | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/10-regular-expression-matching/regular-expression-matching.java) |
-| 2245 | 🟠 LC Destroying Asteroids | 🟡 Medium | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/greedy/2245-destroying-asteroids) |
 <!-- RECENT:END -->
 
 ---
