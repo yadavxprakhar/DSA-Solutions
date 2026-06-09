@@ -648,5 +648,10 @@
     "title": "Partition Array According to Given Pivot",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-4005-maximum-total-subarray-value-i": {
+    "title": "Maximum Total Subarray Value I",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
