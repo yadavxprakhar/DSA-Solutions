@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4007 | 🟠 LC Maximum Total Subarray Value Ii | ⚪ Unknown | Arrays | 2026-06-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4007-maximum-total-subarray-value-ii) |
 | 4005 | 🟠 LC Maximum Total Subarray Value I | 🟡 Medium | Arrays | 2026-06-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4005-maximum-total-subarray-value-i) |
 | 2265 | 🟠 LC Partition Array According To Given Pivot | 🟡 Medium | Dynamic Programming | 2026-06-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2265-partition-array-according-to-given-pivot/partition-array-according-to-given-pivot.java) |
 | 202 | 🟠 LC Happy Number | 🟢 Easy | General | 2026-06-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/202-happy-number/happy-number.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3435 | 🟠 LC Block Placement Queries | 🔴 Hard | Binary Search | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/3435-block-placement-queries/block-placement-queries.java) |
 | 4057 | 🟠 LC Total Waviness Of Numbers In Range I | 🟡 Medium | Dynamic Programming | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/4057-total-waviness-of-numbers-in-range-i/total-waviness-of-numbers-in-range-i.java) |
 | 3965 | 🟠 LC Earliest Finish Time For Land And Water Rides I | 🟢 Easy | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/greedy/3965-earliest-finish-time-for-land-and-water-rides-i) |
-| 3967 | 🟠 LC Earliest Finish Time For Land And Water Rides Ii | 🟡 Medium | Greedy | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/greedy/3967-earliest-finish-time-for-land-and-water-rides-ii/earliest-finish-time-for-land-and-water-rides-ii.java) |
 <!-- RECENT:END -->
 
 ---
