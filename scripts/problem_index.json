@@ -653,5 +653,10 @@
     "title": "Maximum Total Subarray Value I",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-4007-maximum-total-subarray-value-ii": {
+    "title": "Maximum Total Subarray Value II",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
