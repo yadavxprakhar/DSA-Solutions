@@ -658,5 +658,10 @@
     "title": "Maximum Total Subarray Value II",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-3844-number-of-ways-to-assign-edge-weights-i": {
+    "title": "Number of Ways to Assign Edge Weights I",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }

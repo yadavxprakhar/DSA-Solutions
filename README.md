@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 26 | 52 | 10 | **88** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 26 | 53 | 10 | **89** |
 | ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 8 | 16 | 17 | 2 | **43** |
-| **Combined** | — | 42 | 69 | 12 | **131** |
+| **Combined** | — | 42 | 70 | 12 | **132** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 88 (67%) | 43 (33%) |
+| Problems | 89 (67%) | 43 (33%) |
 | Easy | 26 | 16 |
-| Medium | 52 | 17 |
+| Medium | 53 | 17 |
 | Hard | 10 | 2 |
 | Basic (GFG) | — | 8 |
 
-> 📦 **Total across both platforms: 131 problems solved**
+> 📦 **Total across both platforms: 132 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -100,20 +100,20 @@ DSA-Solutions/
 <!-- TOPICS:START -->
 | Topic | Solved | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |-------|--------|----------|---------|-----------|---------|
-| Arrays | 10 | 0 | 3 | 7 | 0 |
-| Strings | 17 | 0 | 7 | 9 | 1 |
+| Arrays | 11 | 0 | 3 | 8 | 0 |
+| Strings | 18 | 0 | 8 | 9 | 1 |
 | Linked List | 38 | 2 | 17 | 17 | 2 |
-| Trees | 4 | 1 | 1 | 2 | 0 |
+| Trees | 6 | 1 | 1 | 4 | 0 |
 | Graphs | 3 | 0 | 0 | 2 | 1 |
-| Dynamic Programming | 9 | 1 | 1 | 5 | 2 |
+| Dynamic Programming | 12 | 1 | 1 | 6 | 4 |
 | Two Pointers | 3 | 0 | 0 | 3 | 0 |
 | Binary Search | 5 | 0 | 0 | 3 | 2 |
 | Stack Queue | 3 | 0 | 1 | 1 | 1 |
 | Backtracking | 1 | 0 | 0 | 1 | 0 |
 | Greedy | 4 | 0 | 2 | 2 | 0 |
-| Math | 8 | 0 | 5 | 3 | 0 |
+| Math | 10 | 0 | 7 | 3 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 17 | 4 | 5 | 5 | 3 |
+| Uncategorized | 9 | 4 | 2 | 2 | 1 |
 <!-- TOPICS:END -->
 
 ---
@@ -121,20 +121,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 2265 | 🟠 LC Partition Array According To Given Pivot | 🟡 Medium | Arrays | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/2265-partition-array-according-to-given-pivot/partition-array-according-to-given-pivot.java) |
-| 4007 | 🟠 LC Maximum Total Subarray Value Ii | 🔴 Hard | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4007-maximum-total-subarray-value-ii) |
-| 4005 | 🟠 LC Maximum Total Subarray Value I | 🟡 Medium | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4005-maximum-total-subarray-value-i) |
-| 4128 | 🟠 LC Total Waviness Of Numbers In Range Ii | 🔴 Hard | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4128-total-waviness-of-numbers-in-range-ii) |
-| 2323 | 🟠 LC Minimum Bit Flips To Convert Number | 🟢 Easy | Math | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/2323-minimum-bit-flips-to-convert-number/minimum-bit-flips-to-convert-number.java) |
-| 202 | 🟠 LC Happy Number | 🟢 Easy | Math | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/202-happy-number/happy-number.java) |
-| 28 | 🟠 LC Find The Index Of The First Occurrence In A String | 🟢 Easy | Strings | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/strings/28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.java) |
-| 3844 | 🟠 LC Number Of Ways To Assign Edge Weights I | ⚪ Unknown | Trees | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/trees/3844-number-of-ways-to-assign-edge-weights-i/number-of-ways-to-assign-edge-weights-i.java) |
-| 2306 | 🟠 LC Create Binary Tree From Descriptions | 🟡 Medium | Trees | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/trees/2306-create-binary-tree-from-descriptions) |
-| 3606 | 🟠 LC Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/3606-minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.java) |
-| 3435 | 🟠 LC Block Placement Queries | 🔴 Hard | Binary Search | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/3435-block-placement-queries/block-placement-queries.java) |
-| 4057 | 🟠 LC Total Waviness Of Numbers In Range I | 🟡 Medium | Dynamic Programming | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/4057-total-waviness-of-numbers-in-range-i/total-waviness-of-numbers-in-range-i.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
+| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
 <!-- RECENT:END -->
 
 ---
