@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3842 | 🟠 LC Number Of Ways To Assign Edge Weights Ii | ⚪ Unknown | General | 2026-06-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3842-number-of-ways-to-assign-edge-weights-ii/number-of-ways-to-assign-edge-weights-ii.java) |
 | 2265 | 🟠 LC Partition Array According To Given Pivot | 🟡 Medium | Arrays | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/2265-partition-array-according-to-given-pivot/partition-array-according-to-given-pivot.java) |
 | 4007 | 🟠 LC Maximum Total Subarray Value Ii | 🔴 Hard | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4007-maximum-total-subarray-value-ii) |
 | 4005 | 🟠 LC Maximum Total Subarray Value I | 🟡 Medium | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4005-maximum-total-subarray-value-i) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2306 | 🟠 LC Create Binary Tree From Descriptions | 🟡 Medium | Trees | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/trees/2306-create-binary-tree-from-descriptions) |
 | 3606 | 🟠 LC Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/3606-minimum-element-after-replacement-with-digit-sum/minimum-element-after-replacement-with-digit-sum.java) |
 | 3435 | 🟠 LC Block Placement Queries | 🔴 Hard | Binary Search | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/binary-search/3435-block-placement-queries/block-placement-queries.java) |
-| 4057 | 🟠 LC Total Waviness Of Numbers In Range I | 🟡 Medium | Dynamic Programming | 2026-06-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/dynamic-programming/4057-total-waviness-of-numbers-in-range-i/total-waviness-of-numbers-in-range-i.java) |
 <!-- RECENT:END -->
 
 ---
