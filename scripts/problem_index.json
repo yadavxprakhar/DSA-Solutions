@@ -663,5 +663,10 @@
     "title": "Number of Ways to Assign Edge Weights I",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3842-number-of-ways-to-assign-edge-weights-ii": {
+    "title": "Number of Ways to Assign Edge Weights II",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
