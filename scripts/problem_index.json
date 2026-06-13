@@ -668,5 +668,10 @@
     "title": "Number of Ways to Assign Edge Weights II",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-4216-weighted-word-mapping": {
+    "title": "Weighted Word Mapping",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
