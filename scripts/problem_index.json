@@ -673,5 +673,10 @@
     "title": "Weighted Word Mapping",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-2236-maximum-twin-sum-of-a-linked-list": {
+    "title": "Maximum Twin Sum of a Linked List",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
