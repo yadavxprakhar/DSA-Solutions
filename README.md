@@ -121,18 +121,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
-| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
-| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
-| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
-| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| 219 | 🟠 LC Contains Duplicate Ii | ⚪ Unknown | General | 2026-06-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/219-contains-duplicate-ii/contains-duplicate-ii.java) |
+| 2236 | 🟠 LC Maximum Twin Sum Of A Linked List | 🟡 Medium | Linked List | 2026-06-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2236-maximum-twin-sum-of-a-linked-list/maximum-twin-sum-of-a-linked-list.java) |
+| 4216 | 🟠 LC Weighted Word Mapping | 🟢 Easy | General | 2026-06-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4216-weighted-word-mapping/weighted-word-mapping.java) |
+| 3842 | 🟠 LC Number Of Ways To Assign Edge Weights Ii | 🔴 Hard | General | 2026-06-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3842-number-of-ways-to-assign-edge-weights-ii/number-of-ways-to-assign-edge-weights-ii.java) |
+| 2265 | 🟠 LC Partition Array According To Given Pivot | 🟡 Medium | Arrays | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/2265-partition-array-according-to-given-pivot/partition-array-according-to-given-pivot.java) |
+| 4007 | 🟠 LC Maximum Total Subarray Value Ii | 🔴 Hard | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4007-maximum-total-subarray-value-ii) |
+| 4005 | 🟠 LC Maximum Total Subarray Value I | 🟡 Medium | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4005-maximum-total-subarray-value-i) |
+| 4128 | 🟠 LC Total Waviness Of Numbers In Range Ii | 🔴 Hard | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4128-total-waviness-of-numbers-in-range-ii) |
+| 2323 | 🟠 LC Minimum Bit Flips To Convert Number | 🟢 Easy | Math | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/2323-minimum-bit-flips-to-convert-number/minimum-bit-flips-to-convert-number.java) |
+| 202 | 🟠 LC Happy Number | 🟢 Easy | Math | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/202-happy-number/happy-number.java) |
+| 28 | 🟠 LC Find The Index Of The First Occurrence In A String | 🟢 Easy | Strings | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/strings/28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.java) |
+| 3844 | 🟠 LC Number Of Ways To Assign Edge Weights I | 🟡 Medium | Trees | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/trees/3844-number-of-ways-to-assign-edge-weights-i/number-of-ways-to-assign-edge-weights-i.java) |
 <!-- RECENT:END -->
 
 ---
