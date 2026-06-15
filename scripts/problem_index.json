@@ -678,5 +678,10 @@
     "title": "Maximum Twin Sum of a Linked List",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-219-contains-duplicate-ii": {
+    "title": "Contains Duplicate II",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
