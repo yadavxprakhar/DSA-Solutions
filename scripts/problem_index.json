@@ -683,5 +683,10 @@
     "title": "Contains Duplicate II",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3931-process-string-with-special-operations-i": {
+    "title": "Process String with Special Operations I",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
