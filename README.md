@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2855 | 🟠 LC Maximum Number Of Jumps To Reach The Last Index | ⚪ Unknown | Dynamic Programming | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2855-maximum-number-of-jumps-to-reach-the-last-index/maximum-number-of-jumps-to-reach-the-last-index.java) |
 | 3939 | 🟠 LC Process String With Special Operations Ii | ⚪ Unknown | Strings | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3939-process-string-with-special-operations-ii/process-string-with-special-operations-ii.java) |
 | 3931 | 🟠 LC Process String With Special Operations I | 🟡 Medium | Strings | 2026-06-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3931-process-string-with-special-operations-i/process-string-with-special-operations-i.java) |
 | 219 | 🟠 LC Contains Duplicate Ii | 🟢 Easy | General | 2026-06-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/219-contains-duplicate-ii/contains-duplicate-ii.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 4005 | 🟠 LC Maximum Total Subarray Value I | 🟡 Medium | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4005-maximum-total-subarray-value-i) |
 | 4128 | 🟠 LC Total Waviness Of Numbers In Range Ii | 🔴 Hard | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4128-total-waviness-of-numbers-in-range-ii) |
 | 2323 | 🟠 LC Minimum Bit Flips To Convert Number | 🟢 Easy | Math | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/2323-minimum-bit-flips-to-convert-number/minimum-bit-flips-to-convert-number.java) |
-| 202 | 🟠 LC Happy Number | 🟢 Easy | Math | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/math/202-happy-number/happy-number.java) |
 <!-- RECENT:END -->
 
 ---
