@@ -688,5 +688,15 @@
     "title": "Process String with Special Operations I",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2855-maximum-number-of-jumps-to-reach-the-last-index": {
+    "title": "Maximum Number of Jumps to Reach the Last Index",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-3939-process-string-with-special-operations-ii": {
+    "title": "Process String with Special Operations II",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
