@@ -698,5 +698,10 @@
     "title": "Process String with Special Operations II",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-1446-angle-between-hands-of-a-clock": {
+    "title": "Angle Between Hands of a Clock",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
