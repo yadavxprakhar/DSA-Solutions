@@ -703,5 +703,10 @@
     "title": "Angle Between Hands of a Clock",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1833-find-the-highest-altitude": {
+    "title": "Find the Highest Altitude",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
