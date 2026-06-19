@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1833 | 🟠 LC Find The Highest Altitude | ⚪ Unknown | General | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1833-find-the-highest-altitude/find-the-highest-altitude.java) |
 | 1446 | 🟠 LC Angle Between Hands Of A Clock | 🟡 Medium | General | 2026-06-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1446-angle-between-hands-of-a-clock/angle-between-hands-of-a-clock.java) |
 | 2855 | 🟠 LC Maximum Number Of Jumps To Reach The Last Index | 🟡 Medium | Dynamic Programming | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2855-maximum-number-of-jumps-to-reach-the-last-index/maximum-number-of-jumps-to-reach-the-last-index.java) |
 | 3939 | 🟠 LC Process String With Special Operations Ii | 🔴 Hard | Strings | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3939-process-string-with-special-operations-ii/process-string-with-special-operations-ii.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2265 | 🟠 LC Partition Array According To Given Pivot | 🟡 Medium | Arrays | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/2265-partition-array-according-to-given-pivot/partition-array-according-to-given-pivot.java) |
 | 4007 | 🟠 LC Maximum Total Subarray Value Ii | 🔴 Hard | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4007-maximum-total-subarray-value-ii) |
 | 4005 | 🟠 LC Maximum Total Subarray Value I | 🟡 Medium | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4005-maximum-total-subarray-value-i) |
-| 4128 | 🟠 LC Total Waviness Of Numbers In Range Ii | 🔴 Hard | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4128-total-waviness-of-numbers-in-range-ii) |
 <!-- RECENT:END -->
 
 ---
