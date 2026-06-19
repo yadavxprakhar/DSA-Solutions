@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 396 | 🟠 LC Rotate Function | ⚪ Unknown | Arrays | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/396-rotate-function) |
 | 1833 | 🟠 LC Find The Highest Altitude | 🟢 Easy | General | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1833-find-the-highest-altitude/find-the-highest-altitude.java) |
 | 1446 | 🟠 LC Angle Between Hands Of A Clock | 🟡 Medium | General | 2026-06-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1446-angle-between-hands-of-a-clock/angle-between-hands-of-a-clock.java) |
 | 2855 | 🟠 LC Maximum Number Of Jumps To Reach The Last Index | 🟡 Medium | Dynamic Programming | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2855-maximum-number-of-jumps-to-reach-the-last-index/maximum-number-of-jumps-to-reach-the-last-index.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3842 | 🟠 LC Number Of Ways To Assign Edge Weights Ii | 🔴 Hard | General | 2026-06-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3842-number-of-ways-to-assign-edge-weights-ii/number-of-ways-to-assign-edge-weights-ii.java) |
 | 2265 | 🟠 LC Partition Array According To Given Pivot | 🟡 Medium | Arrays | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/topics/arrays/2265-partition-array-according-to-given-pivot/partition-array-according-to-given-pivot.java) |
 | 4007 | 🟠 LC Maximum Total Subarray Value Ii | 🔴 Hard | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4007-maximum-total-subarray-value-ii) |
-| 4005 | 🟠 LC Maximum Total Subarray Value I | 🟡 Medium | Dynamic Programming | 2026-06-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/topics/dynamic-programming/4005-maximum-total-subarray-value-i) |
 <!-- RECENT:END -->
 
 ---
