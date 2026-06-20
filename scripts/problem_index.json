@@ -708,5 +708,10 @@
     "title": "Find the Highest Altitude",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-396-rotate-function": {
+    "title": "Rotate Function",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
