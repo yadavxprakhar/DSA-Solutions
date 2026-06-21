@@ -713,5 +713,10 @@
     "title": "Rotate Function",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1961-maximum-ice-cream-bars": {
+    "title": "Maximum Ice Cream Bars",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
