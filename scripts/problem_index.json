@@ -718,5 +718,10 @@
     "title": "Maximum Ice Cream Bars",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1297-maximum-number-of-balloons": {
+    "title": "Maximum Number of Balloons",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
