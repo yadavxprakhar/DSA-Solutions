@@ -723,5 +723,10 @@
     "title": "Maximum Number of Balloons",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3962-number-of-zigzag-arrays-i": {
+    "title": "Number of ZigZag Arrays I",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
