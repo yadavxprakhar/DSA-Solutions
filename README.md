@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 30 | 59 | 13 | **102** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 30 | 59 | 14 | **103** |
 | ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 8 | 16 | 17 | 2 | **43** |
-| **Combined** | — | 46 | 76 | 15 | **145** |
+| **Combined** | — | 46 | 76 | 16 | **146** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 102 (70%) | 43 (30%) |
+| Problems | 103 (71%) | 43 (29%) |
 | Easy | 30 | 16 |
 | Medium | 59 | 17 |
-| Hard | 13 | 2 |
+| Hard | 14 | 2 |
 | Basic (GFG) | — | 8 |
 
-> 📦 **Total across both platforms: 145 problems solved**
+> 📦 **Total across both platforms: 146 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -113,7 +113,7 @@ DSA-Solutions/
 | Greedy | 4 | 0 | 2 | 2 | 0 |
 | Math | 10 | 0 | 7 | 3 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 22 | 4 | 6 | 8 | 4 |
+| Uncategorized | 23 | 4 | 6 | 8 | 5 |
 <!-- TOPICS:END -->
 
 ---
@@ -121,20 +121,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 3964 | 🟠 LC Number Of Zigzag Arrays Ii | ⚪ Unknown | Trees | 2026-06-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3964-number-of-zigzag-arrays-ii/number-of-zigzag-arrays-ii.java) |
-| 3962 | 🟠 LC Number Of Zigzag Arrays I | 🔴 Hard | Trees | 2026-06-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3962-number-of-zigzag-arrays-i/number-of-zigzag-arrays-i.java) |
-| 1297 | 🟠 LC Maximum Number Of Balloons | 🟢 Easy | General | 2026-06-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1297-maximum-number-of-balloons/maximum-number-of-balloons.java) |
-| 1961 | 🟠 LC Maximum Ice Cream Bars | 🟡 Medium | General | 2026-06-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/1961-maximum-ice-cream-bars) |
-| 396 | 🟠 LC Rotate Function | 🟡 Medium | Arrays | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/396-rotate-function) |
-| 1833 | 🟠 LC Find The Highest Altitude | 🟢 Easy | General | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1833-find-the-highest-altitude/find-the-highest-altitude.java) |
-| 1446 | 🟠 LC Angle Between Hands Of A Clock | 🟡 Medium | General | 2026-06-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1446-angle-between-hands-of-a-clock/angle-between-hands-of-a-clock.java) |
-| 2855 | 🟠 LC Maximum Number Of Jumps To Reach The Last Index | 🟡 Medium | Dynamic Programming | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2855-maximum-number-of-jumps-to-reach-the-last-index/maximum-number-of-jumps-to-reach-the-last-index.java) |
-| 3939 | 🟠 LC Process String With Special Operations Ii | 🔴 Hard | Strings | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3939-process-string-with-special-operations-ii/process-string-with-special-operations-ii.java) |
-| 3931 | 🟠 LC Process String With Special Operations I | 🟡 Medium | Strings | 2026-06-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3931-process-string-with-special-operations-i/process-string-with-special-operations-i.java) |
-| 219 | 🟠 LC Contains Duplicate Ii | 🟢 Easy | General | 2026-06-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/219-contains-duplicate-ii/contains-duplicate-ii.java) |
-| 2236 | 🟠 LC Maximum Twin Sum Of A Linked List | 🟡 Medium | Linked List | 2026-06-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2236-maximum-twin-sum-of-a-linked-list/maximum-twin-sum-of-a-linked-list.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
+| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
 <!-- RECENT:END -->
 
 ---

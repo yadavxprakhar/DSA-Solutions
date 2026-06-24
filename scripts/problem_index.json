@@ -728,5 +728,10 @@
     "title": "Number of ZigZag Arrays I",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-3964-number-of-zigzag-arrays-ii": {
+    "title": "Number of ZigZag Arrays II",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
