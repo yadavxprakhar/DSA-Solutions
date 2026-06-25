@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4074 | 🟠 LC Count Subarrays With Majority Element I | ⚪ Unknown | Arrays | 2026-06-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4074-count-subarrays-with-majority-element-i/count-subarrays-with-majority-element-i.java) |
 | 3964 | 🟠 LC Number Of Zigzag Arrays Ii | 🔴 Hard | Trees | 2026-06-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3964-number-of-zigzag-arrays-ii/number-of-zigzag-arrays-ii.java) |
 | 3962 | 🟠 LC Number Of Zigzag Arrays I | 🔴 Hard | Trees | 2026-06-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3962-number-of-zigzag-arrays-i/number-of-zigzag-arrays-i.java) |
 | 1297 | 🟠 LC Maximum Number Of Balloons | 🟢 Easy | General | 2026-06-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1297-maximum-number-of-balloons/maximum-number-of-balloons.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3939 | 🟠 LC Process String With Special Operations Ii | 🔴 Hard | Strings | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3939-process-string-with-special-operations-ii/process-string-with-special-operations-ii.java) |
 | 3931 | 🟠 LC Process String With Special Operations I | 🟡 Medium | Strings | 2026-06-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3931-process-string-with-special-operations-i/process-string-with-special-operations-i.java) |
 | 219 | 🟠 LC Contains Duplicate Ii | 🟢 Easy | General | 2026-06-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/219-contains-duplicate-ii/contains-duplicate-ii.java) |
-| 2236 | 🟠 LC Maximum Twin Sum Of A Linked List | 🟡 Medium | Linked List | 2026-06-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2236-maximum-twin-sum-of-a-linked-list/maximum-twin-sum-of-a-linked-list.java) |
 <!-- RECENT:END -->
 
 ---
