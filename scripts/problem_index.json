@@ -733,5 +733,10 @@
     "title": "Number of ZigZag Arrays II",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-4074-count-subarrays-with-majority-element-i": {
+    "title": "Count Subarrays With Majority Element I",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
