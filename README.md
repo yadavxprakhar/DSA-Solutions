@@ -121,18 +121,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
-| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
-| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
-| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
-| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| 4075 | 🟠 LC Count Subarrays With Majority Element Ii | 🔴 Hard | Arrays | 2026-06-26 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4075-count-subarrays-with-majority-element-ii/count-subarrays-with-majority-element-ii.java) |
+| 4074 | 🟠 LC Count Subarrays With Majority Element I | 🟡 Medium | Arrays | 2026-06-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4074-count-subarrays-with-majority-element-i/count-subarrays-with-majority-element-i.java) |
+| 3964 | 🟠 LC Number Of Zigzag Arrays Ii | 🔴 Hard | Trees | 2026-06-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3964-number-of-zigzag-arrays-ii/number-of-zigzag-arrays-ii.java) |
+| 3962 | 🟠 LC Number Of Zigzag Arrays I | 🔴 Hard | Trees | 2026-06-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3962-number-of-zigzag-arrays-i/number-of-zigzag-arrays-i.java) |
+| 1297 | 🟠 LC Maximum Number Of Balloons | 🟢 Easy | General | 2026-06-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1297-maximum-number-of-balloons/maximum-number-of-balloons.java) |
+| 1961 | 🟠 LC Maximum Ice Cream Bars | 🟡 Medium | General | 2026-06-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/1961-maximum-ice-cream-bars) |
+| 396 | 🟠 LC Rotate Function | 🟡 Medium | Arrays | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/396-rotate-function) |
+| 1833 | 🟠 LC Find The Highest Altitude | 🟢 Easy | General | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1833-find-the-highest-altitude/find-the-highest-altitude.java) |
+| 1446 | 🟠 LC Angle Between Hands Of A Clock | 🟡 Medium | General | 2026-06-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1446-angle-between-hands-of-a-clock/angle-between-hands-of-a-clock.java) |
+| 2855 | 🟠 LC Maximum Number Of Jumps To Reach The Last Index | 🟡 Medium | Dynamic Programming | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2855-maximum-number-of-jumps-to-reach-the-last-index/maximum-number-of-jumps-to-reach-the-last-index.java) |
+| 3939 | 🟠 LC Process String With Special Operations Ii | 🔴 Hard | Strings | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3939-process-string-with-special-operations-ii/process-string-with-special-operations-ii.java) |
+| 3931 | 🟠 LC Process String With Special Operations I | 🟡 Medium | Strings | 2026-06-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3931-process-string-with-special-operations-i/process-string-with-special-operations-i.java) |
 <!-- RECENT:END -->
 
 ---
