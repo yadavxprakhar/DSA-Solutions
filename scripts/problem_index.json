@@ -743,5 +743,10 @@
     "title": "Count Subarrays With Majority Element II",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-3299-find-the-maximum-number-of-elements-in-subset": {
+    "title": "Find the Maximum Number of Elements in Subset",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
