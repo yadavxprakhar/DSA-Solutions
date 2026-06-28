@@ -748,5 +748,10 @@
     "title": "Find the Maximum Number of Elements in Subset",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1956-maximum-element-after-decreasing-and-rearranging": {
+    "title": "Maximum Element After Decreasing and Rearranging",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
