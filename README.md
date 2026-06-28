@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1956 | 🟠 LC Maximum Element After Decreasing And Rearranging | ⚪ Unknown | General | 2026-06-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1956-maximum-element-after-decreasing-and-rearranging/maximum-element-after-decreasing-and-rearranging.java) |
 | 3299 | 🟠 LC Find The Maximum Number Of Elements In Subset | 🟡 Medium | Backtracking | 2026-06-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3299-find-the-maximum-number-of-elements-in-subset/find-the-maximum-number-of-elements-in-subset.java) |
 | 4075 | 🟠 LC Count Subarrays With Majority Element Ii | 🔴 Hard | Arrays | 2026-06-26 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4075-count-subarrays-with-majority-element-ii/count-subarrays-with-majority-element-ii.java) |
 | 4074 | 🟠 LC Count Subarrays With Majority Element I | 🟡 Medium | Arrays | 2026-06-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4074-count-subarrays-with-majority-element-i/count-subarrays-with-majority-element-i.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 1833 | 🟠 LC Find The Highest Altitude | 🟢 Easy | General | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1833-find-the-highest-altitude/find-the-highest-altitude.java) |
 | 1446 | 🟠 LC Angle Between Hands Of A Clock | 🟡 Medium | General | 2026-06-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1446-angle-between-hands-of-a-clock/angle-between-hands-of-a-clock.java) |
 | 2855 | 🟠 LC Maximum Number Of Jumps To Reach The Last Index | 🟡 Medium | Dynamic Programming | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2855-maximum-number-of-jumps-to-reach-the-last-index/maximum-number-of-jumps-to-reach-the-last-index.java) |
-| 3939 | 🟠 LC Process String With Special Operations Ii | 🔴 Hard | Strings | 2026-06-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3939-process-string-with-special-operations-ii/process-string-with-special-operations-ii.java) |
 <!-- RECENT:END -->
 
 ---
