@@ -753,5 +753,15 @@
     "title": "Maximum Element After Decreasing and Rearranging",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-119-pascals-triangle-ii": {
+    "title": "Pascal's Triangle II",
+    "difficulty": "easy",
+    "platform": "leetcode"
+  },
+  "lc-2099-number-of-strings-that-appear-as-substrings-in-word": {
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
