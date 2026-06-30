@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1460 | 🟠 LC Number Of Substrings Containing All Three Characters | ⚪ Unknown | Trees | 2026-06-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1460-number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.java) |
 | 119 | 🟠 LC Pascals Triangle Ii | 🟢 Easy | General | 2026-06-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/119-pascals-triangle-ii/pascals-triangle-ii.java) |
 | 2099 | 🟠 LC Number Of Strings That Appear As Substrings In Word | 🟢 Easy | Trees | 2026-06-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2099-number-of-strings-that-appear-as-substrings-in-word/number-of-strings-that-appear-as-substrings-in-word.java) |
 | 1956 | 🟠 LC Maximum Element After Decreasing And Rearranging | 🟡 Medium | General | 2026-06-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1956-maximum-element-after-decreasing-and-rearranging/maximum-element-after-decreasing-and-rearranging.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 1297 | 🟠 LC Maximum Number Of Balloons | 🟢 Easy | General | 2026-06-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1297-maximum-number-of-balloons/maximum-number-of-balloons.java) |
 | 1961 | 🟠 LC Maximum Ice Cream Bars | 🟡 Medium | General | 2026-06-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/1961-maximum-ice-cream-bars) |
 | 396 | 🟠 LC Rotate Function | 🟡 Medium | Arrays | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/396-rotate-function) |
-| 1833 | 🟠 LC Find The Highest Altitude | 🟢 Easy | General | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1833-find-the-highest-altitude/find-the-highest-altitude.java) |
 <!-- RECENT:END -->
 
 ---
