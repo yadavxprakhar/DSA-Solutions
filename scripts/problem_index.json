@@ -763,5 +763,10 @@
     "title": "Number of Strings That Appear as Substrings in Word",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-1460-number-of-substrings-containing-all-three-characters": {
+    "title": "Number of Substrings Containing All Three Characters",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
