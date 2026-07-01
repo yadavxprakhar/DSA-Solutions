@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2914 | 🟠 LC Find The Safest Path In A Grid | ⚪ Unknown | Graphs | 2026-07-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2914-find-the-safest-path-in-a-grid/find-the-safest-path-in-a-grid.java) |
 | 1460 | 🟠 LC Number Of Substrings Containing All Three Characters | 🟡 Medium | Trees | 2026-06-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1460-number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.java) |
 | 119 | 🟠 LC Pascals Triangle Ii | 🟢 Easy | General | 2026-06-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/119-pascals-triangle-ii/pascals-triangle-ii.java) |
 | 2099 | 🟠 LC Number Of Strings That Appear As Substrings In Word | 🟢 Easy | Trees | 2026-06-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2099-number-of-strings-that-appear-as-substrings-in-word/number-of-strings-that-appear-as-substrings-in-word.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3962 | 🟠 LC Number Of Zigzag Arrays I | 🔴 Hard | Trees | 2026-06-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3962-number-of-zigzag-arrays-i/number-of-zigzag-arrays-i.java) |
 | 1297 | 🟠 LC Maximum Number Of Balloons | 🟢 Easy | General | 2026-06-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1297-maximum-number-of-balloons/maximum-number-of-balloons.java) |
 | 1961 | 🟠 LC Maximum Ice Cream Bars | 🟡 Medium | General | 2026-06-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/1961-maximum-ice-cream-bars) |
-| 396 | 🟠 LC Rotate Function | 🟡 Medium | Arrays | 2026-06-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/396-rotate-function) |
 <!-- RECENT:END -->
 
 ---
