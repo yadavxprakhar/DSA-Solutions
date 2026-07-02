@@ -768,5 +768,10 @@
     "title": "Number of Substrings Containing All Three Characters",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2914-find-the-safest-path-in-a-grid": {
+    "title": "Find the Safest Path in a Grid",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
