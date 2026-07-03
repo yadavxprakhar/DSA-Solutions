@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3919 | 🟠 LC Network Recovery Pathways | ⚪ Unknown | Graphs | 2026-07-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3919-network-recovery-pathways/network-recovery-pathways.java) |
 | 3558 | 🟠 LC Find A Safe Walk Through A Grid | ⚪ Unknown | General | 2026-07-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3558-find-a-safe-walk-through-a-grid/find-a-safe-walk-through-a-grid.java) |
 | 2914 | 🟠 LC Find The Safest Path In A Grid | 🟡 Medium | Graphs | 2026-07-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2914-find-the-safest-path-in-a-grid/find-the-safest-path-in-a-grid.java) |
 | 1460 | 🟠 LC Number Of Substrings Containing All Three Characters | 🟡 Medium | Trees | 2026-06-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1460-number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 4074 | 🟠 LC Count Subarrays With Majority Element I | 🟡 Medium | Arrays | 2026-06-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4074-count-subarrays-with-majority-element-i/count-subarrays-with-majority-element-i.java) |
 | 3964 | 🟠 LC Number Of Zigzag Arrays Ii | 🔴 Hard | Trees | 2026-06-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3964-number-of-zigzag-arrays-ii/number-of-zigzag-arrays-ii.java) |
 | 3962 | 🟠 LC Number Of Zigzag Arrays I | 🔴 Hard | Trees | 2026-06-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3962-number-of-zigzag-arrays-i/number-of-zigzag-arrays-i.java) |
-| 1297 | 🟠 LC Maximum Number Of Balloons | 🟢 Easy | General | 2026-06-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1297-maximum-number-of-balloons/maximum-number-of-balloons.java) |
 <!-- RECENT:END -->
 
 ---
