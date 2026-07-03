@@ -773,5 +773,15 @@
     "title": "Find the Safest Path in a Grid",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3558-find-a-safe-walk-through-a-grid": {
+    "title": "Find a Safe Walk Through a Grid",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-3919-network-recovery-pathways": {
+    "title": "Network Recovery Pathways",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
