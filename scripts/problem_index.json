@@ -783,5 +783,15 @@
     "title": "Network Recovery Pathways",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-1234-number-of-paths-with-max-score": {
+    "title": "Number of Paths with Max Score",
+    "difficulty": "hard",
+    "platform": "leetcode"
+  },
+  "lc-2582-minimum-score-of-a-path-between-two-cities": {
+    "title": "Minimum Score of a Path Between Two Cities",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
