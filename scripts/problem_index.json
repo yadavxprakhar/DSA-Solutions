@@ -793,5 +793,10 @@
     "title": "Minimum Score of a Path Between Two Cities",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1222-remove-covered-intervals": {
+    "title": "Remove Covered Intervals",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
