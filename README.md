@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4135 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum I | ⚪ Unknown | General | 2026-07-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/concatenate-non-zero-digits-and-multiply-by-sum-i.java) |
 | 1222 | 🟠 LC Remove Covered Intervals | 🟡 Medium | General | 2026-07-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1222-remove-covered-intervals/remove-covered-intervals.java) |
 | 1234 | 🟠 LC Number Of Paths With Max Score | 🔴 Hard | Graphs | 2026-07-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1234-number-of-paths-with-max-score/number-of-paths-with-max-score.java) |
 | 2582 | 🟠 LC Minimum Score Of A Path Between Two Cities | 🟡 Medium | Graphs | 2026-07-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2582-minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2099 | 🟠 LC Number Of Strings That Appear As Substrings In Word | 🟢 Easy | Trees | 2026-06-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2099-number-of-strings-that-appear-as-substrings-in-word/number-of-strings-that-appear-as-substrings-in-word.java) |
 | 1956 | 🟠 LC Maximum Element After Decreasing And Rearranging | 🟡 Medium | General | 2026-06-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1956-maximum-element-after-decreasing-and-rearranging/maximum-element-after-decreasing-and-rearranging.java) |
 | 3299 | 🟠 LC Find The Maximum Number Of Elements In Subset | 🟡 Medium | Backtracking | 2026-06-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3299-find-the-maximum-number-of-elements-in-subset/find-the-maximum-number-of-elements-in-subset.java) |
-| 4075 | 🟠 LC Count Subarrays With Majority Element Ii | 🔴 Hard | Arrays | 2026-06-26 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4075-count-subarrays-with-majority-element-ii/count-subarrays-with-majority-element-ii.java) |
 <!-- RECENT:END -->
 
 ---
