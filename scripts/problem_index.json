@@ -798,5 +798,10 @@
     "title": "Remove Covered Intervals",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-4135-concatenate-non-zero-digits-and-multiply-by-sum-i": {
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
