@@ -803,5 +803,10 @@
     "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-4136-concatenate-non-zero-digits-and-multiply-by-sum-ii": {
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
