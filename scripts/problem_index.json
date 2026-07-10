@@ -808,5 +808,15 @@
     "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3838-path-existence-queries-in-a-graph-i": {
+    "title": "Path Existence Queries in a Graph I",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-3852-path-existence-queries-in-a-graph-ii": {
+    "title": "Path Existence Queries in a Graph II",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
