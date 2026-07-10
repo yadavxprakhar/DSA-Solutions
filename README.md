@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3852 | 🟠 LC Path Existence Queries In A Graph Ii | ⚪ Unknown | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3852-path-existence-queries-in-a-graph-ii/path-existence-queries-in-a-graph-ii.java) |
 | 3838 | 🟠 LC Path Existence Queries In A Graph I | ⚪ Unknown | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3838-path-existence-queries-in-a-graph-i/path-existence-queries-in-a-graph-i.java) |
 | 4136 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum Ii | 🟡 Medium | General | 2026-07-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | 4135 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum I | 🟢 Easy | General | 2026-07-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/concatenate-non-zero-digits-and-multiply-by-sum-i.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2914 | 🟠 LC Find The Safest Path In A Grid | 🟡 Medium | Graphs | 2026-07-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2914-find-the-safest-path-in-a-grid/find-the-safest-path-in-a-grid.java) |
 | 1460 | 🟠 LC Number Of Substrings Containing All Three Characters | 🟡 Medium | Trees | 2026-06-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1460-number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.java) |
 | 119 | 🟠 LC Pascals Triangle Ii | 🟢 Easy | General | 2026-06-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/119-pascals-triangle-ii/pascals-triangle-ii.java) |
-| 2099 | 🟠 LC Number Of Strings That Appear As Substrings In Word | 🟢 Easy | Trees | 2026-06-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2099-number-of-strings-that-appear-as-substrings-in-word/number-of-strings-that-appear-as-substrings-in-word.java) |
 <!-- RECENT:END -->
 
 ---
