@@ -818,5 +818,10 @@
     "title": "Path Existence Queries in a Graph II",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-2793-count-the-number-of-complete-components": {
+    "title": "Count the Number of Complete Components",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }

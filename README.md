@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 33 | 69 | 18 | **120** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 33 | 70 | 18 | **121** |
 | ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 8 | 16 | 17 | 2 | **43** |
-| **Combined** | — | 49 | 86 | 20 | **163** |
+| **Combined** | — | 49 | 87 | 20 | **164** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 120 (74%) | 43 (26%) |
+| Problems | 121 (74%) | 43 (26%) |
 | Easy | 33 | 16 |
-| Medium | 69 | 17 |
+| Medium | 70 | 17 |
 | Hard | 18 | 2 |
 | Basic (GFG) | — | 8 |
 
-> 📦 **Total across both platforms: 163 problems solved**
+> 📦 **Total across both platforms: 164 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -113,7 +113,7 @@ DSA-Solutions/
 | Greedy | 4 | 0 | 2 | 2 | 0 |
 | Math | 10 | 0 | 7 | 3 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 40 | 4 | 9 | 18 | 9 |
+| Uncategorized | 41 | 4 | 9 | 19 | 9 |
 <!-- TOPICS:END -->
 
 ---
@@ -121,20 +121,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 2793 | 🟠 LC Count The Number Of Complete Components | ⚪ Unknown | General | 2026-07-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2793-count-the-number-of-complete-components/count-the-number-of-complete-components.java) |
-| 3852 | 🟠 LC Path Existence Queries In A Graph Ii | 🔴 Hard | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3852-path-existence-queries-in-a-graph-ii/path-existence-queries-in-a-graph-ii.java) |
-| 3838 | 🟠 LC Path Existence Queries In A Graph I | 🟡 Medium | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3838-path-existence-queries-in-a-graph-i/path-existence-queries-in-a-graph-i.java) |
-| 4136 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum Ii | 🟡 Medium | General | 2026-07-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
-| 4135 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum I | 🟢 Easy | General | 2026-07-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/concatenate-non-zero-digits-and-multiply-by-sum-i.java) |
-| 1222 | 🟠 LC Remove Covered Intervals | 🟡 Medium | General | 2026-07-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1222-remove-covered-intervals/remove-covered-intervals.java) |
-| 1234 | 🟠 LC Number Of Paths With Max Score | 🔴 Hard | Graphs | 2026-07-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1234-number-of-paths-with-max-score/number-of-paths-with-max-score.java) |
-| 2582 | 🟠 LC Minimum Score Of A Path Between Two Cities | 🟡 Medium | Graphs | 2026-07-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2582-minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.java) |
-| 3919 | 🟠 LC Network Recovery Pathways | 🔴 Hard | Graphs | 2026-07-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3919-network-recovery-pathways/network-recovery-pathways.java) |
-| 3558 | 🟠 LC Find A Safe Walk Through A Grid | 🟡 Medium | General | 2026-07-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3558-find-a-safe-walk-through-a-grid/find-a-safe-walk-through-a-grid.java) |
-| 2914 | 🟠 LC Find The Safest Path In A Grid | 🟡 Medium | Graphs | 2026-07-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2914-find-the-safest-path-in-a-grid/find-the-safest-path-in-a-grid.java) |
-| 1460 | 🟠 LC Number Of Substrings Containing All Three Characters | 🟡 Medium | Trees | 2026-06-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1460-number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
+| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
 <!-- RECENT:END -->
 
 ---
