@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3608 | 🟠 LC Find The Number Of Subsequences With Equal Gcd | ⚪ Unknown | Dynamic Programming | 2026-07-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3608-find-the-number-of-subsequences-with-equal-gcd/find-the-number-of-subsequences-with-equal-gcd.java) |
 | 1256 | 🟠 LC Rank Transform Of An Array | 🟢 Easy | Arrays | 2026-07-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1256-rank-transform-of-an-array/rank-transform-of-an-array.java) |
 | 1212 | 🟠 LC Sequential Digits | 🟡 Medium | General | 2026-07-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1212-sequential-digits/sequential-digits.java) |
 | 2793 | 🟠 LC Count The Number Of Complete Components | 🟡 Medium | General | 2026-07-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2793-count-the-number-of-complete-components/count-the-number-of-complete-components.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 1234 | 🟠 LC Number Of Paths With Max Score | 🔴 Hard | Graphs | 2026-07-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1234-number-of-paths-with-max-score/number-of-paths-with-max-score.java) |
 | 2582 | 🟠 LC Minimum Score Of A Path Between Two Cities | 🟡 Medium | Graphs | 2026-07-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2582-minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.java) |
 | 3919 | 🟠 LC Network Recovery Pathways | 🔴 Hard | Graphs | 2026-07-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3919-network-recovery-pathways/network-recovery-pathways.java) |
-| 3558 | 🟠 LC Find A Safe Walk Through A Grid | 🟡 Medium | General | 2026-07-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3558-find-a-safe-walk-through-a-grid/find-a-safe-walk-through-a-grid.java) |
 <!-- RECENT:END -->
 
 ---
