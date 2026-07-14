@@ -823,5 +823,15 @@
     "title": "Count the Number of Complete Components",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1212-sequential-digits": {
+    "title": "Sequential Digits",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-1256-rank-transform-of-an-array": {
+    "title": "Rank Transform of an Array",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
