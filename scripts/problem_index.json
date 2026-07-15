@@ -833,5 +833,10 @@
     "title": "Rank Transform of an Array",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3608-find-the-number-of-subsequences-with-equal-gcd": {
+    "title": "Find the Number of Subsequences With Equal GCD",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
