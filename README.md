@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4242 | 🟠 LC Sum Of Gcd Of Formed Pairs | ⚪ Unknown | Math | 2026-07-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4242-sum-of-gcd-of-formed-pairs/sum-of-gcd-of-formed-pairs.java) |
 | 3608 | 🟠 LC Find The Number Of Subsequences With Equal Gcd | 🔴 Hard | Dynamic Programming | 2026-07-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3608-find-the-number-of-subsequences-with-equal-gcd/find-the-number-of-subsequences-with-equal-gcd.java) |
 | 1256 | 🟠 LC Rank Transform Of An Array | 🟢 Easy | Arrays | 2026-07-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1256-rank-transform-of-an-array/rank-transform-of-an-array.java) |
 | 1212 | 🟠 LC Sequential Digits | 🟡 Medium | General | 2026-07-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1212-sequential-digits/sequential-digits.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 1222 | 🟠 LC Remove Covered Intervals | 🟡 Medium | General | 2026-07-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1222-remove-covered-intervals/remove-covered-intervals.java) |
 | 1234 | 🟠 LC Number Of Paths With Max Score | 🔴 Hard | Graphs | 2026-07-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1234-number-of-paths-with-max-score/number-of-paths-with-max-score.java) |
 | 2582 | 🟠 LC Minimum Score Of A Path Between Two Cities | 🟡 Medium | Graphs | 2026-07-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2582-minimum-score-of-a-path-between-two-cities/minimum-score-of-a-path-between-two-cities.java) |
-| 3919 | 🟠 LC Network Recovery Pathways | 🔴 Hard | Graphs | 2026-07-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3919-network-recovery-pathways/network-recovery-pathways.java) |
 <!-- RECENT:END -->
 
 ---
