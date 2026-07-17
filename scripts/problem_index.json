@@ -838,5 +838,10 @@
     "title": "Find the Number of Subsequences With Equal GCD",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-4242-sum-of-gcd-of-formed-pairs": {
+    "title": "Sum of GCD of Formed Pairs",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
