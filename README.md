@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3276 | 🟠 LC Minimum Number Of Pushes To Type Word Ii | ⚪ Unknown | General | 2026-07-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3276-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.java) |
 | 3275 | 🟠 LC Minimum Number Of Pushes To Type Word I | 🟢 Easy | General | 2026-07-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3275-minimum-number-of-pushes-to-type-word-i/minimum-number-of-pushes-to-type-word-i.java) |
 | 4242 | 🟠 LC Sum Of Gcd Of Formed Pairs | 🟡 Medium | Math | 2026-07-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4242-sum-of-gcd-of-formed-pairs/sum-of-gcd-of-formed-pairs.java) |
 | 3608 | 🟠 LC Find The Number Of Subsequences With Equal Gcd | 🔴 Hard | Dynamic Programming | 2026-07-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3608-find-the-number-of-subsequences-with-equal-gcd/find-the-number-of-subsequences-with-equal-gcd.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 4136 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum Ii | 🟡 Medium | General | 2026-07-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | 4135 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum I | 🟢 Easy | General | 2026-07-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/concatenate-non-zero-digits-and-multiply-by-sum-i.java) |
 | 1222 | 🟠 LC Remove Covered Intervals | 🟡 Medium | General | 2026-07-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1222-remove-covered-intervals/remove-covered-intervals.java) |
-| 1234 | 🟠 LC Number Of Paths With Max Score | 🔴 Hard | Graphs | 2026-07-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1234-number-of-paths-with-max-score/number-of-paths-with-max-score.java) |
 <!-- RECENT:END -->
 
 ---
