@@ -843,5 +843,10 @@
     "title": "Sum of GCD of Formed Pairs",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3275-minimum-number-of-pushes-to-type-word-i": {
+    "title": "Minimum Number of Pushes to Type Word I",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
