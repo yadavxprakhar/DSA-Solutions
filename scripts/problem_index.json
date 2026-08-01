@@ -848,5 +848,10 @@
     "title": "Minimum Number of Pushes to Type Word I",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3276-minimum-number-of-pushes-to-type-word-ii": {
+    "title": "Minimum Number of Pushes to Type Word II",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
