@@ -853,5 +853,10 @@
     "title": "Minimum Number of Pushes to Type Word II",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3626-smallest-divisible-digit-product-i": {
+    "title": "Smallest Divisible Digit Product I",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
