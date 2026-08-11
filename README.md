@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3635 | 🟠 LC Smallest Divisible Digit Product Ii | ⚪ Unknown | General | 2026-08-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3635-smallest-divisible-digit-product-ii/smallest-divisible-digit-product-ii.java) |
 | 3626 | 🟠 LC Smallest Divisible Digit Product I | 🟢 Easy | General | 2026-08-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3626-smallest-divisible-digit-product-i/smallest-divisible-digit-product-i.java) |
 | 3276 | 🟠 LC Minimum Number Of Pushes To Type Word Ii | 🟡 Medium | General | 2026-07-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3276-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.java) |
 | 3275 | 🟠 LC Minimum Number Of Pushes To Type Word I | 🟢 Easy | General | 2026-07-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3275-minimum-number-of-pushes-to-type-word-i/minimum-number-of-pushes-to-type-word-i.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3852 | 🟠 LC Path Existence Queries In A Graph Ii | 🔴 Hard | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3852-path-existence-queries-in-a-graph-ii/path-existence-queries-in-a-graph-ii.java) |
 | 3838 | 🟠 LC Path Existence Queries In A Graph I | 🟡 Medium | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3838-path-existence-queries-in-a-graph-i/path-existence-queries-in-a-graph-i.java) |
 | 4136 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum Ii | 🟡 Medium | General | 2026-07-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
-| 4135 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum I | 🟢 Easy | General | 2026-07-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/concatenate-non-zero-digits-and-multiply-by-sum-i.java) |
 <!-- RECENT:END -->
 
 ---
