@@ -858,5 +858,10 @@
     "title": "Smallest Divisible Digit Product I",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3635-smallest-divisible-digit-product-ii": {
+    "title": "Smallest Divisible Digit Product II",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
