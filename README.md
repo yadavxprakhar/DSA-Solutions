@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3225 | 🟠 LC Length Of Longest Subarray With At Most K Frequency | ⚪ Unknown | Arrays | 2026-08-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3225-length-of-longest-subarray-with-at-most-k-frequency/length-of-longest-subarray-with-at-most-k-frequency.java) |
 | 3635 | 🟠 LC Smallest Divisible Digit Product Ii | 🔴 Hard | General | 2026-08-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3635-smallest-divisible-digit-product-ii/smallest-divisible-digit-product-ii.java) |
 | 3626 | 🟠 LC Smallest Divisible Digit Product I | 🟢 Easy | General | 2026-08-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3626-smallest-divisible-digit-product-i/smallest-divisible-digit-product-i.java) |
 | 3276 | 🟠 LC Minimum Number Of Pushes To Type Word Ii | 🟡 Medium | General | 2026-07-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3276-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2793 | 🟠 LC Count The Number Of Complete Components | 🟡 Medium | General | 2026-07-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2793-count-the-number-of-complete-components/count-the-number-of-complete-components.java) |
 | 3852 | 🟠 LC Path Existence Queries In A Graph Ii | 🔴 Hard | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3852-path-existence-queries-in-a-graph-ii/path-existence-queries-in-a-graph-ii.java) |
 | 3838 | 🟠 LC Path Existence Queries In A Graph I | 🟡 Medium | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3838-path-existence-queries-in-a-graph-i/path-existence-queries-in-a-graph-i.java) |
-| 4136 | 🟠 LC Concatenate Non Zero Digits And Multiply By Sum Ii | 🟡 Medium | General | 2026-07-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!-- RECENT:END -->
 
 ---
