@@ -868,5 +868,10 @@
     "title": "Length of Longest Subarray With at Most K Frequency",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2319-longest-substring-of-one-repeating-character": {
+    "title": "Longest Substring of One Repeating Character",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
