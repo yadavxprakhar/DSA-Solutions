@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2319 | 🟠 LC Longest Substring Of One Repeating Character | ⚪ Unknown | Trees | 2026-08-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2319-longest-substring-of-one-repeating-character/longest-substring-of-one-repeating-character.java) |
 | 3225 | 🟠 LC Length Of Longest Subarray With At Most K Frequency | 🟡 Medium | Arrays | 2026-08-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3225-length-of-longest-subarray-with-at-most-k-frequency/length-of-longest-subarray-with-at-most-k-frequency.java) |
 | 3635 | 🟠 LC Smallest Divisible Digit Product Ii | 🔴 Hard | General | 2026-08-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3635-smallest-divisible-digit-product-ii/smallest-divisible-digit-product-ii.java) |
 | 3626 | 🟠 LC Smallest Divisible Digit Product I | 🟢 Easy | General | 2026-08-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3626-smallest-divisible-digit-product-i/smallest-divisible-digit-product-i.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 1212 | 🟠 LC Sequential Digits | 🟡 Medium | General | 2026-07-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1212-sequential-digits/sequential-digits.java) |
 | 2793 | 🟠 LC Count The Number Of Complete Components | 🟡 Medium | General | 2026-07-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2793-count-the-number-of-complete-components/count-the-number-of-complete-components.java) |
 | 3852 | 🟠 LC Path Existence Queries In A Graph Ii | 🔴 Hard | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3852-path-existence-queries-in-a-graph-ii/path-existence-queries-in-a-graph-ii.java) |
-| 3838 | 🟠 LC Path Existence Queries In A Graph I | 🟡 Medium | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3838-path-existence-queries-in-a-graph-i/path-existence-queries-in-a-graph-i.java) |
 <!-- RECENT:END -->
 
 ---
