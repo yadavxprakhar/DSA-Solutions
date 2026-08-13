@@ -121,18 +121,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
-| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
-| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
-| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
-| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| 2319 | 🟠 LC Longest Substring Of One Repeating Character | 🔴 Hard | Trees | 2026-08-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2319-longest-substring-of-one-repeating-character/longest-substring-of-one-repeating-character.java) |
+| 3225 | 🟠 LC Length Of Longest Subarray With At Most K Frequency | 🟡 Medium | Arrays | 2026-08-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3225-length-of-longest-subarray-with-at-most-k-frequency/length-of-longest-subarray-with-at-most-k-frequency.java) |
+| 3635 | 🟠 LC Smallest Divisible Digit Product Ii | 🔴 Hard | General | 2026-08-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3635-smallest-divisible-digit-product-ii/smallest-divisible-digit-product-ii.java) |
+| 3626 | 🟠 LC Smallest Divisible Digit Product I | 🟢 Easy | General | 2026-08-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3626-smallest-divisible-digit-product-i/smallest-divisible-digit-product-i.java) |
+| 3276 | 🟠 LC Minimum Number Of Pushes To Type Word Ii | 🟡 Medium | General | 2026-07-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3276-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.java) |
+| 3275 | 🟠 LC Minimum Number Of Pushes To Type Word I | 🟢 Easy | General | 2026-07-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3275-minimum-number-of-pushes-to-type-word-i/minimum-number-of-pushes-to-type-word-i.java) |
+| 4242 | 🟠 LC Sum Of Gcd Of Formed Pairs | 🟡 Medium | Math | 2026-07-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4242-sum-of-gcd-of-formed-pairs/sum-of-gcd-of-formed-pairs.java) |
+| 3608 | 🟠 LC Find The Number Of Subsequences With Equal Gcd | 🔴 Hard | Dynamic Programming | 2026-07-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3608-find-the-number-of-subsequences-with-equal-gcd/find-the-number-of-subsequences-with-equal-gcd.java) |
+| 1256 | 🟠 LC Rank Transform Of An Array | 🟢 Easy | Arrays | 2026-07-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1256-rank-transform-of-an-array/rank-transform-of-an-array.java) |
+| 1212 | 🟠 LC Sequential Digits | 🟡 Medium | General | 2026-07-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1212-sequential-digits/sequential-digits.java) |
+| 2793 | 🟠 LC Count The Number Of Complete Components | 🟡 Medium | General | 2026-07-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2793-count-the-number-of-complete-components/count-the-number-of-complete-components.java) |
+| 3852 | 🟠 LC Path Existence Queries In A Graph Ii | 🔴 Hard | Graphs | 2026-07-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3852-path-existence-queries-in-a-graph-ii/path-existence-queries-in-a-graph-ii.java) |
 <!-- RECENT:END -->
 
 ---
