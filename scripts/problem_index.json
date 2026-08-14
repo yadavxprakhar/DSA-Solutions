@@ -873,5 +873,10 @@
     "title": "Longest Substring of One Repeating Character",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-3349-maximum-length-substring-with-two-occurrences": {
+    "title": "Maximum Length Substring With Two Occurrences",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
