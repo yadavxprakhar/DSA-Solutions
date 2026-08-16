@@ -878,5 +878,15 @@
     "title": "Maximum Length Substring With Two Occurrences",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-2156-stone-game-ix": {
+    "title": "Stone Game IX",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-4033-longest-subsequence-with-non-zero-bitwise-xor": {
+    "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
