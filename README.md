@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2156 | 🟠 LC Stone Game Ix | ⚪ Unknown | General | 2026-08-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2156-stone-game-ix/stone-game-ix.java) |
 | 4033 | 🟠 LC Longest Subsequence With Non Zero Bitwise Xor | ⚪ Unknown | Dynamic Programming | 2026-08-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4033-longest-subsequence-with-non-zero-bitwise-xor/longest-subsequence-with-non-zero-bitwise-xor.java) |
 | 3349 | 🟠 LC Maximum Length Substring With Two Occurrences | 🟢 Easy | Trees | 2026-08-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3349-maximum-length-substring-with-two-occurrences/maximum-length-substring-with-two-occurrences.java) |
 | 2319 | 🟠 LC Longest Substring Of One Repeating Character | 🔴 Hard | Trees | 2026-08-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2319-longest-substring-of-one-repeating-character/longest-substring-of-one-repeating-character.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 4242 | 🟠 LC Sum Of Gcd Of Formed Pairs | 🟡 Medium | Math | 2026-07-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4242-sum-of-gcd-of-formed-pairs/sum-of-gcd-of-formed-pairs.java) |
 | 3608 | 🟠 LC Find The Number Of Subsequences With Equal Gcd | 🔴 Hard | Dynamic Programming | 2026-07-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3608-find-the-number-of-subsequences-with-equal-gcd/find-the-number-of-subsequences-with-equal-gcd.java) |
 | 1256 | 🟠 LC Rank Transform Of An Array | 🟢 Easy | Arrays | 2026-07-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1256-rank-transform-of-an-array/rank-transform-of-an-array.java) |
-| 1212 | 🟠 LC Sequential Digits | 🟡 Medium | General | 2026-07-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1212-sequential-digits/sequential-digits.java) |
 <!-- RECENT:END -->
 
 ---
