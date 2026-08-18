@@ -888,5 +888,10 @@
     "title": "Longest Subsequence With Non-Zero Bitwise XOR",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3705-find-the-largest-almost-missing-integer": {
+    "title": "Find the Largest Almost Missing Integer",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
