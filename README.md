@@ -121,20 +121,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 3705 | 🟠 LC Find The Largest Almost Missing Integer | 🟢 Easy | General | 2026-08-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3705-find-the-largest-almost-missing-integer/find-the-largest-almost-missing-integer.java) |
-| 2156 | 🟠 LC Stone Game Ix | 🟡 Medium | General | 2026-08-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2156-stone-game-ix/stone-game-ix.java) |
-| 4033 | 🟠 LC Longest Subsequence With Non Zero Bitwise Xor | 🟡 Medium | Dynamic Programming | 2026-08-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4033-longest-subsequence-with-non-zero-bitwise-xor/longest-subsequence-with-non-zero-bitwise-xor.java) |
-| 3349 | 🟠 LC Maximum Length Substring With Two Occurrences | 🟢 Easy | Trees | 2026-08-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3349-maximum-length-substring-with-two-occurrences/maximum-length-substring-with-two-occurrences.java) |
-| 2319 | 🟠 LC Longest Substring Of One Repeating Character | 🔴 Hard | Trees | 2026-08-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2319-longest-substring-of-one-repeating-character/longest-substring-of-one-repeating-character.java) |
-| 3225 | 🟠 LC Length Of Longest Subarray With At Most K Frequency | 🟡 Medium | Arrays | 2026-08-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3225-length-of-longest-subarray-with-at-most-k-frequency/length-of-longest-subarray-with-at-most-k-frequency.java) |
-| 3635 | 🟠 LC Smallest Divisible Digit Product Ii | 🔴 Hard | General | 2026-08-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3635-smallest-divisible-digit-product-ii/smallest-divisible-digit-product-ii.java) |
-| 3626 | 🟠 LC Smallest Divisible Digit Product I | 🟢 Easy | General | 2026-08-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3626-smallest-divisible-digit-product-i/smallest-divisible-digit-product-i.java) |
-| 3276 | 🟠 LC Minimum Number Of Pushes To Type Word Ii | 🟡 Medium | General | 2026-07-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3276-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.java) |
-| 3275 | 🟠 LC Minimum Number Of Pushes To Type Word I | 🟢 Easy | General | 2026-07-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3275-minimum-number-of-pushes-to-type-word-i/minimum-number-of-pushes-to-type-word-i.java) |
-| 4242 | 🟠 LC Sum Of Gcd Of Formed Pairs | 🟡 Medium | Math | 2026-07-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4242-sum-of-gcd-of-formed-pairs/sum-of-gcd-of-formed-pairs.java) |
-| 3608 | 🟠 LC Find The Number Of Subsequences With Equal Gcd | 🔴 Hard | Dynamic Programming | 2026-07-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3608-find-the-number-of-subsequences-with-equal-gcd/find-the-number-of-subsequences-with-equal-gcd.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
+| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
 <!-- RECENT:END -->
 
 ---
