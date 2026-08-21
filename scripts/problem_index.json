@@ -898,5 +898,10 @@
     "title": "Distribute Elements Into Two Arrays I",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3375-kth-smallest-amount-with-single-denomination-combination": {
+    "title": "Kth Smallest Amount With Single Denomination Combination",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
