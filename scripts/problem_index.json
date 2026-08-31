@@ -903,5 +903,15 @@
     "title": "Kth Smallest Amount With Single Denomination Combination",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points": {
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-2212-removing-minimum-and-maximum-from-array": {
+    "title": "Removing Minimum and Maximum From Array",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
