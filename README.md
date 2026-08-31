@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2212 | 🟠 LC Removing Minimum And Maximum From Array | ⚪ Unknown | Arrays | 2026-08-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2212-removing-minimum-and-maximum-from-array/removing-minimum-and-maximum-from-array.java) |
 | 3375 | 🟠 LC Kth Smallest Amount With Single Denomination Combination | 🔴 Hard | Backtracking | 2026-08-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3375-kth-smallest-amount-with-single-denomination-combination/kth-smallest-amount-with-single-denomination-combination.java) |
 | 3347 | 🟠 LC Distribute Elements Into Two Arrays I | 🟢 Easy | Arrays | 2026-08-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3347-distribute-elements-into-two-arrays-i) |
 | 3705 | 🟠 LC Find The Largest Almost Missing Integer | 🟢 Easy | General | 2026-08-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3705-find-the-largest-almost-missing-integer/find-the-largest-almost-missing-integer.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3635 | 🟠 LC Smallest Divisible Digit Product Ii | 🔴 Hard | General | 2026-08-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3635-smallest-divisible-digit-product-ii/smallest-divisible-digit-product-ii.java) |
 | 3626 | 🟠 LC Smallest Divisible Digit Product I | 🟢 Easy | General | 2026-08-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3626-smallest-divisible-digit-product-i/smallest-divisible-digit-product-i.java) |
 | 3276 | 🟠 LC Minimum Number Of Pushes To Type Word Ii | 🟡 Medium | General | 2026-07-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3276-minimum-number-of-pushes-to-type-word-ii/minimum-number-of-pushes-to-type-word-ii.java) |
-| 3275 | 🟠 LC Minimum Number Of Pushes To Type Word I | 🟢 Easy | General | 2026-07-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3275-minimum-number-of-pushes-to-type-word-i/minimum-number-of-pushes-to-type-word-i.java) |
 <!-- RECENT:END -->
 
 ---
