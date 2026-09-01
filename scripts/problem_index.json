@@ -913,5 +913,10 @@
     "title": "Removing Minimum and Maximum From Array",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3870-minimum-moves-to-clean-the-classroom": {
+    "title": "Minimum Moves to Clean the Classroom",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
