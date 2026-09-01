@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3870 | 🟠 LC Minimum Moves To Clean The Classroom | ⚪ Unknown | General | 2026-09-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3870-minimum-moves-to-clean-the-classroom/minimum-moves-to-clean-the-classroom.java) |
 | 2182 | 🟠 LC Find The Minimum And Maximum Number Of Nodes Between Critical Points | 🟡 Medium | Linked List | 2026-08-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java) |
 | 2212 | 🟠 LC Removing Minimum And Maximum From Array | 🟡 Medium | Arrays | 2026-08-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2212-removing-minimum-and-maximum-from-array/removing-minimum-and-maximum-from-array.java) |
 | 3375 | 🟠 LC Kth Smallest Amount With Single Denomination Combination | 🔴 Hard | Backtracking | 2026-08-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3375-kth-smallest-amount-with-single-denomination-combination/kth-smallest-amount-with-single-denomination-combination.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2319 | 🟠 LC Longest Substring Of One Repeating Character | 🔴 Hard | Trees | 2026-08-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2319-longest-substring-of-one-repeating-character/longest-substring-of-one-repeating-character.java) |
 | 3225 | 🟠 LC Length Of Longest Subarray With At Most K Frequency | 🟡 Medium | Arrays | 2026-08-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3225-length-of-longest-subarray-with-at-most-k-frequency/length-of-longest-subarray-with-at-most-k-frequency.java) |
 | 3635 | 🟠 LC Smallest Divisible Digit Product Ii | 🔴 Hard | General | 2026-08-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3635-smallest-divisible-digit-product-ii/smallest-divisible-digit-product-ii.java) |
-| 3626 | 🟠 LC Smallest Divisible Digit Product I | 🟢 Easy | General | 2026-08-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3626-smallest-divisible-digit-product-i/smallest-divisible-digit-product-i.java) |
 <!-- RECENT:END -->
 
 ---
