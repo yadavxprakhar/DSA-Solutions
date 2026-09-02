@@ -918,5 +918,10 @@
     "title": "Minimum Moves to Clean the Classroom",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-4256-construct-uniform-parity-array-i": {
+    "title": "Construct Uniform Parity Array I",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
