@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4256 | 🟠 LC Construct Uniform Parity Array I | ⚪ Unknown | Arrays | 2026-09-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4256-construct-uniform-parity-array-i/construct-uniform-parity-array-i.java) |
 | 3870 | 🟠 LC Minimum Moves To Clean The Classroom | 🟡 Medium | General | 2026-09-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3870-minimum-moves-to-clean-the-classroom/minimum-moves-to-clean-the-classroom.java) |
 | 2182 | 🟠 LC Find The Minimum And Maximum Number Of Nodes Between Critical Points | 🟡 Medium | Linked List | 2026-08-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java) |
 | 2212 | 🟠 LC Removing Minimum And Maximum From Array | 🟡 Medium | Arrays | 2026-08-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2212-removing-minimum-and-maximum-from-array/removing-minimum-and-maximum-from-array.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3349 | 🟠 LC Maximum Length Substring With Two Occurrences | 🟢 Easy | Trees | 2026-08-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3349-maximum-length-substring-with-two-occurrences/maximum-length-substring-with-two-occurrences.java) |
 | 2319 | 🟠 LC Longest Substring Of One Repeating Character | 🔴 Hard | Trees | 2026-08-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2319-longest-substring-of-one-repeating-character/longest-substring-of-one-repeating-character.java) |
 | 3225 | 🟠 LC Length Of Longest Subarray With At Most K Frequency | 🟡 Medium | Arrays | 2026-08-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3225-length-of-longest-subarray-with-at-most-k-frequency/length-of-longest-subarray-with-at-most-k-frequency.java) |
-| 3635 | 🟠 LC Smallest Divisible Digit Product Ii | 🔴 Hard | General | 2026-08-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3635-smallest-divisible-digit-product-ii/smallest-divisible-digit-product-ii.java) |
 <!-- RECENT:END -->
 
 ---
