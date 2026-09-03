@@ -923,5 +923,10 @@
     "title": "Construct Uniform Parity Array I",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-4258-construct-uniform-parity-array-ii": {
+    "title": "Construct Uniform Parity Array II",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
