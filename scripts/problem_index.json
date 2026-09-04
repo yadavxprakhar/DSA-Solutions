@@ -928,5 +928,10 @@
     "title": "Construct Uniform Parity Array II",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-4284-smallest-stable-index-i": {
+    "title": "Smallest Stable Index I",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
