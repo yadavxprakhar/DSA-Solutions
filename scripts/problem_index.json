@@ -953,5 +953,10 @@
     "title": "Count Commas in Range",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-4248-count-commas-in-range-ii": {
+    "title": "Count Commas in Range II",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
