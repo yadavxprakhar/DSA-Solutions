@@ -958,5 +958,10 @@
     "title": "Count Commas in Range II",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2347-count-nodes-equal-to-average-of-subtree": {
+    "title": "Count Nodes Equal to Average of Subtree",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
