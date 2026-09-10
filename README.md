@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2347 | 🟠 LC Count Nodes Equal To Average Of Subtree | ⚪ Unknown | Linked List | 2026-09-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2347-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree.java) |
 | 4248 | 🟠 LC Count Commas In Range Ii | 🟡 Medium | General | 2026-09-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4248-count-commas-in-range-ii/count-commas-in-range-ii.java) |
 | 4245 | 🟠 LC Count Commas In Range | 🟢 Easy | General | 2026-09-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4245-count-commas-in-range/count-commas-in-range.java) |
 | 977 | 🟠 LC Distinct Subsequences Ii | 🔴 Hard | Dynamic Programming | 2026-09-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3870 | 🟠 LC Minimum Moves To Clean The Classroom | 🟡 Medium | General | 2026-09-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3870-minimum-moves-to-clean-the-classroom/minimum-moves-to-clean-the-classroom.java) |
 | 2182 | 🟠 LC Find The Minimum And Maximum Number Of Nodes Between Critical Points | 🟡 Medium | Linked List | 2026-08-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java) |
 | 2212 | 🟠 LC Removing Minimum And Maximum From Array | 🟡 Medium | Arrays | 2026-08-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2212-removing-minimum-and-maximum-from-array/removing-minimum-and-maximum-from-array.java) |
-| 3375 | 🟠 LC Kth Smallest Amount With Single Denomination Combination | 🔴 Hard | Backtracking | 2026-08-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3375-kth-smallest-amount-with-single-denomination-combination/kth-smallest-amount-with-single-denomination-combination.java) |
 <!-- RECENT:END -->
 
 ---
