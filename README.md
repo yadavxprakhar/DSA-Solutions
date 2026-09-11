@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3799 | 🟠 LC Unique 3 Digit Even Numbers | ⚪ Unknown | General | 2026-09-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3799-unique-3-digit-even-numbers) |
 | 2347 | 🟠 LC Count Nodes Equal To Average Of Subtree | 🟡 Medium | Linked List | 2026-09-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2347-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree.java) |
 | 4248 | 🟠 LC Count Commas In Range Ii | 🟡 Medium | General | 2026-09-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4248-count-commas-in-range-ii/count-commas-in-range-ii.java) |
 | 4245 | 🟠 LC Count Commas In Range | 🟢 Easy | General | 2026-09-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4245-count-commas-in-range/count-commas-in-range.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 4256 | 🟠 LC Construct Uniform Parity Array I | 🟢 Easy | Arrays | 2026-09-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4256-construct-uniform-parity-array-i/construct-uniform-parity-array-i.java) |
 | 3870 | 🟠 LC Minimum Moves To Clean The Classroom | 🟡 Medium | General | 2026-09-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3870-minimum-moves-to-clean-the-classroom/minimum-moves-to-clean-the-classroom.java) |
 | 2182 | 🟠 LC Find The Minimum And Maximum Number Of Nodes Between Critical Points | 🟡 Medium | Linked List | 2026-08-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/find-the-minimum-and-maximum-number-of-nodes-between-critical-points.java) |
-| 2212 | 🟠 LC Removing Minimum And Maximum From Array | 🟡 Medium | Arrays | 2026-08-31 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2212-removing-minimum-and-maximum-from-array/removing-minimum-and-maximum-from-array.java) |
 <!-- RECENT:END -->
 
 ---
