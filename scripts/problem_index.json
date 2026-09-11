@@ -963,5 +963,10 @@
     "title": "Count Nodes Equal to Average of Subtree",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3799-unique-3-digit-even-numbers": {
+    "title": "Unique 3-Digit Even Numbers",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
