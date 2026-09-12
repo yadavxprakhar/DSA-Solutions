@@ -968,5 +968,10 @@
     "title": "Unique 3-Digit Even Numbers",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3562-maximum-score-of-non-overlapping-intervals": {
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
