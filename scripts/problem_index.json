@@ -973,5 +973,15 @@
     "title": "Maximum Score of Non-overlapping Intervals",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-864-image-overlap": {
+    "title": "Image Overlap",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-866-rectangle-overlap": {
+    "title": "Rectangle Overlap",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
