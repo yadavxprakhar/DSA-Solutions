@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 866 | 🟠 LC Rectangle Overlap | ⚪ Unknown | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/866-rectangle-overlap/rectangle-overlap.java) |
 | 3562 | 🟠 LC Maximum Score Of Non Overlapping Intervals | 🔴 Hard | General | 2026-09-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.java) |
 | 3799 | 🟠 LC Unique 3 Digit Even Numbers | 🟢 Easy | General | 2026-09-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3799-unique-3-digit-even-numbers) |
 | 2347 | 🟠 LC Count Nodes Equal To Average Of Subtree | 🟡 Medium | Linked List | 2026-09-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2347-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 4284 | 🟠 LC Smallest Stable Index I | 🟢 Easy | General | 2026-09-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4284-smallest-stable-index-i/smallest-stable-index-i.java) |
 | 4258 | 🟠 LC Construct Uniform Parity Array Ii | 🟡 Medium | Arrays | 2026-09-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4258-construct-uniform-parity-array-ii/construct-uniform-parity-array-ii.java) |
 | 4256 | 🟠 LC Construct Uniform Parity Array I | 🟢 Easy | Arrays | 2026-09-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4256-construct-uniform-parity-array-i/construct-uniform-parity-array-i.java) |
-| 3870 | 🟠 LC Minimum Moves To Clean The Classroom | 🟡 Medium | General | 2026-09-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3870-minimum-moves-to-clean-the-classroom/minimum-moves-to-clean-the-classroom.java) |
 <!-- RECENT:END -->
 
 ---
