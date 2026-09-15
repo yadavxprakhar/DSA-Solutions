@@ -983,5 +983,10 @@
     "title": "Rectangle Overlap",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-2559-maximum-number-of-non-overlapping-palindrome-substrings": {
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
