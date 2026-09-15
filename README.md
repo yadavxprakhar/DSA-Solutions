@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2559 | 🟠 LC Maximum Number Of Non Overlapping Palindrome Substrings | ⚪ Unknown | Trees | 2026-09-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2559-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 864 | 🟠 LC Image Overlap | 🟡 Medium | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/864-image-overlap/image-overlap.java) |
 | 866 | 🟠 LC Rectangle Overlap | 🟢 Easy | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/866-rectangle-overlap/rectangle-overlap.java) |
 | 3562 | 🟠 LC Maximum Score Of Non Overlapping Intervals | 🔴 Hard | General | 2026-09-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 115 | 🟠 LC Distinct Subsequences | 🔴 Hard | Dynamic Programming | 2026-09-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/115-distinct-subsequences/distinct-subsequences.java) |
 | 4285 | 🟠 LC Smallest Stable Index Ii | 🟡 Medium | General | 2026-09-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4285-smallest-stable-index-ii/smallest-stable-index-ii.java) |
 | 4284 | 🟠 LC Smallest Stable Index I | 🟢 Easy | General | 2026-09-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4284-smallest-stable-index-i/smallest-stable-index-i.java) |
-| 4258 | 🟠 LC Construct Uniform Parity Array Ii | 🟡 Medium | Arrays | 2026-09-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4258-construct-uniform-parity-array-ii/construct-uniform-parity-array-ii.java) |
 <!-- RECENT:END -->
 
 ---
