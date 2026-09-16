@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1725 | 🟠 LC Number Of Sets Of K Non Overlapping Line Segments | ⚪ Unknown | General | 2026-09-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 2559 | 🟠 LC Maximum Number Of Non Overlapping Palindrome Substrings | 🔴 Hard | Trees | 2026-09-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2559-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.java) |
 | 864 | 🟠 LC Image Overlap | 🟡 Medium | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/864-image-overlap/image-overlap.java) |
 | 866 | 🟠 LC Rectangle Overlap | 🟢 Easy | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/866-rectangle-overlap/rectangle-overlap.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 977 | 🟠 LC Distinct Subsequences Ii | 🔴 Hard | Dynamic Programming | 2026-09-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
 | 115 | 🟠 LC Distinct Subsequences | 🔴 Hard | Dynamic Programming | 2026-09-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/115-distinct-subsequences/distinct-subsequences.java) |
 | 4285 | 🟠 LC Smallest Stable Index Ii | 🟡 Medium | General | 2026-09-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4285-smallest-stable-index-ii/smallest-stable-index-ii.java) |
-| 4284 | 🟠 LC Smallest Stable Index I | 🟢 Easy | General | 2026-09-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4284-smallest-stable-index-i/smallest-stable-index-i.java) |
 <!-- RECENT:END -->
 
 ---
