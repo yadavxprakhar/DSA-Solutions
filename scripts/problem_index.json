@@ -988,5 +988,10 @@
     "title": "Maximum Number of Non-overlapping Palindrome Substrings",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-1725-number-of-sets-of-k-non-overlapping-line-segments": {
+    "title": "Number of Sets of K Non-Overlapping Line Segments",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
