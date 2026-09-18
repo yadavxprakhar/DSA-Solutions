@@ -993,5 +993,10 @@
     "title": "Number of Sets of K Non-Overlapping Line Segments",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1644-maximum-number-of-non-overlapping-substrings": {
+    "title": "Maximum Number of Non-Overlapping Substrings",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
