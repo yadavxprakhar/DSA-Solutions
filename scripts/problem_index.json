@@ -998,5 +998,10 @@
     "title": "Maximum Number of Non-Overlapping Substrings",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-1501-circle-and-rectangle-overlapping": {
+    "title": "Circle and Rectangle Overlapping",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
