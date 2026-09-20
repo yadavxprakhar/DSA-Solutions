@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3811 | 🟠 LC Reverse Degree Of A String | ⚪ Unknown | Strings | 2026-09-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3811-reverse-degree-of-a-string/reverse-degree-of-a-string.java) |
 | 1501 | 🟠 LC Circle And Rectangle Overlapping | 🟡 Medium | General | 2026-09-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1501-circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.java) |
 | 1644 | 🟠 LC Maximum Number Of Non Overlapping Substrings | 🔴 Hard | Trees | 2026-09-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1644-maximum-number-of-non-overlapping-substrings/maximum-number-of-non-overlapping-substrings.java) |
 | 1725 | 🟠 LC Number Of Sets Of K Non Overlapping Line Segments | 🟡 Medium | General | 2026-09-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2347 | 🟠 LC Count Nodes Equal To Average Of Subtree | 🟡 Medium | Linked List | 2026-09-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2347-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree.java) |
 | 4248 | 🟠 LC Count Commas In Range Ii | 🟡 Medium | General | 2026-09-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4248-count-commas-in-range-ii/count-commas-in-range-ii.java) |
 | 4245 | 🟠 LC Count Commas In Range | 🟢 Easy | General | 2026-09-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4245-count-commas-in-range/count-commas-in-range.java) |
-| 977 | 🟠 LC Distinct Subsequences Ii | 🔴 Hard | Dynamic Programming | 2026-09-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
 <!-- RECENT:END -->
 
 ---
