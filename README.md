@@ -121,18 +121,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
-| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
-| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
-| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
-| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| 3811 | 🟠 LC Reverse Degree Of A String | 🟢 Easy | Strings | 2026-09-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3811-reverse-degree-of-a-string/reverse-degree-of-a-string.java) |
+| 1501 | 🟠 LC Circle And Rectangle Overlapping | 🟡 Medium | General | 2026-09-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1501-circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.java) |
+| 1644 | 🟠 LC Maximum Number Of Non Overlapping Substrings | 🔴 Hard | Trees | 2026-09-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1644-maximum-number-of-non-overlapping-substrings/maximum-number-of-non-overlapping-substrings.java) |
+| 1725 | 🟠 LC Number Of Sets Of K Non Overlapping Line Segments | 🟡 Medium | General | 2026-09-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
+| 2559 | 🟠 LC Maximum Number Of Non Overlapping Palindrome Substrings | 🔴 Hard | Trees | 2026-09-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2559-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.java) |
+| 864 | 🟠 LC Image Overlap | 🟡 Medium | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/864-image-overlap/image-overlap.java) |
+| 866 | 🟠 LC Rectangle Overlap | 🟢 Easy | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/866-rectangle-overlap/rectangle-overlap.java) |
+| 3562 | 🟠 LC Maximum Score Of Non Overlapping Intervals | 🔴 Hard | General | 2026-09-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.java) |
+| 3799 | 🟠 LC Unique 3 Digit Even Numbers | 🟢 Easy | General | 2026-09-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3799-unique-3-digit-even-numbers) |
+| 2347 | 🟠 LC Count Nodes Equal To Average Of Subtree | 🟡 Medium | Linked List | 2026-09-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2347-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree.java) |
+| 4248 | 🟠 LC Count Commas In Range Ii | 🟡 Medium | General | 2026-09-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4248-count-commas-in-range-ii/count-commas-in-range-ii.java) |
+| 4245 | 🟠 LC Count Commas In Range | 🟢 Easy | General | 2026-09-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4245-count-commas-in-range/count-commas-in-range.java) |
 <!-- RECENT:END -->
 
 ---
