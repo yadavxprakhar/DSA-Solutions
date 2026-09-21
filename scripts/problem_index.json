@@ -1008,5 +1008,10 @@
     "title": "Reverse Degree of a String",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3831-find-x-value-of-array-i": {
+    "title": "Find X Value of Array I",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
