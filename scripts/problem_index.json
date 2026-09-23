@@ -1013,5 +1013,10 @@
     "title": "Find X Value of Array I",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1776-minimum-operations-to-reduce-x-to-zero": {
+    "title": "Minimum Operations to Reduce X to Zero",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
