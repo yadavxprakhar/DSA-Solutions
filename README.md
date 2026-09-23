@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1776 | 🟠 LC Minimum Operations To Reduce X To Zero | ⚪ Unknown | General | 2026-09-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1776-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.java) |
 | 3831 | 🟠 LC Find X Value Of Array I | 🟡 Medium | Arrays | 2026-09-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3831-find-x-value-of-array-i) |
 | 3811 | 🟠 LC Reverse Degree Of A String | 🟢 Easy | Strings | 2026-09-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3811-reverse-degree-of-a-string/reverse-degree-of-a-string.java) |
 | 1501 | 🟠 LC Circle And Rectangle Overlapping | 🟡 Medium | General | 2026-09-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1501-circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3562 | 🟠 LC Maximum Score Of Non Overlapping Intervals | 🔴 Hard | General | 2026-09-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.java) |
 | 3799 | 🟠 LC Unique 3 Digit Even Numbers | 🟢 Easy | General | 2026-09-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3799-unique-3-digit-even-numbers) |
 | 2347 | 🟠 LC Count Nodes Equal To Average Of Subtree | 🟡 Medium | Linked List | 2026-09-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2347-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree.java) |
-| 4248 | 🟠 LC Count Commas In Range Ii | 🟡 Medium | General | 2026-09-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4248-count-commas-in-range-ii/count-commas-in-range-ii.java) |
 <!-- RECENT:END -->
 
 ---
