@@ -1018,5 +1018,10 @@
     "title": "Minimum Operations to Reduce X to Zero",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3869-smallest-index-with-digit-sum-equal-to-index": {
+    "title": "Smallest Index With Digit Sum Equal to Index",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
