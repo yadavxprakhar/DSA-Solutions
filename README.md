@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1188 | 🟠 LC Brace Expansion Ii | ⚪ Unknown | General | 2026-09-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1188-brace-expansion-ii/brace-expansion-ii.java) |
 | 3869 | 🟠 LC Smallest Index With Digit Sum Equal To Index | 🟢 Easy | General | 2026-09-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3869-smallest-index-with-digit-sum-equal-to-index/smallest-index-with-digit-sum-equal-to-index.java) |
 | 1776 | 🟠 LC Minimum Operations To Reduce X To Zero | 🟡 Medium | General | 2026-09-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1776-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.java) |
 | 3831 | 🟠 LC Find X Value Of Array I | 🟡 Medium | Arrays | 2026-09-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3831-find-x-value-of-array-i) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 864 | 🟠 LC Image Overlap | 🟡 Medium | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/864-image-overlap/image-overlap.java) |
 | 866 | 🟠 LC Rectangle Overlap | 🟢 Easy | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/866-rectangle-overlap/rectangle-overlap.java) |
 | 3562 | 🟠 LC Maximum Score Of Non Overlapping Intervals | 🔴 Hard | General | 2026-09-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.java) |
-| 3799 | 🟠 LC Unique 3 Digit Even Numbers | 🟢 Easy | General | 2026-09-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3799-unique-3-digit-even-numbers) |
 <!-- RECENT:END -->
 
 ---
