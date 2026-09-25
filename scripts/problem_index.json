@@ -1023,5 +1023,10 @@
     "title": "Smallest Index With Digit Sum Equal to Index",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-1188-brace-expansion-ii": {
+    "title": "Brace Expansion II",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }

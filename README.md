@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 46 | 88 | 27 | **161** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 46 | 88 | 28 | **162** |
 | ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 8 | 16 | 17 | 2 | **43** |
-| **Combined** | — | 62 | 105 | 29 | **204** |
+| **Combined** | — | 62 | 105 | 30 | **205** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 161 (79%) | 43 (21%) |
+| Problems | 162 (79%) | 43 (21%) |
 | Easy | 46 | 16 |
 | Medium | 88 | 17 |
-| Hard | 27 | 2 |
+| Hard | 28 | 2 |
 | Basic (GFG) | — | 8 |
 
-> 📦 **Total across both platforms: 204 problems solved**
+> 📦 **Total across both platforms: 205 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -113,7 +113,7 @@ DSA-Solutions/
 | Greedy | 4 | 0 | 2 | 2 | 0 |
 | Math | 10 | 0 | 7 | 3 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 81 | 4 | 22 | 37 | 18 |
+| Uncategorized | 82 | 4 | 22 | 37 | 19 |
 <!-- TOPICS:END -->
 
 ---
@@ -121,20 +121,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 1188 | 🟠 LC Brace Expansion Ii | ⚪ Unknown | General | 2026-09-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1188-brace-expansion-ii/brace-expansion-ii.java) |
-| 3869 | 🟠 LC Smallest Index With Digit Sum Equal To Index | 🟢 Easy | General | 2026-09-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3869-smallest-index-with-digit-sum-equal-to-index/smallest-index-with-digit-sum-equal-to-index.java) |
-| 1776 | 🟠 LC Minimum Operations To Reduce X To Zero | 🟡 Medium | General | 2026-09-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1776-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.java) |
-| 3831 | 🟠 LC Find X Value Of Array I | 🟡 Medium | Arrays | 2026-09-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3831-find-x-value-of-array-i) |
-| 3811 | 🟠 LC Reverse Degree Of A String | 🟢 Easy | Strings | 2026-09-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3811-reverse-degree-of-a-string/reverse-degree-of-a-string.java) |
-| 1501 | 🟠 LC Circle And Rectangle Overlapping | 🟡 Medium | General | 2026-09-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1501-circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.java) |
-| 1644 | 🟠 LC Maximum Number Of Non Overlapping Substrings | 🔴 Hard | Trees | 2026-09-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1644-maximum-number-of-non-overlapping-substrings/maximum-number-of-non-overlapping-substrings.java) |
-| 1725 | 🟠 LC Number Of Sets Of K Non Overlapping Line Segments | 🟡 Medium | General | 2026-09-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
-| 2559 | 🟠 LC Maximum Number Of Non Overlapping Palindrome Substrings | 🔴 Hard | Trees | 2026-09-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2559-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.java) |
-| 864 | 🟠 LC Image Overlap | 🟡 Medium | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/864-image-overlap/image-overlap.java) |
-| 866 | 🟠 LC Rectangle Overlap | 🟢 Easy | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/866-rectangle-overlap/rectangle-overlap.java) |
-| 3562 | 🟠 LC Maximum Score Of Non Overlapping Intervals | 🔴 Hard | General | 2026-09-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
+| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
 <!-- RECENT:END -->
 
 ---
