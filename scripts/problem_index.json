@@ -1028,5 +1028,10 @@
     "title": "Brace Expansion II",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-1934-evaluate-the-bracket-pairs-of-a-string": {
+    "title": "Evaluate the Bracket Pairs of a String",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
