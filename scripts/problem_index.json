@@ -1033,5 +1033,10 @@
     "title": "Evaluate the Bracket Pairs of a String",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1298-reverse-substrings-between-each-pair-of-parentheses": {
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
