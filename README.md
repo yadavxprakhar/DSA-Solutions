@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2349 | 🟠 LC Check If There Is A Valid Parentheses String Path | ⚪ Unknown | Graphs | 2026-09-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2349-check-if-there-is-a-valid-parentheses-string-path/check-if-there-is-a-valid-parentheses-string-path.java) |
 | 1298 | 🟠 LC Reverse Substrings Between Each Pair Of Parentheses | 🟡 Medium | Trees | 2026-09-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1298-reverse-substrings-between-each-pair-of-parentheses/reverse-substrings-between-each-pair-of-parentheses.java) |
 | 1934 | 🟠 LC Evaluate The Bracket Pairs Of A String | 🟡 Medium | Stack Queue | 2026-09-26 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1934-evaluate-the-bracket-pairs-of-a-string/evaluate-the-bracket-pairs-of-a-string.java) |
 | 1188 | 🟠 LC Brace Expansion Ii | 🔴 Hard | General | 2026-09-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1188-brace-expansion-ii/brace-expansion-ii.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 1644 | 🟠 LC Maximum Number Of Non Overlapping Substrings | 🔴 Hard | Trees | 2026-09-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1644-maximum-number-of-non-overlapping-substrings/maximum-number-of-non-overlapping-substrings.java) |
 | 1725 | 🟠 LC Number Of Sets Of K Non Overlapping Line Segments | 🟡 Medium | General | 2026-09-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 2559 | 🟠 LC Maximum Number Of Non Overlapping Palindrome Substrings | 🔴 Hard | Trees | 2026-09-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2559-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.java) |
-| 864 | 🟠 LC Image Overlap | 🟡 Medium | General | 2026-09-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/864-image-overlap/image-overlap.java) |
 <!-- RECENT:END -->
 
 ---
