@@ -1038,5 +1038,10 @@
     "title": "Reverse Substrings Between Each Pair of Parentheses",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2349-check-if-there-is-a-valid-parentheses-string-path": {
+    "title": " Check if There Is a Valid Parentheses String Path",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
