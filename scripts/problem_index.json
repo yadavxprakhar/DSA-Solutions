@@ -1043,5 +1043,10 @@
     "title": " Check if There Is a Valid Parentheses String Path",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-1208-maximum-nesting-depth-of-two-valid-parentheses-strings": {
+    "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
