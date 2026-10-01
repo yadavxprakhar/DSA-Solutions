@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 20 | 🟠 LC Valid Parentheses | ⚪ Unknown | Stack Queue | 2026-10-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/20-valid-parentheses) |
 | 1208 | 🟠 LC Maximum Nesting Depth Of Two Valid Parentheses Strings | 🟡 Medium | Stack Queue | 2026-09-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1208-maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.java) |
 | 2349 | 🟠 LC Check If There Is A Valid Parentheses String Path | 🔴 Hard | Graphs | 2026-09-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2349-check-if-there-is-a-valid-parentheses-string-path/check-if-there-is-a-valid-parentheses-string-path.java) |
 | 1298 | 🟠 LC Reverse Substrings Between Each Pair Of Parentheses | 🟡 Medium | Trees | 2026-09-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1298-reverse-substrings-between-each-pair-of-parentheses/reverse-substrings-between-each-pair-of-parentheses.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3811 | 🟠 LC Reverse Degree Of A String | 🟢 Easy | Strings | 2026-09-20 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3811-reverse-degree-of-a-string/reverse-degree-of-a-string.java) |
 | 1501 | 🟠 LC Circle And Rectangle Overlapping | 🟡 Medium | General | 2026-09-19 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1501-circle-and-rectangle-overlapping/circle-and-rectangle-overlapping.java) |
 | 1644 | 🟠 LC Maximum Number Of Non Overlapping Substrings | 🔴 Hard | Trees | 2026-09-18 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1644-maximum-number-of-non-overlapping-substrings/maximum-number-of-non-overlapping-substrings.java) |
-| 1725 | 🟠 LC Number Of Sets Of K Non Overlapping Line Segments | 🟡 Medium | General | 2026-09-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
 <!-- RECENT:END -->
 
 ---
