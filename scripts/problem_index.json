@@ -1048,5 +1048,10 @@
     "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-20-valid-parentheses": {
+    "title": "Valid Parentheses",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
