@@ -1053,5 +1053,10 @@
     "title": "Valid Parentheses",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-678-valid-parenthesis-string": {
+    "title": "Valid Parenthesis String",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
