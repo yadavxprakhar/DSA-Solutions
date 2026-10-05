@@ -1058,5 +1058,10 @@
     "title": "Valid Parenthesis String",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-886-score-of-parentheses": {
+    "title": "Score of Parentheses",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
