@@ -1063,5 +1063,15 @@
     "title": "Score of Parentheses",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-301-remove-invalid-parentheses": {
+    "title": "Remove Invalid Parentheses",
+    "difficulty": "hard",
+    "platform": "leetcode"
+  },
+  "lc-957-minimum-add-to-make-parentheses-valid": {
+    "title": "Minimum Add to Make Parentheses Valid",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
