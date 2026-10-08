@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1078 | 🟠 LC Remove Outermost Parentheses | ⚪ Unknown | Stack Queue | 2026-10-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1078-remove-outermost-parentheses/remove-outermost-parentheses.java) |
 | 301 | 🟠 LC Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/301-remove-invalid-parentheses) |
 | 957 | 🟠 LC Minimum Add To Make Parentheses Valid | 🟡 Medium | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) |
 | 886 | 🟠 LC Score Of Parentheses | 🟡 Medium | Stack Queue | 2026-10-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/886-score-of-parentheses/score-of-parentheses.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 1934 | 🟠 LC Evaluate The Bracket Pairs Of A String | 🟡 Medium | Stack Queue | 2026-09-26 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1934-evaluate-the-bracket-pairs-of-a-string/evaluate-the-bracket-pairs-of-a-string.java) |
 | 1188 | 🟠 LC Brace Expansion Ii | 🔴 Hard | General | 2026-09-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1188-brace-expansion-ii/brace-expansion-ii.java) |
 | 3869 | 🟠 LC Smallest Index With Digit Sum Equal To Index | 🟢 Easy | General | 2026-09-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3869-smallest-index-with-digit-sum-equal-to-index/smallest-index-with-digit-sum-equal-to-index.java) |
-| 1776 | 🟠 LC Minimum Operations To Reduce X To Zero | 🟡 Medium | General | 2026-09-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1776-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.java) |
 <!-- RECENT:END -->
 
 ---
