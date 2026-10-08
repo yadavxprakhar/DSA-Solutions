@@ -1073,5 +1073,10 @@
     "title": "Minimum Add to Make Parentheses Valid",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1078-remove-outermost-parentheses": {
+    "title": "Remove Outermost Parentheses",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
