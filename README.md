@@ -121,18 +121,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
-| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
-| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
-| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
-| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| 1648 | 🟠 LC Minimum Insertions To Balance A Parentheses String | 🟡 Medium | Stack Queue | 2026-10-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1648-minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.java) |
+| 1078 | 🟠 LC Remove Outermost Parentheses | 🟢 Easy | Stack Queue | 2026-10-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1078-remove-outermost-parentheses/remove-outermost-parentheses.java) |
+| 301 | 🟠 LC Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/301-remove-invalid-parentheses) |
+| 957 | 🟠 LC Minimum Add To Make Parentheses Valid | 🟡 Medium | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) |
+| 886 | 🟠 LC Score Of Parentheses | 🟡 Medium | Stack Queue | 2026-10-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/886-score-of-parentheses/score-of-parentheses.java) |
+| 678 | 🟠 LC Valid Parenthesis String | 🟡 Medium | Stack Queue | 2026-10-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/678-valid-parenthesis-string/valid-parenthesis-string.java) |
+| 20 | 🟠 LC Valid Parentheses | 🟢 Easy | Stack Queue | 2026-10-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/20-valid-parentheses) |
+| 1208 | 🟠 LC Maximum Nesting Depth Of Two Valid Parentheses Strings | 🟡 Medium | Stack Queue | 2026-09-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1208-maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.java) |
+| 2349 | 🟠 LC Check If There Is A Valid Parentheses String Path | 🔴 Hard | Graphs | 2026-09-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2349-check-if-there-is-a-valid-parentheses-string-path/check-if-there-is-a-valid-parentheses-string-path.java) |
+| 1298 | 🟠 LC Reverse Substrings Between Each Pair Of Parentheses | 🟡 Medium | Trees | 2026-09-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1298-reverse-substrings-between-each-pair-of-parentheses/reverse-substrings-between-each-pair-of-parentheses.java) |
+| 1934 | 🟠 LC Evaluate The Bracket Pairs Of A String | 🟡 Medium | Stack Queue | 2026-09-26 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1934-evaluate-the-bracket-pairs-of-a-string/evaluate-the-bracket-pairs-of-a-string.java) |
+| 1188 | 🟠 LC Brace Expansion Ii | 🔴 Hard | General | 2026-09-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1188-brace-expansion-ii/brace-expansion-ii.java) |
 <!-- RECENT:END -->
 
 ---
