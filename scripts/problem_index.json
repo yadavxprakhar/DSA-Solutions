@@ -1083,5 +1083,10 @@
     "title": "Minimum Insertions to Balance a Parentheses String",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2418-minimum-sum-of-squared-difference": {
+    "title": "Minimum Sum of Squared Difference",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
