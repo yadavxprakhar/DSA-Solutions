@@ -1088,5 +1088,10 @@
     "title": "Minimum Sum of Squared Difference",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3153-apply-operations-on-array-to-maximize-sum-of-squares": {
+    "title": "Apply Operations on Array to Maximize Sum of Squares",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
