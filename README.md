@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4084 | 🟠 LC Maximize Sum Of Squares Of Digits | ⚪ Unknown | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) |
 | 4078 | 🟠 LC Maximum Alternating Sum Of Squares | ⚪ Unknown | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) |
 | 3153 | 🟠 LC Apply Operations On Array To Maximize Sum Of Squares | 🔴 Hard | Arrays | 2026-10-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) |
 | 2418 | 🟠 LC Minimum Sum Of Squared Difference | 🟡 Medium | General | 2026-10-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2418-minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 678 | 🟠 LC Valid Parenthesis String | 🟡 Medium | Stack Queue | 2026-10-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/678-valid-parenthesis-string/valid-parenthesis-string.java) |
 | 20 | 🟠 LC Valid Parentheses | 🟢 Easy | Stack Queue | 2026-10-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/20-valid-parentheses) |
 | 1208 | 🟠 LC Maximum Nesting Depth Of Two Valid Parentheses Strings | 🟡 Medium | Stack Queue | 2026-09-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1208-maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.java) |
-| 2349 | 🟠 LC Check If There Is A Valid Parentheses String Path | 🔴 Hard | Graphs | 2026-09-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2349-check-if-there-is-a-valid-parentheses-string-path/check-if-there-is-a-valid-parentheses-string-path.java) |
 <!-- RECENT:END -->
 
 ---
