@@ -1093,5 +1093,15 @@
     "title": "Apply Operations on Array to Maximize Sum of Squares",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-4078-maximum-alternating-sum-of-squares": {
+    "title": "Maximum Alternating Sum of Squares",
+    "difficulty": "medium",
+    "platform": "leetcode"
+  },
+  "lc-4084-maximize-sum-of-squares-of-digits": {
+    "title": "Maximize Sum of Squares of Digits",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }

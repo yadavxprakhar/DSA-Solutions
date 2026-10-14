@@ -26,9 +26,9 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- STATS:START -->
 | Platform | 🔵 Basic | 🟢 Easy | 🟡 Medium | 🔴 Hard | **Total** |
 |----------|----------|---------|-----------|---------|-----------|
-| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 48 | 96 | 31 | **175** |
+| ![LC](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) LeetCode | — | 48 | 98 | 31 | **177** |
 | ![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) GeeksForGeeks | 8 | 16 | 17 | 2 | **43** |
-| **Combined** | — | 64 | 113 | 33 | **218** |
+| **Combined** | — | 64 | 115 | 33 | **220** |
 <!-- STATS:END -->
 
 ---
@@ -38,13 +38,13 @@ I'm **Prakhar Yadav**, a final-year CS student obsessed with building scalable s
 <!-- PLATFORM:START -->
 | | LeetCode | GeeksForGeeks |
 |--|----------|---------------|
-| Problems | 175 (80%) | 43 (20%) |
+| Problems | 177 (80%) | 43 (20%) |
 | Easy | 48 | 16 |
-| Medium | 96 | 17 |
+| Medium | 98 | 17 |
 | Hard | 31 | 2 |
 | Basic (GFG) | — | 8 |
 
-> 📦 **Total across both platforms: 218 problems solved**
+> 📦 **Total across both platforms: 220 problems solved**
 <!-- PLATFORM:END -->
 
 ---
@@ -113,7 +113,7 @@ DSA-Solutions/
 | Greedy | 4 | 0 | 2 | 2 | 0 |
 | Math | 10 | 0 | 7 | 3 | 0 |
 | Recursion | 9 | 0 | 0 | 9 | 0 |
-| Uncategorized | 95 | 4 | 24 | 45 | 22 |
+| Uncategorized | 97 | 4 | 24 | 47 | 22 |
 <!-- TOPICS:END -->
 
 ---
@@ -121,20 +121,18 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Date | Solution |
-|---|---------|------------|-------|------|----------|
-| 4084 | 🟠 LC Maximize Sum Of Squares Of Digits | ⚪ Unknown | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) |
-| 4078 | 🟠 LC Maximum Alternating Sum Of Squares | ⚪ Unknown | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) |
-| 3153 | 🟠 LC Apply Operations On Array To Maximize Sum Of Squares | 🔴 Hard | Arrays | 2026-10-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) |
-| 2418 | 🟠 LC Minimum Sum Of Squared Difference | 🟡 Medium | General | 2026-10-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2418-minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.java) |
-| 1648 | 🟠 LC Minimum Insertions To Balance A Parentheses String | 🟡 Medium | Stack Queue | 2026-10-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1648-minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.java) |
-| 1078 | 🟠 LC Remove Outermost Parentheses | 🟢 Easy | Stack Queue | 2026-10-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1078-remove-outermost-parentheses/remove-outermost-parentheses.java) |
-| 301 | 🟠 LC Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/301-remove-invalid-parentheses) |
-| 957 | 🟠 LC Minimum Add To Make Parentheses Valid | 🟡 Medium | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) |
-| 886 | 🟠 LC Score Of Parentheses | 🟡 Medium | Stack Queue | 2026-10-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/886-score-of-parentheses/score-of-parentheses.java) |
-| 678 | 🟠 LC Valid Parenthesis String | 🟡 Medium | Stack Queue | 2026-10-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/678-valid-parenthesis-string/valid-parenthesis-string.java) |
-| 20 | 🟠 LC Valid Parentheses | 🟢 Easy | Stack Queue | 2026-10-01 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/20-valid-parentheses) |
-| 1208 | 🟠 LC Maximum Nesting Depth Of Two Valid Parentheses Strings | 🟡 Medium | Stack Queue | 2026-09-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1208-maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.java) |
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|---------|
+| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
+| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
+| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
+| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
+| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
+| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
+| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
+| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
+| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
+| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
 <!-- RECENT:END -->
 
 ---
