@@ -1103,5 +1103,10 @@
     "title": "Maximize Sum of Squares of Digits",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3163-subarrays-distinct-element-sum-of-squares-i": {
+    "title": "Subarrays Distinct Element Sum of Squares I",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
