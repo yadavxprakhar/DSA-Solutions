@@ -1108,5 +1108,10 @@
     "title": "Subarrays Distinct Element Sum of Squares I",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3139-subarrays-distinct-element-sum-of-squares-ii": {
+    "title": "Subarrays Distinct Element Sum of Squares II",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
