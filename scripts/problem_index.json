@@ -1113,5 +1113,10 @@
     "title": "Subarrays Distinct Element Sum of Squares II",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-4220-minimum-operations-to-sort-a-string": {
+    "title": "Minimum Operations to Sort a String",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
