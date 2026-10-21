@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4220 | 🟠 LC Minimum Operations To Sort A String | ⚪ Unknown | Strings | 2026-10-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4220-minimum-operations-to-sort-a-string) |
 | 3139 | 🟠 LC Subarrays Distinct Element Sum Of Squares Ii | 🔴 Hard | Arrays | 2026-10-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3139-subarrays-distinct-element-sum-of-squares-ii/subarrays-distinct-element-sum-of-squares-ii.java) |
 | 3163 | 🟠 LC Subarrays Distinct Element Sum Of Squares I | 🟢 Easy | Arrays | 2026-10-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3163-subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.java) |
 | 4084 | 🟠 LC Maximize Sum Of Squares Of Digits | 🟡 Medium | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 301 | 🟠 LC Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/301-remove-invalid-parentheses) |
 | 957 | 🟠 LC Minimum Add To Make Parentheses Valid | 🟡 Medium | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) |
 | 886 | 🟠 LC Score Of Parentheses | 🟡 Medium | Stack Queue | 2026-10-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/886-score-of-parentheses/score-of-parentheses.java) |
-| 678 | 🟠 LC Valid Parenthesis String | 🟡 Medium | Stack Queue | 2026-10-04 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/678-valid-parenthesis-string/valid-parenthesis-string.java) |
 <!-- RECENT:END -->
 
 ---
