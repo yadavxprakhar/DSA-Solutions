@@ -1118,5 +1118,10 @@
     "title": "Minimum Operations to Sort a String",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-4184-minimum-operations-to-sort-a-permutation": {
+    "title": "Minimum Operations to Sort a Permutation",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
