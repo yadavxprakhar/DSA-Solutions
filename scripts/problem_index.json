@@ -1123,5 +1123,10 @@
     "title": "Minimum Operations to Sort a Permutation",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-3950-maximum-k-to-sort-a-permutation": {
+    "title": "Maximum K to Sort a Permutation",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
