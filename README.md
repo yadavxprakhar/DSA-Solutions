@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3950 | 🟠 LC Maximum K To Sort A Permutation | ⚪ Unknown | Backtracking | 2026-10-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3950-maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.java) |
 | 4184 | 🟠 LC Minimum Operations To Sort A Permutation | 🟡 Medium | Backtracking | 2026-10-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4184-minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.java) |
 | 4220 | 🟠 LC Minimum Operations To Sort A String | 🟡 Medium | Strings | 2026-10-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4220-minimum-operations-to-sort-a-string) |
 | 3139 | 🟠 LC Subarrays Distinct Element Sum Of Squares Ii | 🔴 Hard | Arrays | 2026-10-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3139-subarrays-distinct-element-sum-of-squares-ii/subarrays-distinct-element-sum-of-squares-ii.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 1648 | 🟠 LC Minimum Insertions To Balance A Parentheses String | 🟡 Medium | Stack Queue | 2026-10-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1648-minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.java) |
 | 1078 | 🟠 LC Remove Outermost Parentheses | 🟢 Easy | Stack Queue | 2026-10-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1078-remove-outermost-parentheses/remove-outermost-parentheses.java) |
 | 301 | 🟠 LC Remove Invalid Parentheses | 🔴 Hard | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/301-remove-invalid-parentheses) |
-| 957 | 🟠 LC Minimum Add To Make Parentheses Valid | 🟡 Medium | Stack Queue | 2026-10-07 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) |
 <!-- RECENT:END -->
 
 ---
