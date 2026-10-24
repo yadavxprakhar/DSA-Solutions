@@ -1128,5 +1128,10 @@
     "title": "Maximum K to Sort a Permutation",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2496-count-days-spent-together": {
+    "title": "Count Days Spent Together",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
