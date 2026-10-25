@@ -1133,5 +1133,10 @@
     "title": "Count Days Spent Together",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-1380-number-of-closed-islands": {
+    "title": "Number of Closed Islands",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
