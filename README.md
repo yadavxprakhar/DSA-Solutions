@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4342 | 🟠 LC Create Grid With Exactly One Path | ⚪ Unknown | Graphs | 2026-10-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4342-create-grid-with-exactly-one-path) |
 | 1380 | 🟠 LC Number Of Closed Islands | 🟡 Medium | Graphs | 2026-10-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1380-number-of-closed-islands/number-of-closed-islands.java) |
 | 2496 | 🟠 LC Count Days Spent Together | 🟢 Easy | General | 2026-10-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2496-count-days-spent-together/count-days-spent-together.java) |
 | 3950 | 🟠 LC Maximum K To Sort A Permutation | 🟡 Medium | Backtracking | 2026-10-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3950-maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 4078 | 🟠 LC Maximum Alternating Sum Of Squares | 🟡 Medium | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) |
 | 3153 | 🟠 LC Apply Operations On Array To Maximize Sum Of Squares | 🔴 Hard | Arrays | 2026-10-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) |
 | 2418 | 🟠 LC Minimum Sum Of Squared Difference | 🟡 Medium | General | 2026-10-10 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2418-minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.java) |
-| 1648 | 🟠 LC Minimum Insertions To Balance A Parentheses String | 🟡 Medium | Stack Queue | 2026-10-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1648-minimum-insertions-to-balance-a-parentheses-string/minimum-insertions-to-balance-a-parentheses-string.java) |
 <!-- RECENT:END -->
 
 ---
