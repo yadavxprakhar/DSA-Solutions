@@ -1143,5 +1143,10 @@
     "title": "Create Grid With Exactly One Path",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-4205-minimum-xor-path-in-a-grid": {
+    "title": "Minimum XOR Path in a Grid",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
