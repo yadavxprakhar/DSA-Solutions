@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4209 | 🟠 LC Palindromic Path Queries In A Tree | ⚪ Unknown | Trees | 2026-10-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4209-palindromic-path-queries-in-a-tree) |
 | 4205 | 🟠 LC Minimum Xor Path In A Grid | 🟡 Medium | Graphs | 2026-10-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4205-minimum-xor-path-in-a-grid) |
 | 4342 | 🟠 LC Create Grid With Exactly One Path | 🟢 Easy | Graphs | 2026-10-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4342-create-grid-with-exactly-one-path) |
 | 1380 | 🟠 LC Number Of Closed Islands | 🟡 Medium | Graphs | 2026-10-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1380-number-of-closed-islands/number-of-closed-islands.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3163 | 🟠 LC Subarrays Distinct Element Sum Of Squares I | 🟢 Easy | Arrays | 2026-10-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3163-subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.java) |
 | 4084 | 🟠 LC Maximize Sum Of Squares Of Digits | 🟡 Medium | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) |
 | 4078 | 🟠 LC Maximum Alternating Sum Of Squares | 🟡 Medium | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) |
-| 3153 | 🟠 LC Apply Operations On Array To Maximize Sum Of Squares | 🔴 Hard | Arrays | 2026-10-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) |
 <!-- RECENT:END -->
 
 ---
