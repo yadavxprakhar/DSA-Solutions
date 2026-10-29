@@ -1148,5 +1148,10 @@
     "title": "Minimum XOR Path in a Grid",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-4209-palindromic-path-queries-in-a-tree": {
+    "title": "Palindromic Path Queries in a Tree",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
