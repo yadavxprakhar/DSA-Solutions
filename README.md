@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4104 | 🟠 LC Shortest Path With At Most K Consecutive Identical Characters | ⚪ Unknown | Graphs | 2026-10-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4104-shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.java) |
 | 4209 | 🟠 LC Palindromic Path Queries In A Tree | 🔴 Hard | Trees | 2026-10-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4209-palindromic-path-queries-in-a-tree) |
 | 4205 | 🟠 LC Minimum Xor Path In A Grid | 🟡 Medium | Graphs | 2026-10-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4205-minimum-xor-path-in-a-grid) |
 | 4342 | 🟠 LC Create Grid With Exactly One Path | 🟢 Easy | Graphs | 2026-10-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4342-create-grid-with-exactly-one-path) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3139 | 🟠 LC Subarrays Distinct Element Sum Of Squares Ii | 🔴 Hard | Arrays | 2026-10-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3139-subarrays-distinct-element-sum-of-squares-ii/subarrays-distinct-element-sum-of-squares-ii.java) |
 | 3163 | 🟠 LC Subarrays Distinct Element Sum Of Squares I | 🟢 Easy | Arrays | 2026-10-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3163-subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.java) |
 | 4084 | 🟠 LC Maximize Sum Of Squares Of Digits | 🟡 Medium | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) |
-| 4078 | 🟠 LC Maximum Alternating Sum Of Squares | 🟡 Medium | General | 2026-10-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) |
 <!-- RECENT:END -->
 
 ---
