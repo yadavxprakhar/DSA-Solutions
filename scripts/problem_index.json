@@ -1153,5 +1153,10 @@
     "title": "Palindromic Path Queries in a Tree",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-4104-shortest-path-with-at-most-k-consecutive-identical-characters": {
+    "title": "Shortest Path With At Most K Consecutive Identical Characters",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
