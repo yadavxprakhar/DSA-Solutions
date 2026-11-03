@@ -1158,5 +1158,10 @@
     "title": "Shortest Path With At Most K Consecutive Identical Characters",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-462-minimum-moves-to-equal-array-elements-ii": {
+    "title": "Minimum Moves to Equal Array Elements II",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
