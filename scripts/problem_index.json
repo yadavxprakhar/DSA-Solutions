@@ -1168,5 +1168,10 @@
     "title": "Minimum Moves to Equal Array Elements III",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-1486-find-the-distance-value-between-two-arrays": {
+    "title": "Find the Distance Value Between Two Arrays",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
