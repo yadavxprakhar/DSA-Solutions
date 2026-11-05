@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 1486 | 🟠 LC Find The Distance Value Between Two Arrays | ⚪ Unknown | Arrays | 2026-11-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.java) |
 | 4116 | 🟠 LC Minimum Moves To Equal Array Elements Iii | 🟢 Easy | Arrays | 2026-11-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4116-minimum-moves-to-equal-array-elements-iii) |
 | 462 | 🟠 LC Minimum Moves To Equal Array Elements Ii | 🟡 Medium | Arrays | 2026-11-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/462-minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.java) |
 | 4104 | 🟠 LC Shortest Path With At Most K Consecutive Identical Characters | 🟡 Medium | Graphs | 2026-10-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4104-shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3950 | 🟠 LC Maximum K To Sort A Permutation | 🟡 Medium | Backtracking | 2026-10-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3950-maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.java) |
 | 4184 | 🟠 LC Minimum Operations To Sort A Permutation | 🟡 Medium | Backtracking | 2026-10-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4184-minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.java) |
 | 4220 | 🟠 LC Minimum Operations To Sort A String | 🟡 Medium | Strings | 2026-10-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4220-minimum-operations-to-sort-a-string) |
-| 3139 | 🟠 LC Subarrays Distinct Element Sum Of Squares Ii | 🔴 Hard | Arrays | 2026-10-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3139-subarrays-distinct-element-sum-of-squares-ii/subarrays-distinct-element-sum-of-squares-ii.java) |
 <!-- RECENT:END -->
 
 ---
