@@ -1173,5 +1173,10 @@
     "title": "Find the Distance Value Between Two Arrays",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-2833-count-zero-request-servers": {
+    "title": "Count Zero Request Servers",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
