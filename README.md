@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2833 | 🟠 LC Count Zero Request Servers | ⚪ Unknown | General | 2026-11-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2833-count-zero-request-servers/count-zero-request-servers.java) |
 | 1486 | 🟠 LC Find The Distance Value Between Two Arrays | 🟢 Easy | Arrays | 2026-11-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.java) |
 | 4116 | 🟠 LC Minimum Moves To Equal Array Elements Iii | 🟢 Easy | Arrays | 2026-11-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4116-minimum-moves-to-equal-array-elements-iii) |
 | 462 | 🟠 LC Minimum Moves To Equal Array Elements Ii | 🟡 Medium | Arrays | 2026-11-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/462-minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2496 | 🟠 LC Count Days Spent Together | 🟢 Easy | General | 2026-10-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2496-count-days-spent-together/count-days-spent-together.java) |
 | 3950 | 🟠 LC Maximum K To Sort A Permutation | 🟡 Medium | Backtracking | 2026-10-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3950-maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.java) |
 | 4184 | 🟠 LC Minimum Operations To Sort A Permutation | 🟡 Medium | Backtracking | 2026-10-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4184-minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.java) |
-| 4220 | 🟠 LC Minimum Operations To Sort A String | 🟡 Medium | Strings | 2026-10-21 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4220-minimum-operations-to-sort-a-string) |
 <!-- RECENT:END -->
 
 ---
