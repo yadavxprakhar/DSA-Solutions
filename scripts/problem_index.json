@@ -1178,5 +1178,10 @@
     "title": "Count Zero Request Servers",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2012-process-tasks-using-servers": {
+    "title": "Process Tasks Using Servers",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
