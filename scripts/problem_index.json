@@ -1188,5 +1188,10 @@
     "title": "Count Servers that Communicate",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-1710-find-servers-that-handled-most-number-of-requests": {
+    "title": "Find Servers That Handled Most Number of Requests",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
