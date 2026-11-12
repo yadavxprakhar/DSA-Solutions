@@ -1193,5 +1193,10 @@
     "title": "Find Servers That Handled Most Number of Requests",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-4147-minimum-cost-to-acquire-required-items": {
+    "title": "Minimum Cost to Acquire Required Items",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
