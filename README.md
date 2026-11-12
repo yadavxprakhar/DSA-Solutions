@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3372 | 🟠 LC Longest Strictly Increasing Or Strictly Decreasing Subarray | ⚪ Unknown | Arrays | 2026-11-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3372-longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.java) |
 | 4147 | 🟠 LC Minimum Cost To Acquire Required Items | 🟡 Medium | Greedy | 2026-11-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4147-minimum-cost-to-acquire-required-items) |
 | 1710 | 🟠 LC Find Servers That Handled Most Number Of Requests | 🔴 Hard | General | 2026-11-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1710-find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.java) |
 | 1396 | 🟠 LC Count Servers That Communicate | 🟡 Medium | General | 2026-11-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1396-count-servers-that-communicate/count-servers-that-communicate.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 4104 | 🟠 LC Shortest Path With At Most K Consecutive Identical Characters | 🟡 Medium | Graphs | 2026-10-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4104-shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.java) |
 | 4209 | 🟠 LC Palindromic Path Queries In A Tree | 🔴 Hard | Trees | 2026-10-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4209-palindromic-path-queries-in-a-tree) |
 | 4205 | 🟠 LC Minimum Xor Path In A Grid | 🟡 Medium | Graphs | 2026-10-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4205-minimum-xor-path-in-a-grid) |
-| 4342 | 🟠 LC Create Grid With Exactly One Path | 🟢 Easy | Graphs | 2026-10-27 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4342-create-grid-with-exactly-one-path) |
 <!-- RECENT:END -->
 
 ---
