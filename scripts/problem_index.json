@@ -1203,5 +1203,10 @@
     "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3674-count-non-decreasing-subarrays-after-k-operations": {
+    "title": "Count Non-Decreasing Subarrays After K Operations",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
