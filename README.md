@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3674 | 🟠 LC Count Non Decreasing Subarrays After K Operations | ⚪ Unknown | Arrays | 2026-11-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3674-count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.java) |
 | 3372 | 🟠 LC Longest Strictly Increasing Or Strictly Decreasing Subarray | 🟢 Easy | Arrays | 2026-11-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3372-longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.java) |
 | 4147 | 🟠 LC Minimum Cost To Acquire Required Items | 🟡 Medium | Greedy | 2026-11-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4147-minimum-cost-to-acquire-required-items) |
 | 1710 | 🟠 LC Find Servers That Handled Most Number Of Requests | 🔴 Hard | General | 2026-11-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1710-find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 462 | 🟠 LC Minimum Moves To Equal Array Elements Ii | 🟡 Medium | Arrays | 2026-11-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/462-minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.java) |
 | 4104 | 🟠 LC Shortest Path With At Most K Consecutive Identical Characters | 🟡 Medium | Graphs | 2026-10-30 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4104-shortest-path-with-at-most-k-consecutive-identical-characters/shortest-path-with-at-most-k-consecutive-identical-characters.java) |
 | 4209 | 🟠 LC Palindromic Path Queries In A Tree | 🔴 Hard | Trees | 2026-10-29 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4209-palindromic-path-queries-in-a-tree) |
-| 4205 | 🟠 LC Minimum Xor Path In A Grid | 🟡 Medium | Graphs | 2026-10-28 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4205-minimum-xor-path-in-a-grid) |
 <!-- RECENT:END -->
 
 ---
