@@ -1208,5 +1208,10 @@
     "title": "Count Non-Decreasing Subarrays After K Operations",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-3644-minimum-positive-sum-subarray": {
+    "title": "Minimum Positive Sum Subarray ",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
