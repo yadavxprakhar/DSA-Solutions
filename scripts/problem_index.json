@@ -1213,5 +1213,10 @@
     "title": "Minimum Positive Sum Subarray ",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-1631-number-of-sub-arrays-with-odd-sum": {
+    "title": "Number of Sub-arrays With Odd Sum",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
