@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2361 | 🟠 LC Calculate Digit Sum Of A String | ⚪ Unknown | Strings | 2026-11-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2361-calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.java) |
 | 1631 | 🟠 LC Number Of Sub Arrays With Odd Sum | 🟡 Medium | Arrays | 2026-11-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1631-number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.java) |
 | 3644 | 🟠 LC Minimum Positive Sum Subarray | 🟢 Easy | Arrays | 2026-11-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3644-minimum-positive-sum-subarray) |
 | 3674 | 🟠 LC Count Non Decreasing Subarrays After K Operations | 🔴 Hard | Arrays | 2026-11-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3674-count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 2833 | 🟠 LC Count Zero Request Servers | 🟡 Medium | General | 2026-11-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2833-count-zero-request-servers/count-zero-request-servers.java) |
 | 1486 | 🟠 LC Find The Distance Value Between Two Arrays | 🟢 Easy | Arrays | 2026-11-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.java) |
 | 4116 | 🟠 LC Minimum Moves To Equal Array Elements Iii | 🟢 Easy | Arrays | 2026-11-03 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4116-minimum-moves-to-equal-array-elements-iii) |
-| 462 | 🟠 LC Minimum Moves To Equal Array Elements Ii | 🟡 Medium | Arrays | 2026-11-02 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/462-minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.java) |
 <!-- RECENT:END -->
 
 ---
