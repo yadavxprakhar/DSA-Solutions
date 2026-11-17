@@ -1223,5 +1223,10 @@
     "title": "Calculate Digit Sum of a String",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-2879-minimum-changes-to-make-k-semi-palindromes": {
+    "title": "Minimum Changes to Make K Semi-palindromes",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
