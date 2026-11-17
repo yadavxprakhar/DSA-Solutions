@@ -1218,5 +1218,10 @@
     "title": "Number of Sub-arrays With Odd Sum",
     "difficulty": "medium",
     "platform": "leetcode"
+  },
+  "lc-2361-calculate-digit-sum-of-a-string": {
+    "title": "Calculate Digit Sum of a String",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
