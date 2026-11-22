@@ -1228,5 +1228,10 @@
     "title": "Minimum Changes to Make K Semi-palindromes",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-2243-check-if-all-as-appears-before-all-bs": {
+    "title": "Check if All A's Appears Before All B's",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
