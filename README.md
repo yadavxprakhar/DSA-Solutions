@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 2243 | 🟠 LC Check If All As Appears Before All Bs | ⚪ Unknown | General | 2026-11-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2243-check-if-all-as-appears-before-all-bs/check-if-all-as-appears-before-all-bs.java) |
 | 2879 | 🟠 LC Minimum Changes To Make K Semi Palindromes | 🔴 Hard | Strings | 2026-11-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/2879-minimum-changes-to-make-k-semi-palindromes) |
 | 2361 | 🟠 LC Calculate Digit Sum Of A String | 🟢 Easy | Strings | 2026-11-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2361-calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.java) |
 | 1631 | 🟠 LC Number Of Sub Arrays With Odd Sum | 🟡 Medium | Arrays | 2026-11-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1631-number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 1396 | 🟠 LC Count Servers That Communicate | 🟡 Medium | General | 2026-11-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1396-count-servers-that-communicate/count-servers-that-communicate.java) |
 | 2012 | 🟠 LC Process Tasks Using Servers | 🟡 Medium | General | 2026-11-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2012-process-tasks-using-servers/process-tasks-using-servers.java) |
 | 2833 | 🟠 LC Count Zero Request Servers | 🟡 Medium | General | 2026-11-06 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2833-count-zero-request-servers/count-zero-request-servers.java) |
-| 1486 | 🟠 LC Find The Distance Value Between Two Arrays | 🟢 Easy | Arrays | 2026-11-05 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.java) |
 <!-- RECENT:END -->
 
 ---
