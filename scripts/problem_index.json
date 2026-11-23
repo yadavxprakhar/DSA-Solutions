@@ -1233,5 +1233,10 @@
     "title": "Check if All A's Appears Before All B's",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-1477-product-of-the-last-k-numbers": {
+    "title": "Product of the Last K Numbers",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
