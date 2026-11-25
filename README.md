@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 4105 | 🟠 LC Smallest Unique Subarray | ⚪ Unknown | Arrays | 2026-11-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4105-smallest-unique-subarray/smallest-unique-subarray.java) |
 | 3702 | 🟠 LC Maximum Subarray With Equal Products | 🟢 Easy | Arrays | 2026-11-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.java) |
 | 1477 | 🟠 LC Product Of The Last K Numbers | 🟡 Medium | General | 2026-11-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1477-product-of-the-last-k-numbers/product-of-the-last-k-numbers.java) |
 | 2243 | 🟠 LC Check If All As Appears Before All Bs | 🟢 Easy | General | 2026-11-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2243-check-if-all-as-appears-before-all-bs/check-if-all-as-appears-before-all-bs.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3372 | 🟠 LC Longest Strictly Increasing Or Strictly Decreasing Subarray | 🟢 Easy | Arrays | 2026-11-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3372-longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.java) |
 | 4147 | 🟠 LC Minimum Cost To Acquire Required Items | 🟡 Medium | Greedy | 2026-11-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4147-minimum-cost-to-acquire-required-items) |
 | 1710 | 🟠 LC Find Servers That Handled Most Number Of Requests | 🔴 Hard | General | 2026-11-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1710-find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.java) |
-| 1396 | 🟠 LC Count Servers That Communicate | 🟡 Medium | General | 2026-11-08 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1396-count-servers-that-communicate/count-servers-that-communicate.java) |
 <!-- RECENT:END -->
 
 ---
