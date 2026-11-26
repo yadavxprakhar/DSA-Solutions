@@ -1243,5 +1243,10 @@
     "title": "Maximum Subarray With Equal Products",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-4105-smallest-unique-subarray": {
+    "title": "Smallest Unique Subarray",
+    "difficulty": "hard",
+    "platform": "leetcode"
   }
 }
