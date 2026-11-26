@@ -123,6 +123,7 @@ DSA-Solutions/
 <!-- RECENT:START -->
 | # | Problem | Difficulty | Topic | Date | Solution |
 |---|---------|------------|-------|------|----------|
+| 3625 | 🟠 LC Stone Removal Game | ⚪ Unknown | General | 2026-11-26 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3625-stone-removal-game/stone-removal-game.java) |
 | 4105 | 🟠 LC Smallest Unique Subarray | 🔴 Hard | Arrays | 2026-11-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4105-smallest-unique-subarray/smallest-unique-subarray.java) |
 | 3702 | 🟠 LC Maximum Subarray With Equal Products | 🟢 Easy | Arrays | 2026-11-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.java) |
 | 1477 | 🟠 LC Product Of The Last K Numbers | 🟡 Medium | General | 2026-11-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1477-product-of-the-last-k-numbers/product-of-the-last-k-numbers.java) |
@@ -134,7 +135,6 @@ DSA-Solutions/
 | 3674 | 🟠 LC Count Non Decreasing Subarrays After K Operations | 🔴 Hard | Arrays | 2026-11-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3674-count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.java) |
 | 3372 | 🟠 LC Longest Strictly Increasing Or Strictly Decreasing Subarray | 🟢 Easy | Arrays | 2026-11-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3372-longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.java) |
 | 4147 | 🟠 LC Minimum Cost To Acquire Required Items | 🟡 Medium | Greedy | 2026-11-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4147-minimum-cost-to-acquire-required-items) |
-| 1710 | 🟠 LC Find Servers That Handled Most Number Of Requests | 🔴 Hard | General | 2026-11-09 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1710-find-servers-that-handled-most-number-of-requests/find-servers-that-handled-most-number-of-requests.java) |
 <!-- RECENT:END -->
 
 ---
