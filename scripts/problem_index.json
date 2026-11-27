@@ -1248,5 +1248,10 @@
     "title": "Smallest Unique Subarray",
     "difficulty": "hard",
     "platform": "leetcode"
+  },
+  "lc-3625-stone-removal-game": {
+    "title": "Stone Removal Game",
+    "difficulty": "easy",
+    "platform": "leetcode"
   }
 }
