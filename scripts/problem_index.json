@@ -1253,5 +1253,10 @@
     "title": "Stone Removal Game",
     "difficulty": "easy",
     "platform": "leetcode"
+  },
+  "lc-3742-maximum-number-of-items-from-sale-i": {
+    "title": "Maximum Number of Items From Sale I",
+    "difficulty": "medium",
+    "platform": "leetcode"
   }
 }
