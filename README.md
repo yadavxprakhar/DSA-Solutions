@@ -121,18 +121,20 @@ DSA-Solutions/
 ## 🔥 Recent Activity
 
 <!-- RECENT:START -->
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|-------|---------|
-| 2634 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Minimum Common Value | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/2634-minimum-common-value/) |
-| 16 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum Closest | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/16-3sum-closest/) |
-| 15 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) 3Sum | 🟡 Medium | Two Pointers | [View →](./topics/two-pointers/15-3sum/) |
-| 3844 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees | [View →](./topics/trees/3844-number-of-ways-to-assign-edge-weights-i/) |
-| 812 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Rotate String | 🟢 Easy | Strings | [View →](./topics/strings/812-rotate-string/) |
-| 8 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) String to Integer (atoi) | 🟡 Medium | Strings | [View →](./topics/strings/8-string-to-integer-atoi/) |
-| 5 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Longest Palindromic Substring | 🟡 Medium | Strings | [View →](./topics/strings/5-longest-palindromic-substring/) |
-| 451 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Sort Characters By Frequency | 🟡 Medium | Strings | [View →](./topics/strings/451-sort-characters-by-frequency/) |
-| 43 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Multiply Strings | 🟡 Medium | Strings | [View →](./topics/strings/43-multiply-strings/) |
-| 3405 | ![LC](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode&logoColor=white) Count the Number of Special Characters II | 🟡 Medium | Strings | [View →](./topics/strings/3405-count-the-number-of-special-characters-ii/) |
+| # | Problem | Difficulty | Topic | Date | Solution |
+|---|---------|------------|-------|------|----------|
+| 3625 | 🟠 LC Stone Removal Game | 🟢 Easy | General | 2026-11-26 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3625-stone-removal-game/stone-removal-game.java) |
+| 4105 | 🟠 LC Smallest Unique Subarray | 🔴 Hard | Arrays | 2026-11-25 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/4105-smallest-unique-subarray/smallest-unique-subarray.java) |
+| 3702 | 🟠 LC Maximum Subarray With Equal Products | 🟢 Easy | Arrays | 2026-11-24 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3702-maximum-subarray-with-equal-products/maximum-subarray-with-equal-products.java) |
+| 1477 | 🟠 LC Product Of The Last K Numbers | 🟡 Medium | General | 2026-11-23 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1477-product-of-the-last-k-numbers/product-of-the-last-k-numbers.java) |
+| 2243 | 🟠 LC Check If All As Appears Before All Bs | 🟢 Easy | General | 2026-11-22 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2243-check-if-all-as-appears-before-all-bs/check-if-all-as-appears-before-all-bs.java) |
+| 2879 | 🟠 LC Minimum Changes To Make K Semi Palindromes | 🔴 Hard | Strings | 2026-11-17 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/2879-minimum-changes-to-make-k-semi-palindromes) |
+| 2361 | 🟠 LC Calculate Digit Sum Of A String | 🟢 Easy | Strings | 2026-11-16 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/2361-calculate-digit-sum-of-a-string/calculate-digit-sum-of-a-string.java) |
+| 1631 | 🟠 LC Number Of Sub Arrays With Odd Sum | 🟡 Medium | Arrays | 2026-11-15 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/1631-number-of-sub-arrays-with-odd-sum/number-of-sub-arrays-with-odd-sum.java) |
+| 3644 | 🟠 LC Minimum Positive Sum Subarray | 🟢 Easy | Arrays | 2026-11-14 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/3644-minimum-positive-sum-subarray) |
+| 3674 | 🟠 LC Count Non Decreasing Subarrays After K Operations | 🔴 Hard | Arrays | 2026-11-13 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3674-count-non-decreasing-subarrays-after-k-operations/count-non-decreasing-subarrays-after-k-operations.java) |
+| 3372 | 🟠 LC Longest Strictly Increasing Or Strictly Decreasing Subarray | 🟢 Easy | Arrays | 2026-11-12 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/blob/main/3372-longest-strictly-increasing-or-strictly-decreasing-subarray/longest-strictly-increasing-or-strictly-decreasing-subarray.java) |
+| 4147 | 🟠 LC Minimum Cost To Acquire Required Items | 🟡 Medium | Greedy | 2026-11-11 | [View →](https://github.com/yadavxprakhar/DSA-Solutions/tree/main/4147-minimum-cost-to-acquire-required-items) |
 <!-- RECENT:END -->
 
 ---
